@@ -1,0 +1,529 @@
+417__Terrorbird Tussle__during Path of Glouphrie.
+428__Altar Ego__at Ourania Altar.
+427__Bolrie's Diary__during Path of Glouphrie.
+416__Healin' Feelin'__during Path of Glouphrie.
+456__Animal Apogee__during Wolf Whistle.
+440__Temple of Tribes__during Land of the Goblins.
+439__Catacombs and Tombs__during Land of the Goblins.
+437__Zanik's Theme__during Land of the Goblins.
+433__Dusk in Yu'biusk__during Land of the Goblins.
+432__Grimly Fiendish__in a Halloween holiday event (2007 onwards).
+451__Tune from the Dune__during Dealing with Scabaras.
+472__Spa Bizarre__during As a First Resort...
+452__Copris Lunaris__during Dealing with Scabaras.
+348__Narnode's Theme__beneath the Grand Tree.
+441__Tournament!__automatically.
+442__Clan Wars__during Clan Wars.
+487__Charmin' Farmin'__during Vinesweeper.
+444__Bounty Hunter Level 1__automatically.
+443__Bounty Hunter Level 2__automatically.
+445__Bounty Hunter Level 3__automatically.
+401__The Adventurer__automatically.
+499__Creepy__during Kennith's Concerns.
+500__A New Menace__during Kennith's Concerns.
+147__ __automatically.
+350__ __not unlockable!
+360__ __not unlockable!
+195__ __not unlockable!
+219__ __not unlockable!
+218__ __not unlockable!
+227__ __not unlockable!
+196__ __not unlockable!
+431__ __not unlockable!
+574__ __not unlockable!
+239__Brain Battle__on completion of The Great Brain Robbery.
+406__ __not unlockable!
+226__ __not unlockable!
+250__Surok's Theme__on completion of What Lies Below.
+233__ __not unlockable!
+215__ __not unlockable!
+315__ __not unlockable!
+410__ __not unlockable!
+405__ __not unlockable!
+484__ __not unlockable!
+199__ __not unlockable!
+212__ __not unlockable!
+297__ __not unlockable!
+480__ __not unlockable!
+232__ __not unlockable!
+368__ __not unlockable!
+458__ __not unlockable!
+430__ __not unlockable!
+422__ __not unlockable!
+423__ __not unlockable!
+424__ __not unlockable!
+446__ __not unlockable!
+496__The Trade Parade__at the Grand Exchange.
+483__Jungle Community__to the north of Tai Bwo Wannai Village.
+495__ __not unlockable!
+523__Icy Trouble Ahead__during the Perils of Ice Mountain.
+522__Icy a Worried Gnome__during the Perils of Ice Mountain.
+385__ __not unlockable!
+39__ __not unlockable!
+40__ __not unlockable!
+79__ __not unlockable!
+332__ __not unlockable!
+260__ __not unlockable!
+288__ __not unlockable!
+174__ __not unlockable!
+573__ __not unlockable!
+165__ __not unlockable!
+548__ __not unlockable!
+347__ __not unlockable!
+529__ __not unlockable!
+241__ __not unlockable!
+172__ __not unlockable!
+33__ __not unlockable!
+24__ __not unlockable!
+501__Distant Land__not unlockable!
+314__Castle Wars__not unlockable!
+588__Pest Control__not unlockable!
+269__Competition__not unlockable!
+548__Poles Apart__not unlockable!
+372__Far Away__not unlockable!
+4__Hell's Bells__not unlockable!
+512__Bloodbath__at the Blood Altar.
+459__The Route of All Evil__in the Chaos Tunnels.
+467__The Route of the Problem__in the Chaos Tunnels.
+488__The Wrong Path__in the Chaos Tunnels.
+514__The Columbarium__during Legacy of Seergaze.
+518__The Terrible Tunnels__during Legacy of Seergaze.
+521__The Terrible Caverns__during Legacy of Seergaze.
+527__Dillo-gence is Key__during TokTz-Ket-Dill.
+526__Arma Gonna Get You__during TokTz-Ket-Dill.
+531__TokTz-Ket-Ek-Mack__during TokTz-Ket-Dill.
+549__Jailbird__during Rocking Out.
+502__Bittersweet Bunny__in an Easter holiday event (2008 onwards).
+550__Something Fishy__during Rocking Out.
+539__Under the Sand__during Smoking Kills.
+540__Desert Smoke__during Smoking Kills.
+551__A Pirate's Life for Me__during Rocking Out.
+513__Conspiracy: Part 1__during Legacy of Seergaze.
+516__Conspiracy: Part 2__during Legacy of Seergaze.
+457__Scape Summon__automatically.
+507__Guthix's Hunter__during Fist of Guthix.
+503__Waiting for the Hunt__in the Fist of Guthix waiting room.
+536__Cool for Ali Cats__during Smoking Kills.
+561__Second Vision__at the Runecrafting Guild.
+569__Undead Army__during Defender of Varrock.
+566__Zombie Invasion__during Defender of Varrock.
+570__The Ruins of Camdozaal__during Defender of Varrock.
+567__Dream Theatre__during Defender of Varrock.
+552__The Mentor__automatically.
+543__Slain to Waste__during Smoking Kills.
+555__Ardougne Ago__during Meeting History.
+556__Sarah's Lullaby__not unlockable!
+553__Shining Spirit__during Spirit of Summer.
+554__Troubled Spirit__during Spirit of Summer.
+564__Bane of Summer__during Summer's End.
+563__The Vacant Abyss__during Summer's End.
+557__Historic Memories__not unlockable!
+578__Stealing Creation__during Stealing Creation.
+562__Circus__during the Circus.
+579__Dangerous Logic__during the While Guthix Sleeps Quest.
+585__Black of Knight__during the While Guthix Sleeps Quest.
+571__The Art of Hocus-Pocus__in a Halloween holiday event (2008 onwards).
+572__Magic and Mystery__during the Swept Away Quest.
+589__The Sound of Guthix__during the While Guthix Sleeps Quest.
+580__ __not unlockable!
+584__Temple Desecrated__during the While Guthix Sleeps Quest.
+669__Command Centre__at the Command Centre of Mobilising Armies.
+596__The Phoenix__during the In Pyre Need quest.
+668__Mobilising Armies__during Mobilising Armies.
+581__The Evil Within__during the While Guthix Sleeps Quest.
+590__ __not unlockable!
+593__The Dance of the Snow Queen__in a Christmas holiday event (2008 onwards).
+595__Cavernous Mythology__during Myths of the White Lands.
+592__Winter Funfare__during Myths of the White Lands.
+670__Waiting for Battle__during Mobilising Armies.
+641__Lair of Kang Admi__during Glorious Memories.
+639__Frost Fight__during Glorious Memories.
+637__Glorious Recallation...__not unlockable!
+629__Glorious Recallation...__not unlockable!
+628__Glorious Recallation...__not unlockable!
+635__The Adventurers Re-United!__not unlockable!
+648__The Plundered Tomb__during Missing My Mummy.
+649__Ancestral Wisdom__during Missing My Mummy.
+636__Nial's Widow__not unlockable!
+645__The Muspah's Tomb__during The Tale of the Muspah.
+673__Lamistard's Labyrinth__during The Curse of Arrav.
+672__The Heist__during The Curse of Arrav.
+599__Snack Attack__during the Sandwich Lady Random Event.
+671__ __not unlockable!
+598__Soul Wars__during Soul Wars.
+597__The Waiting Game__during Soul Wars.
+647__Rest for the Weary__during The Tale of the Muspah.
+601__Trees Aren't Your Friends__during Evil Tree.
+618__The Throne of Bandos__during The Chosen Commander.
+652__Penguin Possible__during Hunt for Red Raktuber.
+624__Don't Panic Zanik__during The Chosen Commander.
+605__Demise of the Dorgeshuun__during The Chosen Commander.
+617__The Chosen Commander__during The Chosen Commander.
+651__The Pengmersible__during Hunt for Red Raktuber.
+655__Desert Island Bear__during Hunt for Red Raktuber.
+654____not unlockable!
+653____not unlockable!
+650__Ice Day for Penguins__at the Iceberg Hunter area.
+613__Face Off__during The Chosen Commander.
+607____not unlockable!
+709____not unlockable!
+690____not unlockable!
+705____not unlockable!
+686____not unlockable!
+697____not unlockable!
+691____not unlockable!
+702____not unlockable!
+704____not unlockable!
+698____not unlockable!
+703____not unlockable!
+147____not unlockable!
+706____not unlockable!
+700____not unlockable!
+708____not unlockable!
+692____not unlockable!
+688____not unlockable!
+687____not unlockable!
+696____not unlockable!
+689____not unlockable!
+147____not unlockable!
+695____not unlockable!
+685____not unlockable!
+694____not unlockable!
+699__Zaros Stirs__during The Temple at Senntisten Quest.
+693__The Horn of Chill__during The Temple at Senntisten Quest.
+609__Godslayer__during The Chosen Commander.
+608__But We Can Fight__during The Chosen Commander.
+642__Lazy Wabbit__in an Easter holiday event (2009 onwards).
+644__Hare-brained Machines__in an Easter holiday event (2009 onwards).
+658____not unlockable!
+656____not unlockable!
+660____not unlockable!
+665____not unlockable!
+664____not unlockable!
+661____not unlockable!
+662____not unlockable!
+659____not unlockable!
+657____not unlockable!
+663____not unlockable!
+667__Eruption__at the Wilderness volcano.
+717__I'm Counting on You__during Vampyre Slayer.
+666__Kharidian Nights__at the pyramid south of the Ruins of Uzer.
+678__Living Rock__in the Living Rock Caverns.
+674__Exhibit 'A'__when confronting the Odd Old Man's 'Exhibit'.
+677__Fight of the Dwarves__during Forgiveness of a Chaos Dwarf.
+675____not unlockable
+676____not unlockable
+710__Final Destination__in Kuradal's Slayer Dungeon.
+680__Elven Seed__during Within the Light.
+679__Scape Theme__automatically.
+716__Honkytonky Newbie Melody__in The Blue Moon Inn, Varrock.
+718__Honkytonky Harmony__in The Rising Sun Inn, Falador.
+681__Trick or Treat?__in a Halloween holiday event (2009 onwards).
+683__Itsy Bitsy...__in a Halloween holiday event (2009 onwards).
+682__Poison Dreams__in a Halloween holiday event (2009 onwards).
+721__Honkytonky Medieval__in The Dancing Donkey Inn, Varrock.
+714__Jaws of the Dagannoth__during Blood Runs Deep.
+684__The Duke__on the upper floors of Lumbridge Castle.
+713__The Fallen Hero__during Blood Runs Deep.
+711____not unlockable!
+719__Honkytonky Sea Shanty__in The Rusty Anchor Inn, Port Sarim.
+720__Honkytonky Parade__in The Boar's Head Tavern, northeast of Varrock.
+715__Maiasaura__during Blood Runs Deep.
+712____not unlockable!
+726____not unlockable!
+843__Root Canal__during Fairy Tale Part III.
+728__Desolate Ruins__during Nomad's Requiem.
+724__Smorgasbord__during a Christmas holiday event (2009 onwards).
+725__Silent Knight__during a Christmas holiday event (2009 onwards).
+722__Ghost of Christmas Presents__during a Christmas holiday event (2009 onwards).
+723____not unlockable!
+727__Battle of Souls__during Nomad's Requiem.
+729__These Stones__in the basement of the Mage Training Arena.
+730__A Familiar Feeling__during the Familiarisation event.
+731__Dead and Buried__in the Lumbridge Catacombs.
+732__The Pact__during The Blood Pact.
+734__Freshwater__during a Fish Flingers competition.
+735__Saltwater__during a Fish Flingers competition.
+736__Stillwater__during a Fish Flingers competition.
+737__An Easter United__in an Easter holiday event (2010 onwards).
+733____not unlockable!
+842__Thieves' Guild I__in the Thieves' Guild.
+839__Thieves' Guild II__in the Thieves' Guild.
+838__Thieves' Guild III__in the Thieves' Guild.
+840__Thieves' Guild IV__in the Thieves' Guild.
+844__Body Talk__during Elemental Workshop III
+852__Love Story__during Love Story.
+851__Love Lost__during Love Story.
+855__Love and Hate__during Love Story.
+854__Love Bites__during Love Story.
+853__   __not unlockable!
+845__Castle Warz__during Castle Wars, fighting for Zamorak.
+850__   __not unlockable!
+847__Mindful__during Quiet Before the Swarm.
+848__Void Knights' Theme__during Quiet Before the Swarm.
+849__Lortnoc Tsep__during Quiet Before the Swarm.
+147__   __not unlockable!
+846__Judge and Jury__during a court case.
+803__Born to Do This__during Dungeoneering.
+770__   __not unlockable!
+836__ __not unlockable!
+805__ __not unlockable!
+806__ __not unlockable!
+830__ __not unlockable!
+829__ __not unlockable!
+804__ __not unlockable!
+809__ __not unlockable!
+807__ __not unlockable!
+823__ __not unlockable!
+822__ __not unlockable!
+835__ __not unlockable!
+826__ __not unlockable!
+813__ __not unlockable!
+812__ __not unlockable!
+828__ __not unlockable!
+825__ __not unlockable!
+832__Glacialis I__during Dungeoneering.
+834__Glacialis II__during Dungeoneering.
+827__Glacialis III__during Dungeoneering.
+811__Glacialis IV__during Dungeoneering.
+824__Glacialis V__during Dungeoneering.
+808__Glacialis VI__during Dungeoneering.
+831__Glacialis VII__during Dungeoneering.
+810__Glacialis VIII__during Dungeoneering.
+833__Glacialis IX__during Dungeoneering.
+837__Glacialis X__during Dungeoneering.
+816__Astea Frostweb__during Dungeoneering.
+820__To'Kash the Bloodchiller__during Dungeoneering.
+815__Icy Bones__during Dungeoneering.
+818__Luminescent Icefiend__during Dungeoneering.
+817__Gluttonous Behemoth__during Dungeoneering.
+819__Plane-freezer Lakhrahnaz__during Dungeoneering.
+776__ __not unlockable!
+797__ __not unlockable!
+793__ __not unlockable!
+789__ __not unlockable!
+800__ __not unlockable!
+796__ __not unlockable!
+777__ __not unlockable!
+772__ __not unlockable!
+795__ __not unlockable!
+791__ __not unlockable!
+774__ __not unlockable!
+798__ __not unlockable!
+773__ __not unlockable!
+778__ __not unlockable!
+788__ __not unlockable!
+792__ __not unlockable!
+779__Desolo I__during Dungeoneering.
+781__Desolo II__during Dungeoneering.
+799__Desolo III__during Dungeoneering.
+802__Desolo IV__during Dungeoneering.
+794__Desolo V__during Dungeoneering.
+780__Desolo VI__during Dungeoneering.
+771__Desolo VII__during Dungeoneering.
+790__Desolo VIII__during Dungeoneering.
+775__Desolo IX__during Dungeoneering.
+801__Desolo X__during Dungeoneering.
+786__Bal'lak the Pummeller__during Dungeoneering.
+785__Bulwark Beast__during Dungeoneering.
+787__Hobgoblin Geomancer__during Dungeoneering.
+783__Shadow-forger Ihlakhizan__during Dungeoneering.
+784__Unholy Cursebearer__during Dungeoneering.
+782__Divine Skinweaver__during Dungeoneering.
+766__ __not unlockable!
+752__ __not unlockable!
+758__ __not unlockable!
+744__ __not unlockable!
+760__ __not unlockable!
+764__ __not unlockable!
+749__ __not unlockable!
+751__ __not unlockable!
+745__ __not unlockable!
+754__ __not unlockable!
+750__ __not unlockable!
+763__ __not unlockable!
+740__ __not unlockable!
+755__ __not unlockable!
+762__ __not unlockable!
+765__ __not unlockable!
+748__Adorno I__during Dungeoneering.
+769__Adorno II__during Dungeoneering.
+741__Adorno III__during Dungeoneering.
+739__Adorno IV__during Dungeoneering.
+742__Adorno V__during Dungeoneering.
+753__Adorno VI__during Dungeoneering.
+761__Adorno VII__during Dungeoneering.
+757__Adorno VIII__during Dungeoneering.
+747__Adorno IX__during Dungeoneering.
+756__Adorno X__during Dungeoneering.
+767__Har'Lakk the Riftsplitter__during Dungeoneering.
+738__Lexicus Runewright__during Dungeoneering.
+759__Night-gazer Khighorahk__during Dungeoneering.
+768__Sagittare__during Dungeoneering.
+746__Rammernaut__during Dungeoneering.
+743__Stomp__during Dungeoneering.
+888__ __not unlockable!
+884__ __not unlockable!
+887__ __not unlockable!
+875__ __not unlockable!
+878__ __not unlockable!
+879__ __not unlockable!
+866__ __not unlockable!
+881__ __not unlockable!
+871__ __not unlockable!
+874__ __not unlockable!
+862__ __not unlockable!
+861__ __not unlockable!
+869__ __not unlockable!
+867__ __not unlockable!
+868__ __not unlockable!
+883__ __not unlockable!
+928____not unlockable!
+934____not unlockable!
+932____not unlockable!
+921____not unlockable!
+933____not unlockable!
+915____not unlockable!
+918____not unlockable!
+931____not unlockable!
+935____not unlockable!
+912____not unlockable!
+909____not unlockable!
+923____not unlockable!
+929____not unlockable!
+926____not unlockable!
+919____not unlockable!
+910____not unlockable!
+873__Occulo I__during Dungeoneering.
+882__Occulo II__during Dungeoneering.
+880__Occulo III__during Dungeoneering.
+860__Occulo IV__during Dungeoneering.
+886__Occulo V__during Dungeoneering.
+872__Occulo VI__during Dungeoneering.
+885__Occulo VII__during Dungeoneering.
+889__Occulo VIII__during Dungeoneering.
+870__Occulo IX__during Dungeoneering.
+864__Occulo X__during Dungeoneering.
+876__Necrolord__during Dungeoneering.
+891__Gravecreeper__during Dungeoneering.
+865__Skeletal Trio__during Dungeoneering.
+863__Yk'Lagor the Thunderous__during Dungeoneering.
+877__Runed Behemoth__during Dungeoneering.
+892__Flesh-spoiler Haasghenahk__during Dungeoneering.
+930__Torqueo I__during Dungeoneering.
+914__Torqueo II__during Dungeoneering.
+917__Torqueo III__during Dungeoneering.
+911__Torqueo IV__during Dungeoneering.
+927__Torqueo V__during Dungeoneering.
+939__Torqueo VI__during Dungeoneering.
+938__Torqueo VII__during Dungeoneering.
+920__Torqueo VIII__during Dungeoneering.
+925__Torqueo IX__during Dungeoneering.
+936__Torqueo X__during Dungeoneering.
+940__Blink__during Dungeoneering.
+924__Kal'Ger the Warmonger__during Dungeoneering.
+916__Hope Devourer__during Dungeoneering.
+922__Warped Gulega__during Dungeoneering.
+913__Dreadnaught__during Dungeoneering.
+937__World-gorger Shukarhazh__during Dungeoneering.
+858__Out of Control__during A Void Dance.
+856__Chain Reaction__during A Void Dance.
+857__All for the Pest__during A Void Dance.
+859__Destiny__automatically.
+893__Unavoidable Conflict__during a Conquest battle.
+895__Right of Conquest__in the Conquest lobby.
+894__ __not unlockable!
+890__Yk'Lagor the Thunderous__not unlockable!
+896__Gunnarsgrunn__during Gunnar's Ground.
+898__ __not unlockable!
+897__ __not unlockable!
+907__Halloween Party__in a Halloween holiday event (2010 onwards).
+908__Black Zabeth: LIVE!__not unlockable!
+903__Black Zabeth__in a Halloween holiday event (2010 onwards).
+900__In Security__during The Void Stares Back.
+905__Give it Your Pest Shot__during The Void Stares Back.
+901__ __not unlockable!
+904__The Void Stares Back__during The Void Stares Back.
+902__Precarious Void__during The Void Stares Back.
+899__Mystery Revealed__during The Void Stares Back.
+906__Who Are We to Judge?__during The Void Stares Back.
+582__Metalwork__in the Artisan Workshop in Falador.
+952__ __not unlockable!
+953__Christmas Caverns__in a Christmas holiday event (2010 onwards).
+951__Seasonal Sports__in a Christmas holiday event (2010 onwards).
+941__The Task at Hand__by completing 350 Tasks.
+943__Monkey See, Monkey Do__not unlockable!
+947__Monkey See, Monkey Do__not unlockable!
+944__Simian Scuffle__during Do No Evil.
+945__ __not unlockable!
+946__ __not unlockable!
+949__ __not unlockable!
+950__Monkey See, Monkey Do__during Do No Evil.
+958__Rocky Rescue__during King of the Dwarves.
+954__Go with the Flow__during King of the Dwarves.
+955__The Records Chamber__during King of the Dwarves.
+959__Corporate Callousness__during King of the Dwarves.
+942__ __not unlockable!
+948__ __not unlockable!
+957__Colonel Grimsson__during King of the Dwarves.
+956__Only a King__during King of the Dwarves.
+699__ __not unlockable!
+960__Zaros Zeitgeist__in the God Wars Dungeon.
+961__Reunion__during Prisoner of Glouphrie.
+962__Cage Against the Machine__during Prisoner of Glouphrie.
+963__Logical Progression__during Elemental Workshop 4
+965__The Factory Floor__during A Clockwork Syringe.
+966__Spring Song__during an Easter holiday event (2011 onwards).
+967__Lament of the Snow Queen__during an Easter holiday event (2011 onwards).
+971__Troll Invasion__during a Troll Invasion.
+970__Deadliest Catch__not unlockable!
+968__Three of a Kind__during Deadliest Catch.
+969__Deadliest Catch__during Deadliest Catch.
+1008__Return of Lucien__during Ritual of the Mahjarrat.
+972__Kethsi__on entering Kethsi.
+985__Citadel Theme__on entering a Clan Citadel.
+973__Slug Poison__during Salt in the Wound.
+1000__Darkmeyer__during Branches of Darkmeyer.
+1004__Arboretum__during Branches of Darkmeyer.
+1003__Upir Likhyi__during Branches of Darkmeyer.
+1001__Vanescula Fight__during Branches of Darkmeyer.
+974__ __not unlockable!
+975__Natural Selection__in the Jadinko Lair.
+999__ __not unlockable!
+994__Citadel I__in a Clan Citadel.
+997__Citadel II__in a Clan Citadel.
+988__Citadel III__in a Clan Citadel.
+993__Citadel IV__in a Clan Citadel.
+995__Citadel V __in a Clan Citadel.
+982__Citadel VI __in a Clan Citadel.
+976__Citadel VII __in a Clan Citadel.
+984__Citadel VIII __in a Clan Citadel.
+992__Citadel IX __in a Clan Citadel.
+998__Citadel X __in a Clan Citadel.
+978__Citadel XI __in a Clan Citadel.
+990__Citadel XII __in a Clan Citadel.
+987__Citadel XIII __in a Clan Citadel.
+989__Citadel XIV __in a Clan Citadel.
+979__Citadel XV __in a Clan Citadel.
+996__Citadel XVI __in a Clan Citadel.
+980__ __not unlockable!
+985__ __not unlockable!
+983__Architect of War__in a Clan Citadel.
+981__ __not unlockable!
+977__ __not unlockable!
+1005__ __not unlockable!
+1009__ __not unlockable!
+1013__DCII Mash-up (Infinity Mix)__in a Halloween holiday event (2011 onwards).
+147__ __not unlockable!
+1046__Valerio's Song__during the One Piercing Note Quest.
+1032__Troubadour Dance__during the One Piercing Note Quest.
+1034__Citharede Requiem__during the One Piercing Note Quest.
+1026__Traveller's Tale__during the One Piercing Note Quest.
+1017__Dominion Lobby I__in the Dominion Tower.
+1023__Dominion Lobby II__in the Dominion Tower.
+1014__Dominion Lobby III__in the Dominion Tower.
+1015__Dominion Tower I__in the Dominion Tower.
+1022__Dominion Tower II__in the Dominion Tower.
+1018__Dominion Tower III__in the Dominion Tower.
+1016__Dominion Tower IV__in the Dominion Tower.
+1021__Dominion Tower V__in the Dominion Tower.

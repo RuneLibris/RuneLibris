@@ -1,0 +1,1014 @@
+177__Adventure__default info
+50__Al Kharid__default info
+102__Alone__default info
+90__Ambient Jungle__default info
+36__Arabian__default info
+123__Arabian2__default info
+124__Arabian3__default info
+19__Arabique__default info
+160__Army of Darkness__default info
+186__Arrival__default info
+24__Attack1__default info
+25__Attack2__default info
+26__Attack3__default info
+27__Attack4__default info
+28__Attack5__default info
+29__Attack6__default info
+180__Attention__default info
+2__Autumn Voyage__default info
+324__Background__default info
+152__Ballad of Enchantment__default info
+99__Baroque__default info
+100__Beyond__default info
+83__Big Chords__default info
+64__Book of Spells__default info
+104__Camelot__default info
+325__Cave Background__default info
+68__Cavern__default info
+63__Chain of Command__default info
+181__Crystal Cave__default info
+169__Crystal Sword__default info
+182__Dangerous__default info
+326__Dark__default info
+37__Deep Wildy__default info
+174__Desert Voyage__default info
+56__Doorways__default info
+327__Dream__default info
+173__Dunjun__default info
+69__Egypt__default info
+148__Emotion__default info
+138__Emperor__default info
+106__Expanse__default info
+41__Expecting__default info
+153__Expedition__default info
+118__Faerie__default info
+72__Fanfare__default info
+167__Fanfare3__default info
+119__Fishing__default info
+163__Flute Salad__default info
+98__Forever__default info
+159__Gaol__default info
+125__Garden__default info
+22__Gnome King__default info
+310__Dwarf Theme__default info
+33__Gnome Village__default info
+101__Gnome Village2__default info
+313__Goblin Village__default info
+112__Gnomeball__default info
+116__Greatness__default info
+76__Harmony__default info
+55__High Seas__default info
+18__Horizon__default info
+1__Iban__default info
+188__In the Manor__default info
+96__Inspiration__default info
+95__Intrepid__default info
+6__Jolly-R__default info
+172__Jungle Island__default info
+114__Jungly1__default info
+115__Jungly2__default info
+117__Jungly3__default info
+191__Knightly__default info
+60__Lasting__default info
+66__Legion__default info
+113__Lightness__default info
+74__Lightwalk__default info
+161__Long Ago__default info
+12__Long Way Home__default info
+20__Lullaby__default info
+13__Mage Arena__default info
+185__Magic Dance__default info
+184__Magical Journey__default info
+328__March__default info
+157__Medieval__default info
+193__Mellow__default info
+107__Miles Away__default info
+65__Miracle Dance__default info
+21__Monarch Waltz__default info
+10__Moody__default info
+155__Neverland__default info
+62__Newbie Melody__default info
+127__Nightfall__default info
+103__Oriental__default info
+7__Overture__default info
+93__Parade__default info
+158__Quest__default info
+329__Regal__default info
+78__Reggae__default info
+89__Reggae2__default info
+91__Riverside__default info
+53__Royale__default info
+57__Rune Essence__default info
+5__Sad Meadow__default info
+144__Scape Cave__default info
+400__Scape Original__default info
+331__Scape Sad__default info
+332__Scape Wild__default info
+92__Sea Shanty__default info
+35__Sea Shanty2__default info
+110__Serenade__default info
+52__Serene__default info
+122__Shine__default info
+80__Soundscape__default info
+175__Spirit__default info
+77__Splendour__default info
+333__Spooky__default info
+129__Spooky Jungle__default info
+108__Starlight__default info
+151__Start__default info
+111__Still Night__default info
+140__Talking Forest__default info
+79__The Desert__default info
+170__The Shadow__default info
+133__The Tower__default info
+109__Theme__default info
+38__Trawler__default info
+51__Trawler Minor__default info
+130__Tree Spirits__default info
+162__Tribal Background__default info
+165__Tribal__default info
+94__Tribal2__default info
+192__Trinity__default info
+183__Troubled__default info
+179__Underground__default info
+3__Unknown Land__default info
+323__Underground Pass__default info
+70__Upcoming__default info
+75__Venture__default info
+85__Vision__default info
+30__Voodoo Cult__default info
+32__Voyage__default info
+49__Wander__default info
+82__Waterfall__default info
+435__Wilderness__default info
+42__Wilderness2__default info
+43__Wilderness3__default info
+14__Witching__default info
+34__Wonder__default info
+81__Wonderous__default info
+15__Workshop__default info
+168__Lonesome__default info
+16__Scape Main__default info
+466__Ground Scape__default info
+321__Scape Scared__default info
+547__Scape Santa__default info
+189__Land of Snow__default info
+468__Shaping Up__default info
+492__Exam Conditions__default info
+429__Roots and Flutes__default info
+494__Incarceration__default info
+54__Scape Soft__default info
+120__Shining__default info
+145__Yesteryear__default info
+166__Fanfare2__default info
+105__Tomorrow__default info
+47__Duel Arena__default info
+87__Ice Melody__default info
+449__Wild Isle__default info
+46__Harmony2__default info
+45__Venture2__default info
+164__Landlubber__default info
+176__Undercurrent__default info
+58__Nomad__default info
+146__Zealot__default info
+330__Cellar Song__default info
+190__Heart and Mind__default info
+67__Close Quarters__default info
+17__Escape__default info
+128__Grumpy__default info
+71__Chompy Hunt__default info
+88__Twilight__default info
+48__Morytania__default info
+84__Dead Quiet__default info
+61__Village__default info
+154__Bone Dance__default info
+156__Mausoleum__default info
+121__Forbidden__default info
+59__Cursed__default info
+131__Understanding__default info
+149__Principality__default info
+187__Tremble__default info
+9__Kingdom__default info
+97__Hermit__default info
+134__La Mort__default info
+241__Stagnant__default info
+132__Breeze__default info
+243__Stratosphere__default info
+242__Time Out__default info
+245__Natural__default info
+246__Grotto__default info
+244__Waterlogged__default info
+247__Artistry__default info
+248__Aztec__default info
+252__Elven Mist__default info
+251__Forest__default info
+253__Lost Soul__default info
+254__Meridian__default info
+255__Woodland__default info
+256__Overpass__default info
+258__Contest__default info
+257__Sojourn__default info
+259__Crystal Castle__default info
+261__Marzipan__default info
+260__Insect Queen__default info
+264__Mad Eadgar__default info
+263__Bandit Camp__default info
+267__Sunburn__default info
+266__Bone Dry__default info
+269__Competition__default info
+11__Spooky2__default info
+268__Everywhere__default info
+270__Exposed__default info
+271__Well of Voyage__default info
+277__Haunted Mine__default info
+262__Righteousness__default info
+278__Deep Down__default info
+282__Chamber__default info
+284__Miscellania__default info
+285__Etcetera__default info
+286__Shadowland__default info
+287__Lair__default info
+288__Deadlands__default info
+289__Rellekka__default info
+290__Saga__default info
+291__Borderland__default info
+292__Stranded__default info
+293__Legend__default info
+294__Frostbite__default info
+295__Warrior__default info
+296__Technology__default info
+303__Monkey Madness__default info
+305__Anywhere__default info
+304__Marooned__default info
+306__Island Life__default info
+307__Temple__default info
+308__Suspicious__default info
+311__Showdown__default info
+312__Find My Way__default info
+314__Castle Wars__default info
+317__Melodrama__default info
+318__Ready for Battle__default info
+319__Stillness__default info
+320__Lighthouse__default info
+346__Goblin Game__default info
+322__Out of the Deep__default info
+4__Hell's Bells__default info
+316__The Navigator__default info
+8__Wildwood__default info
+141__Barbarianism__default info
+142__Complication__default info
+143__Down to Earth__default info
+178__Courage__default info
+265__Superstition__default info
+334__Pirates of Peril__default info
+336__Dangerous Road__default info
+335__Romancing the Crone__default info
+337__Faithless__default info
+338__Tiptoe__default info
+339__The Terrible Tower__default info
+340__Masquerade__default info
+341__The Slayer__default info
+342__Body Parts__default info
+344__Fenkenstrain's Refrain__default info
+343__Monster Melee__default info
+347__Fruits de Mer__default info
+345__Barking Mad__default info
+351__Dynasty__default info
+353__Shipwrecked__default info
+354__Phasmatys__default info
+355__The Other Side__default info
+356__Settlement__default info
+357__Cave of Beasts__default info
+358__Dragontooth Island__default info
+352__Scarab__default info
+359__Sarcophagus__default info
+361__Down Below__default info
+363__7th Realm__default info
+362__Karamja Jam__default info
+364__Pathways__default info
+366__Eagle Peak__default info
+369__Time to Mine__default info
+370__In Between__default info
+373__Claustrophobia__default info
+372__Far Away__default info
+375__Fight or Flight__default info
+376__Temple of Light__default info
+377__The Golem__default info
+378__Forgotten__default info
+379__Throne of the Demon__default info
+380__Dance of the Undead__default info
+381__Dangerous Way__default info
+383__City of the Dead__default info
+384__Hypnotized__default info
+387__Sphinx__default info
+388__Mirage__default info
+389__Cave of the Goblins__default info
+474__Bish Bash Bosh__default info
+392__Zogre Dance__default info
+393__Path of Peril__default info
+394__Wayward__default info
+395__Tale of Keldagrim__default info
+396__Land of the Dwarves__default info
+397__Tears of Guthix__default info
+390__Romper Chomper__default info
+402__The Rogues' Den__default info
+403__The Far Side__default info
+407__The Lost Melody__default info
+411__Evil Bob's Island__default info
+412__Into the Abyss__default info
+413__The Quiz Master__default info
+398__The Power of Tears__default info
+147__ __default info
+419__Pheasant Peasant__default info
+420__The Lost Tribe__default info
+418__Corporal Punishment__default info
+425__The Chosen__default info
+434__Have a Blast__default info
+436__Forgettable Melody__default info
+44__Right on Track__default info
+447__Over To Nardah__default info
+448__The Monsters Below__default info
+461__The Desolate Isle__default info
+462__Spirits of Elid__default info
+464__The Genie__default info
+465__Desert Heat__default info
+463__Fire and Brimstone__default info
+469__In the Pits__default info
+409__Frogland__default info
+470__Strange Place__default info
+471__Brew Hoo Hoo__default info
+473__TzHaar!__default info
+475__Wild Side__default info
+476__Dead Can Dance__default info
+478__The Cellar Dwellers__default info
+479__Jungle Troubles__default info
+481__Catch Me If You Can__default info
+482__Rat a Tat Tat__default info
+485__The Noble Rodent__default info
+489__Bubble and Squeak__default info
+490__Sarim's Vermin__default info
+491__Rat Hunt__default info
+621__Homescape__default info
+497__Aye Car Rum Ba__default info
+498__Blistering Barnacles__default info
+501__Distant Land__default info
+504__Fangs for the Memory__default info
+505__Pharaoh's Tomb__default info
+506__Land Down Under__default info
+508__Meddling Kids__default info
+509__Corridors of Power__default info
+510__Slither and Thither__default info
+511__In the Clink__default info
+515__Mudskipper Melody__default info
+517__Subterranea__default info
+519__Incantation__default info
+520__Grip of the Talon__default info
+198__Dagannoth Dawn__default info
+524__Xenophobe__default info
+525__Title Fight__default info
+528__Victory is Mine__default info
+529__Woe of the Wyvern__default info
+530__In the Brine__default info
+532__Diango's Little Helpers__default info
+533__Roll the Bones__default info
+534__Mind Over Matter__default info
+535__Golden Touch__default info
+147__ __default info
+541__The Enchanter__default info
+207__Scape Hunter__default info
+544__Making Waves__default info
+545__Cabin Fever__default info
+546__Last Stand__default info
+542__Lament__default info
+548__Poles Apart__default info
+455__Scarabaeoidea__default info
+453__Jungle Hunt__default info
+454__Home Sweet Home__default info
+460__Joy of the Hunt__default info
+537__Dogs of War__default info
+558__Food for Thought__default info
+559__Malady__default info
+560__Dance of Death__default info
+565__Wrath and Ruin__default info
+568__Storm Brew__default info
+573__The Mad Mole__default info
+576__Davy Jones's Locker__default info
+575__Chickened Out__default info
+477__Hot 'n' Bothered__default info
+577__Mastermindless__default info
+964__Too Many Cooks...__default info
+583__Chef Surprize__default info
+587__Null and Void__default info
+588__Pest Control__default info
+591__Tomb Raider__default info
+594__No Way Out__default info
+600__Method of Madness__default info
+602__Fear and Loathing__default info
+603__Funny Bunnies__default info
+604__Assault and Battery__default info
+606__The Depths__default info
+610__Distillery Hilarity__default info
+611__Trouble Brewing__default info
+612__Head to Head__default info
+614__Pinball Wizard__default info
+615__Beetle Juice__default info
+616__Back to Life__default info
+213__Labyrinth__default info
+493__Safety in Numbers__default info
+586__Everlasting Fire__default info
+622__Waking Dream__default info
+623__Dreamstate__default info
+625__The Lunar Isle__default info
+627__Isle of Everywhere__default info
+626__Way of the Enchanter__default info
+634__Warriors' Guild__default info
+631__Life's a Beach!__default info
+633__On the Wing__default info
+632__Little Cave of Horrors__default info
+200__The Mollusc Menace__default info
+630__The Galleon__default info
+638__H.A.M. Fisted__default info
+197__Lament of Meiyerditch__default info
+640__Sigmund's Showdown__default info
+643__The Last Shanty__default info
+646__Night of the Vampyre__default info
+126__We Are the Fairies__default info
+86__Dimension X__default info
+73__All's Fairy in Love and War__default info
+222__Major Miner__default info
+221__Jester Minute__default info
+223__Norse Code__default info
+225__Volcanic Vikings__default info
+220__Island of the Trolls__default info
+211__Pirates of Penance__default info
+194__Brimstail's Scales__default info
+203__My Arm's Journey__default info
+201__Slug a Bug Ball__default info
+202__Prime Time__default info
+274__Rising Damp__default info
+620__Where Eagles Lair__default info
+224__Ogre the Top__default info
+237__Work Work Work__default info
+235__Magic Magic Magic__default info
+236__Mutant Medley__default info
+240__Dorgeshuun City__default info
+249__Dorgeshuun Deep__default info
+206__Floating Free__default info
+204__Roc and Roll__default info
+205__High Spirits__default info
+309__Looking Back__default info
+208__Jungle Island XMAS__default info
+210__Sea Shanty XMAS__default info
+209__Jungle Bells__default info
+230__Garden of Summer__default info
+229__Garden of Spring__default info
+231__Garden of Winter__default info
+228__Garden of Autumn__default info
+217__Have an Ice Day__default info
+238__Zombiism__default info
+234__Creature Cruelty__default info
+272__Alternative Root__default info
+216__Espionage__default info
+214__Undead Dungeon__default info
+275__Slice of Station__default info
+367__Barb Wire__default info
+349__Impetuous__default info
+273__Easter Jig__default info
+279__Ham Attack__default info
+281__Slice of Silent Movie__default info
+276__Ham and Seek__default info
+450__Venomous__default info
+150__Mouse Trap__default info
+23__Fe Fi Fo Fum__default info
+371__School's Out__default info
+299__Inadequacy__default info
+298__Illusive__default info
+283__Everlasting__default info
+300__Untouchable__default info
+301__Down and Out__default info
+302__On the Up__default info
+365__Melzar's Maze__default info
+391__Zamorak Zoo__default info
+408__Strength of Saradomin__default info
+386__Bandos Battalion__default info
+404__Armadyl Alliance__default info
+399__Armageddon__default info
+421__Storeroom Shuffle__default info
+414__The Longramble Scramble__default info
+426__Waste Defaced__default info
+374__Knightmare__default info
+382__Lore and Order__default info
+417__Terrorbird Tussle__during Path of Glouphrie.
+428__Altar Ego__at Ourania Altar.
+427__Bolrie's Diary__during Path of Glouphrie.
+416__Healin' Feelin'__during Path of Glouphrie.
+456__Animal Apogee__during Wolf Whistle.
+440__Temple of Tribes__during Land of the Goblins.
+439__Catacombs and Tombs__during Land of the Goblins.
+437__Zanik's Theme__during Land of the Goblins.
+433__Dusk in Yu'biusk__during Land of the Goblins.
+432__Grimly Fiendish__in a Halloween holiday event (2007 onwards).
+451__Tune from the Dune__during Dealing with Scabaras.
+472__Spa Bizarre__during As a First Resort...
+452__Copris Lunaris__during Dealing with Scabaras.
+348__Narnode's Theme__beneath the Grand Tree.
+441__Tournament!__automatically.
+442__Clan Wars__during Clan Wars.
+487__Charmin' Farmin'__during Vinesweeper.
+444__Bounty Hunter Level 1__automatically.
+443__Bounty Hunter Level 2__automatically.
+445__Bounty Hunter Level 3__automatically.
+401__The Adventurer__automatically.
+499__Creepy__during Kennith's Concerns.
+500__A New Menace__during Kennith's Concerns.
+147__ __automatically.
+350__ __not unlockable!
+360__ __not unlockable!
+195__ __not unlockable!
+219__ __not unlockable!
+218__ __not unlockable!
+227__ __not unlockable!
+196__ __not unlockable!
+431__ __not unlockable!
+574__ __not unlockable!
+239__Brain Battle__on completion of The Great Brain Robbery.
+406__ __not unlockable!
+226__ __not unlockable!
+250__Surok's Theme__on completion of What Lies Below.
+233__ __not unlockable!
+215__ __not unlockable!
+315__ __not unlockable!
+410__ __not unlockable!
+405__ __not unlockable!
+484__ __not unlockable!
+199__ __not unlockable!
+212__ __not unlockable!
+297__ __not unlockable!
+480__ __not unlockable!
+232__ __not unlockable!
+368__ __not unlockable!
+458__ __not unlockable!
+430__ __not unlockable!
+422__ __not unlockable!
+423__ __not unlockable!
+424__ __not unlockable!
+446__ __not unlockable!
+496__The Trade Parade__at the Grand Exchange.
+483__Jungle Community__to the north of Tai Bwo Wannai Village.
+495__ __not unlockable!
+523__Icy Trouble Ahead__during the Perils of Ice Mountain.
+522__Icy a Worried Gnome__during the Perils of Ice Mountain.
+385__ __not unlockable!
+39__ __not unlockable!
+40__ __not unlockable!
+79__ __not unlockable!
+332__ __not unlockable!
+260__ __not unlockable!
+288__ __not unlockable!
+174__ __not unlockable!
+573__ __not unlockable!
+165__ __not unlockable!
+548__ __not unlockable!
+347__ __not unlockable!
+529__ __not unlockable!
+241__ __not unlockable!
+172__ __not unlockable!
+33__ __not unlockable!
+24__ __not unlockable!
+501__Distant Land__not unlockable!
+314__Castle Wars__not unlockable!
+588__Pest Control__not unlockable!
+269__Competition__not unlockable!
+548__Poles Apart__not unlockable!
+372__Far Away__not unlockable!
+4__Hell's Bells__not unlockable!
+512__Bloodbath__at the Blood Altar.
+459__The Route of All Evil__in the Chaos Tunnels.
+467__The Route of the Problem__in the Chaos Tunnels.
+488__The Wrong Path__in the Chaos Tunnels.
+514__The Columbarium__during Legacy of Seergaze.
+518__The Terrible Tunnels__during Legacy of Seergaze.
+521__The Terrible Caverns__during Legacy of Seergaze.
+527__Dillo-gence is Key__during TokTz-Ket-Dill.
+526__Arma Gonna Get You__during TokTz-Ket-Dill.
+531__TokTz-Ket-Ek-Mack__during TokTz-Ket-Dill.
+549__Jailbird__during Rocking Out.
+502__Bittersweet Bunny__in an Easter holiday event (2008 onwards).
+550__Something Fishy__during Rocking Out.
+539__Under the Sand__during Smoking Kills.
+540__Desert Smoke__during Smoking Kills.
+551__A Pirate's Life for Me__during Rocking Out.
+513__Conspiracy: Part 1__during Legacy of Seergaze.
+516__Conspiracy: Part 2__during Legacy of Seergaze.
+457__Scape Summon__automatically.
+507__Guthix's Hunter__during Fist of Guthix.
+503__Waiting for the Hunt__in the Fist of Guthix waiting room.
+536__Cool for Ali Cats__during Smoking Kills.
+561__Second Vision__at the Runecrafting Guild.
+569__Undead Army__during Defender of Varrock.
+566__Zombie Invasion__during Defender of Varrock.
+570__The Ruins of Camdozaal__during Defender of Varrock.
+567__Dream Theatre__during Defender of Varrock.
+552__The Mentor__automatically.
+543__Slain to Waste__during Smoking Kills.
+555__Ardougne Ago__during Meeting History.
+556__Sarah's Lullaby__not unlockable!
+553__Shining Spirit__during Spirit of Summer.
+554__Troubled Spirit__during Spirit of Summer.
+564__Bane of Summer__during Summer's End.
+563__The Vacant Abyss__during Summer's End.
+557__Historic Memories__not unlockable!
+578__Stealing Creation__during Stealing Creation.
+562__Circus__during the Circus.
+579__Dangerous Logic__during the While Guthix Sleeps Quest.
+585__Black of Knight__during the While Guthix Sleeps Quest.
+571__The Art of Hocus-Pocus__in a Halloween holiday event (2008 onwards).
+572__Magic and Mystery__during the Swept Away Quest.
+589__The Sound of Guthix__during the While Guthix Sleeps Quest.
+580__ __not unlockable!
+584__Temple Desecrated__during the While Guthix Sleeps Quest.
+669__Command Centre__at the Command Centre of Mobilising Armies.
+596__The Phoenix__during the In Pyre Need quest.
+668__Mobilising Armies__during Mobilising Armies.
+581__The Evil Within__during the While Guthix Sleeps Quest.
+590__ __not unlockable!
+593__The Dance of the Snow Queen__in a Christmas holiday event (2008 onwards).
+595__Cavernous Mythology__during Myths of the White Lands.
+592__Winter Funfare__during Myths of the White Lands.
+670__Waiting for Battle__during Mobilising Armies.
+641__Lair of Kang Admi__during Glorious Memories.
+639__Frost Fight__during Glorious Memories.
+637__Glorious Recallation...__not unlockable!
+629__Glorious Recallation...__not unlockable!
+628__Glorious Recallation...__not unlockable!
+635__The Adventurers Re-United!__not unlockable!
+648__The Plundered Tomb__during Missing My Mummy.
+649__Ancestral Wisdom__during Missing My Mummy.
+636__Nial's Widow__not unlockable!
+645__The Muspah's Tomb__during The Tale of the Muspah.
+673__Lamistard's Labyrinth__during The Curse of Arrav.
+672__The Heist__during The Curse of Arrav.
+599__Snack Attack__during the Sandwich Lady Random Event.
+671__ __not unlockable!
+598__Soul Wars__during Soul Wars.
+597__The Waiting Game__during Soul Wars.
+647__Rest for the Weary__during The Tale of the Muspah.
+601__Trees Aren't Your Friends__during Evil Tree.
+618__The Throne of Bandos__during The Chosen Commander.
+652__Penguin Possible__during Hunt for Red Raktuber.
+624__Don't Panic Zanik__during The Chosen Commander.
+605__Demise of the Dorgeshuun__during The Chosen Commander.
+617__The Chosen Commander__during The Chosen Commander.
+651__The Pengmersible__during Hunt for Red Raktuber.
+655__Desert Island Bear__during Hunt for Red Raktuber.
+654____not unlockable!
+653____not unlockable!
+650__Ice Day for Penguins__at the Iceberg Hunter area.
+613__Face Off__during The Chosen Commander.
+607____not unlockable!
+709____not unlockable!
+690____not unlockable!
+705____not unlockable!
+686____not unlockable!
+697____not unlockable!
+691____not unlockable!
+702____not unlockable!
+704____not unlockable!
+698____not unlockable!
+703____not unlockable!
+147____not unlockable!
+706____not unlockable!
+700____not unlockable!
+708____not unlockable!
+692____not unlockable!
+688____not unlockable!
+687____not unlockable!
+696____not unlockable!
+689____not unlockable!
+147____not unlockable!
+695____not unlockable!
+685____not unlockable!
+694____not unlockable!
+699__Zaros Stirs__during The Temple at Senntisten Quest.
+693__The Horn of Chill__during The Temple at Senntisten Quest.
+609__Godslayer__during The Chosen Commander.
+608__But We Can Fight__during The Chosen Commander.
+642__Lazy Wabbit__in an Easter holiday event (2009 onwards).
+644__Hare-brained Machines__in an Easter holiday event (2009 onwards).
+658____not unlockable!
+656____not unlockable!
+660____not unlockable!
+665____not unlockable!
+664____not unlockable!
+661____not unlockable!
+662____not unlockable!
+659____not unlockable!
+657____not unlockable!
+663____not unlockable!
+667__Eruption__at the Wilderness volcano.
+717__I'm Counting on You__during Vampyre Slayer.
+666__Kharidian Nights__at the pyramid south of the Ruins of Uzer.
+678__Living Rock__in the Living Rock Caverns.
+674__Exhibit 'A'__when confronting the Odd Old Man's 'Exhibit'.
+677__Fight of the Dwarves__during Forgiveness of a Chaos Dwarf.
+675____not unlockable
+676____not unlockable
+710__Final Destination__in Kuradal's Slayer Dungeon.
+680__Elven Seed__during Within the Light.
+679__Scape Theme__automatically.
+716__Honkytonky Newbie Melody__in The Blue Moon Inn, Varrock.
+718__Honkytonky Harmony__in The Rising Sun Inn, Falador.
+681__Trick or Treat?__in a Halloween holiday event (2009 onwards).
+683__Itsy Bitsy...__in a Halloween holiday event (2009 onwards).
+682__Poison Dreams__in a Halloween holiday event (2009 onwards).
+721__Honkytonky Medieval__in The Dancing Donkey Inn, Varrock.
+714__Jaws of the Dagannoth__during Blood Runs Deep.
+684__The Duke__on the upper floors of Lumbridge Castle.
+713__The Fallen Hero__during Blood Runs Deep.
+711____not unlockable!
+719__Honkytonky Sea Shanty__in The Rusty Anchor Inn, Port Sarim.
+720__Honkytonky Parade__in The Boar's Head Tavern, northeast of Varrock.
+715__Maiasaura__during Blood Runs Deep.
+712____not unlockable!
+726____not unlockable!
+843__Root Canal__during Fairy Tale Part III.
+728__Desolate Ruins__during Nomad's Requiem.
+724__Smorgasbord__during a Christmas holiday event (2009 onwards).
+725__Silent Knight__during a Christmas holiday event (2009 onwards).
+722__Ghost of Christmas Presents__during a Christmas holiday event (2009 onwards).
+723____not unlockable!
+727__Battle of Souls__during Nomad's Requiem.
+729__These Stones__in the basement of the Mage Training Arena.
+730__A Familiar Feeling__during the Familiarisation event.
+731__Dead and Buried__in the Lumbridge Catacombs.
+732__The Pact__during The Blood Pact.
+734__Freshwater__during a Fish Flingers competition.
+735__Saltwater__during a Fish Flingers competition.
+736__Stillwater__during a Fish Flingers competition.
+737__An Easter United__in an Easter holiday event (2010 onwards).
+733____not unlockable!
+842__Thieves' Guild I__in the Thieves' Guild.
+839__Thieves' Guild II__in the Thieves' Guild.
+838__Thieves' Guild III__in the Thieves' Guild.
+840__Thieves' Guild IV__in the Thieves' Guild.
+844__Body Talk__during Elemental Workshop III
+852__   __not unlockable!
+851__Love Lost__during Love Story.
+855__Love and Hate__during Love Story.
+854__Love Bites__during Love Story.
+853__   __not unlockable!
+845__Castle Warz__during Castle Wars, fighting for Zamorak.
+850__   __not unlockable!
+847__Mindful__during Quiet Before the Swarm.
+848__Void Knights' Theme__during Quiet Before the Swarm.
+849__Lortnoc Tsep__during Quiet Before the Swarm.
+147__   __not unlockable!
+846__Judge and Jury__during a court case.
+803__Born to Do This__during Dungeoneering.
+770__   __not unlockable!
+836__ __not unlockable!
+805__ __not unlockable!
+806__ __not unlockable!
+830__ __not unlockable!
+829__ __not unlockable!
+804__ __not unlockable!
+809__ __not unlockable!
+807__ __not unlockable!
+823__ __not unlockable!
+822__ __not unlockable!
+835__ __not unlockable!
+826__ __not unlockable!
+813__ __not unlockable!
+812__ __not unlockable!
+828__ __not unlockable!
+825__ __not unlockable!
+832__Glacialis I__during Dungeoneering.
+834__Glacialis II__during Dungeoneering.
+827__Glacialis III__during Dungeoneering.
+811__Glacialis IV__during Dungeoneering.
+824__Glacialis V__during Dungeoneering.
+808__Glacialis VI__during Dungeoneering.
+831__Glacialis VII__during Dungeoneering.
+810__Glacialis VIII__during Dungeoneering.
+833__Glacialis IX__during Dungeoneering.
+837__Glacialis X__during Dungeoneering.
+816__Astea Frostweb__during Dungeoneering.
+820__To'Kash the Bloodchiller__during Dungeoneering.
+815__Icy Bones__during Dungeoneering.
+818__Luminescent Icefiend__during Dungeoneering.
+817__Gluttonous Behemoth__during Dungeoneering.
+819__Plane-freezer Lakhrahnaz__during Dungeoneering.
+776__ __not unlockable!
+797__ __not unlockable!
+793__ __not unlockable!
+789__ __not unlockable!
+800__ __not unlockable!
+796__ __not unlockable!
+777__ __not unlockable!
+772__ __not unlockable!
+795__ __not unlockable!
+791__ __not unlockable!
+774__ __not unlockable!
+798__ __not unlockable!
+773__ __not unlockable!
+778__ __not unlockable!
+788__ __not unlockable!
+792__ __not unlockable!
+779__Desolo I__during Dungeoneering.
+781__Desolo II__during Dungeoneering.
+799__Desolo III__during Dungeoneering.
+802__Desolo IV__during Dungeoneering.
+794__Desolo V__during Dungeoneering.
+780__Desolo VI__during Dungeoneering.
+771__Desolo VII__during Dungeoneering.
+790__Desolo VIII__during Dungeoneering.
+775__Desolo IX__during Dungeoneering.
+801__Desolo X__during Dungeoneering.
+786__Bal'lak the Pummeller__during Dungeoneering.
+785__Bulwark Beast__during Dungeoneering.
+787__Hobgoblin Geomancer__during Dungeoneering.
+783__Shadow-forger Ihlakhizan__during Dungeoneering.
+784__Unholy Cursebearer__during Dungeoneering.
+782__Divine Skinweaver__during Dungeoneering.
+766__ __not unlockable!
+752__ __not unlockable!
+758__ __not unlockable!
+744__ __not unlockable!
+760__ __not unlockable!
+764__ __not unlockable!
+749__ __not unlockable!
+751__ __not unlockable!
+745__ __not unlockable!
+754__ __not unlockable!
+750__ __not unlockable!
+763__ __not unlockable!
+740__ __not unlockable!
+755__ __not unlockable!
+762__ __not unlockable!
+765__ __not unlockable!
+748__Adorno I__during Dungeoneering.
+769__Adorno II__during Dungeoneering.
+741__Adorno III__during Dungeoneering.
+739__Adorno IV__during Dungeoneering.
+742__Adorno V__during Dungeoneering.
+753__Adorno VI__during Dungeoneering.
+761__Adorno VII__during Dungeoneering.
+757__Adorno VIII__during Dungeoneering.
+747__Adorno IX__during Dungeoneering.
+756__Adorno X__during Dungeoneering.
+767__Har'Lakk the Riftsplitter__during Dungeoneering.
+738__Lexicus Runewright__during Dungeoneering.
+759__Night-gazer Khighorahk__during Dungeoneering.
+768__Sagittare__during Dungeoneering.
+746__Rammernaut__during Dungeoneering.
+743__Stomp__during Dungeoneering.
+888__ __not unlockable!
+884__ __not unlockable!
+887__ __not unlockable!
+875__ __not unlockable!
+878__ __not unlockable!
+879__ __not unlockable!
+866__ __not unlockable!
+881__ __not unlockable!
+871__ __not unlockable!
+874__ __not unlockable!
+862__ __not unlockable!
+861__ __not unlockable!
+869__ __not unlockable!
+867__ __not unlockable!
+868__ __not unlockable!
+883__ __not unlockable!
+928____not unlockable!
+934____not unlockable!
+932____not unlockable!
+921____not unlockable!
+933____not unlockable!
+915____not unlockable!
+918____not unlockable!
+931____not unlockable!
+935____not unlockable!
+912____not unlockable!
+909____not unlockable!
+923____not unlockable!
+929____not unlockable!
+926____not unlockable!
+919____not unlockable!
+910____not unlockable!
+873__Occulo I__during Dungeoneering.
+882__Occulo II__during Dungeoneering.
+880__Occulo III__during Dungeoneering.
+860__Occulo IV__during Dungeoneering.
+886__Occulo V__during Dungeoneering.
+872__Occulo VI__during Dungeoneering.
+885__Occulo VII__during Dungeoneering.
+889__Occulo VIII__during Dungeoneering.
+870__Occulo IX__during Dungeoneering.
+864__Occulo X__during Dungeoneering.
+876__Necrolord__during Dungeoneering.
+891__Gravecreeper__during Dungeoneering.
+865__Skeletal Trio__during Dungeoneering.
+863__Yk'Lagor the Thunderous__during Dungeoneering.
+877__Runed Behemoth__during Dungeoneering.
+892__Flesh-spoiler Haasghenahk__during Dungeoneering.
+930__Torqueo I__during Dungeoneering.
+914__Torqueo II__during Dungeoneering.
+917__Torqueo III__during Dungeoneering.
+911__Torqueo IV__during Dungeoneering.
+927__Torqueo V__during Dungeoneering.
+939__Torqueo VI__during Dungeoneering.
+938__Torqueo VII__during Dungeoneering.
+920__Torqueo VIII__during Dungeoneering.
+925__Torqueo IX__during Dungeoneering.
+936__Torqueo X__during Dungeoneering.
+940__Blink__during Dungeoneering.
+924__Kal'Ger the Warmonger__during Dungeoneering.
+916__Hope Devourer__during Dungeoneering.
+922__Warped Gulega__during Dungeoneering.
+913__Dreadnaught__during Dungeoneering.
+937__World-gorger Shukarhazh__during Dungeoneering.
+858__Out of Control__during A Void Dance.
+856__Chain Reaction__during A Void Dance.
+857__All for the Pest__during A Void Dance.
+859__Destiny__automatically.
+893__Unavoidable Conflict__during a Conquest battle.
+895__Right of Conquest__in the Conquest lobby.
+894__ __not unlockable!
+890__Yk'Lagor the Thunderous__not unlockable!
+896__Gunnarsgrunn__during Gunnar's Ground.
+898__ __not unlockable!
+897__ __not unlockable!
+907__Halloween Party__in a Halloween holiday event (2010 onwards).
+908__Black Zabeth: LIVE!__not unlockable!
+903__Black Zabeth__in a Halloween holiday event (2010 onwards).
+900__In Security__during The Void Stares Back.
+905__Give it Your Pest Shot__during The Void Stares Back.
+901__ __not unlockable!
+904__The Void Stares Back__during The Void Stares Back.
+902__Precarious Void__during The Void Stares Back.
+899__Mystery Revealed__during The Void Stares Back.
+906__Who Are We to Judge?__during The Void Stares Back.
+582__Metalwork__in the Artisan Workshop in Falador.
+952__ __not unlockable!
+953__Christmas Caverns__in a Christmas holiday event (2010 onwards).
+951__Seasonal Sports__in a Christmas holiday event (2010 onwards).
+941__The Task at Hand__by completing 350 Tasks.
+943__Monkey See, Monkey Do__not unlockable!
+947__Monkey See, Monkey Do__not unlockable!
+944__Simian Scuffle__during Do No Evil.
+945__ __not unlockable!
+946__ __not unlockable!
+949__ __not unlockable!
+950__Monkey See, Monkey Do__during Do No Evil.
+958__Rocky Rescue__during King of the Dwarves.
+954__Go with the Flow__during King of the Dwarves.
+955__The Records Chamber__during King of the Dwarves.
+959__Corporate Callousness__during King of the Dwarves.
+942__ __not unlockable!
+948__ __not unlockable!
+957__Colonel Grimsson__during King of the Dwarves.
+956__Only a King__during King of the Dwarves.
+699__ __not unlockable!
+960__Zaros Zeitgeist__in the God Wars Dungeon.
+961__Reunion__during Prisoner of Glouphrie.
+962__Cage Against the Machine__during Prisoner of Glouphrie.
+963__Logical Progression__during Elemental Workshop 4
+965__The Factory Floor__during A Clockwork Syringe.
+966__Spring Song__during an Easter holiday event (2011 onwards).
+967__Lament of the Snow Queen__during an Easter holiday event (2011 onwards).
+971__Troll Invasion__during a Troll Invasion.
+970__Deadliest Catch__not unlockable!
+968__Three of a Kind__during Deadliest Catch.
+969__Deadliest Catch__during Deadliest Catch.
+1008__Return of Lucien__during Ritual of the Mahjarrat.
+972__Kethsi__on entering Kethsi.
+985__Citadel Theme__on entering a Clan Citadel.
+973__Slug Poison__during Salt in the Wound.
+1000__Darkmeyer__during Branches of Darkmeyer.
+1004__Arboretum__during Branches of Darkmeyer.
+1003__Upir Likhyi__during Branches of Darkmeyer.
+1001__Vanescula Fight__during Branches of Darkmeyer.
+974__ __not unlockable!
+975__Natural Selection__in the Jadinko Lair.
+999__ __not unlockable!
+994__Citadel I__in a Clan Citadel.
+997__Citadel II__in a Clan Citadel.
+988__Citadel III__in a Clan Citadel.
+993__Citadel IV__in a Clan Citadel.
+995__Citadel V __in a Clan Citadel.
+982__Citadel VI __in a Clan Citadel.
+976__Citadel VII __in a Clan Citadel.
+984__Citadel VIII __in a Clan Citadel.
+992__Citadel IX __in a Clan Citadel.
+998__Citadel X __in a Clan Citadel.
+978__Citadel XI __in a Clan Citadel.
+990__Citadel XII __in a Clan Citadel.
+987__Citadel XIII __in a Clan Citadel.
+989__Citadel XIV __in a Clan Citadel.
+979__Citadel XV __in a Clan Citadel.
+996__Citadel XVI __in a Clan Citadel.
+980__ __not unlockable!
+985__ __not unlockable!
+983__Architect of War__in a Clan Citadel.
+981__ __not unlockable!
+977__ __not unlockable!
+1005__ __not unlockable!
