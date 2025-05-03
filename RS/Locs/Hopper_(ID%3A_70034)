@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
-<meta charset="UTF-8"/><link rel="stylesheet" href="https://runelibris.github.io/Styles/style.css">
+<meta charset="UTF-8"/><link rel="stylesheet" href="https://runelibris.github.io/RuneLibris/Styles/style.css">
 <title>RS/Locs/Hopper (ID: 70034) - RuneLibris</title>
 <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b6c1263c0173313202ad3d7a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"RS/Locs/Hopper_(ID:_70034)","wgTitle":"RS/Locs/Hopper (ID: 70034)","wgCurRevisionId":25207,"wgRevisionId":25207,"wgArticleId":9543,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"RS/Locs/Hopper_(ID:_70034)","wgRelevantArticleId":9543,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript"
 :"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.skinning.interface":"ready","skins.darkvector.styles":"ready","jquery.tablesorter.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","ext.gadget.checkboxList","skins.darkvector.js"];</script>
@@ -26,7 +26,7 @@
 
 						<div class="mw-indicators mw-body-content">
 </div>
-			<div class = "warningbox"><p>This website is a read-only preview of <a href="https://manpaint.neocities.org/library/runelibris">RuneLibris</a>. Some features may not work. To download the full feature-complete version of this wiki, please visit <a href="https://manpaint.neocities.org/library/runelibris">this link</a>.<br><br><a href="https://runelibris.github.io/index.html">(Return to archive index)</a></p></div><h1 id="firstHeading" class="firstHeading" lang="en">RS/Locs/Hopper (ID: 70034)</h1>
+			<div class = "warningbox"><p>This website is a read-only preview of <a href="https://manpaint.neocities.org/library/runelibris">RuneLibris</a>. Some features may not work. To download the full feature-complete version of this wiki, please visit <a href="https://manpaint.neocities.org/library/runelibris">this link</a>.<br><br><a href="https://runelibris.github.io/RuneLibris/index.html">(Return to archive index)</a></p></div><h1 id="firstHeading" class="firstHeading" lang="en">RS/Locs/Hopper (ID: 70034)</h1>
 									<div id="bodyContent" class="mw-body-content">
 									<div id="siteSub">From RuneLibris</div>
 								<div id="contentSub"></div>
@@ -47,7 +47,7 @@
 
 <tbody><tr>
 <td>If</td>
-<td><a href="https://runelibris.github.io/RS/Variables/Cook%27s_Assistant_(2009)_state" title="RS/Variables/Cook&#39;s Assistant (2009) state">Cook's Assistant (2009) state</a> = Not started
+<td><a href="https://runelibris.github.io/RuneLibris/RS/Variables/Cook%27s_Assistant_(2009)_state" title="RS/Variables/Cook&#39;s Assistant (2009) state">Cook's Assistant (2009) state</a> = Not started
 </td></tr>
 <tr>
 <td>&#160;</td>
@@ -55,7 +55,7 @@
 </td></tr>
 <tr>
 <td>If</td>
-<td><a href="https://runelibris.github.io/RS/Variables/Cook%27s_Assistant_(2009)_state" title="RS/Variables/Cook&#39;s Assistant (2009) state">Cook's Assistant (2009) state</a> = 1
+<td><a href="https://runelibris.github.io/RuneLibris/RS/Variables/Cook%27s_Assistant_(2009)_state" title="RS/Variables/Cook&#39;s Assistant (2009) state">Cook's Assistant (2009) state</a> = 1
 </td></tr>
 <tr>
 <td>&#160;</td>
@@ -75,7 +75,7 @@
 </td></tr>
 <tr>
 <td>If</td>
-<td><a href="https://runelibris.github.io/RS/Variables/Cook%27s_Assistant_(2009)_state" title="RS/Variables/Cook&#39;s Assistant (2009) state">Cook's Assistant (2009) state</a> = Quest completed
+<td><a href="https://runelibris.github.io/RuneLibris/RS/Variables/Cook%27s_Assistant_(2009)_state" title="RS/Variables/Cook&#39;s Assistant (2009) state">Cook's Assistant (2009) state</a> = Quest completed
 </td></tr>
 <tr>
 <td>&#160;</td>
@@ -147,13 +147,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anontalk"><a href="https://runelibris.github.io/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="https://runelibris.github.io/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/RuneLibris/index.php?title=Special:CreateAccount&amp;returnto=RS%2FLocs%2FHopper+%28ID%3A+70034%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/RuneLibris/index.php?title=Special:UserLogin&amp;returnto=RS%2FLocs%2FHopper+%28ID%3A+70034%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anontalk"><a href="https://runelibris.github.io/RuneLibris/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="https://runelibris.github.io/RuneLibris/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/RuneLibris/index.php?title=Special:CreateAccount&amp;returnto=RS%2FLocs%2FHopper+%28ID%3A+70034%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/RuneLibris/index.php?title=Special:UserLogin&amp;returnto=RS%2FLocs%2FHopper+%28ID%3A+70034%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="darkvectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-															<li  id="ca-nstab-main" class="selected"><span><a href="https://runelibris.github.io/RS/Locs/Hopper_(ID:_70034)"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-nstab-main" class="selected"><span><a href="https://runelibris.github.io/RuneLibris/RS/Locs/Hopper_(ID:_70034)"  title="View the content page [c]" accesskey="c">Page</a></span></li>
 															<li  id="ca-talk" class="new"><span><a href="/RuneLibris/index.php?title=Talk:RS/Locs/Hopper_(ID:_70034)&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
 													</ul>
 					</div>
@@ -172,7 +172,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="darkvectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-															<li id="ca-view" class="selected"><span><a href="https://runelibris.github.io/RS/Locs/Hopper_(ID:_70034)" >Read</a></span></li>
+															<li id="ca-view" class="selected"><span><a href="https://runelibris.github.io/RuneLibris/RS/Locs/Hopper_(ID:_70034)" >Read</a></span></li>
 															<li id="ca-edit"><span><a href="/RuneLibris/index.php?title=RS/Locs/Hopper_(ID:_70034)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
 															<li id="ca-history" class="collapsible"><span><a href="/RuneLibris/index.php?title=RS/Locs/Hopper_(ID:_70034)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
 													</ul>
@@ -198,13 +198,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									</div>
 			</div>
 			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="https://runelibris.github.io/Main_Page"  title="Visit the main page"></a></div>
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="https://runelibris.github.io/RuneLibris/Main_Page"  title="Visit the main page"></a></div>
 						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
 			<h3 id='p-navigation-label'>Navigation</h3>
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="https://runelibris.github.io/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="https://runelibris.github.io/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="https://runelibris.github.io/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="https://runelibris.github.io/RuneLibris/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="https://runelibris.github.io/RuneLibris/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="https://runelibris.github.io/RuneLibris/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
@@ -212,7 +212,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="https://runelibris.github.io/Special:WhatLinksHere/RS/Locs/Hopper_(ID:_70034)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="https://runelibris.github.io/Special:RecentChangesLinked/RS/Locs/Hopper_(ID:_70034)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="https://runelibris.github.io/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/RuneLibris/index.php?title=RS/Locs/Hopper_(ID:_70034)&amp;oldid=25207" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/RuneLibris/index.php?title=RS/Locs/Hopper_(ID:_70034)&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="https://runelibris.github.io/RuneLibris/Special:WhatLinksHere/RS/Locs/Hopper_(ID:_70034)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="https://runelibris.github.io/RuneLibris/Special:RecentChangesLinked/RS/Locs/Hopper_(ID:_70034)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="https://runelibris.github.io/RuneLibris/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/RuneLibris/index.php?title=RS/Locs/Hopper_(ID:_70034)&amp;oldid=25207" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/RuneLibris/index.php?title=RS/Locs/Hopper_(ID:_70034)&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
@@ -226,9 +226,9 @@ Transclusion expansion time report (%,ms,calls,template)
 </p></li>
 									</ul>
 							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://runelibris.github.io/RuneLibris:Privacy_policy" title="RuneLibris:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="https://runelibris.github.io/RuneLibris:About" title="RuneLibris:About">About RuneLibris</a></li>
-											<li id="footer-places-disclaimer"><a href="https://runelibris.github.io/RuneLibris:General_disclaimer" title="RuneLibris:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-privacy"><a href="https://runelibris.github.io/RuneLibris/RuneLibris:Privacy_policy" title="RuneLibris:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="https://runelibris.github.io/RuneLibris/RuneLibris:About" title="RuneLibris:About">About RuneLibris</a></li>
+											<li id="footer-places-disclaimer"><a href="https://runelibris.github.io/RuneLibris/RuneLibris:General_disclaimer" title="RuneLibris:General disclaimer">Disclaimers</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 											<li id="footer-poweredbyico">
