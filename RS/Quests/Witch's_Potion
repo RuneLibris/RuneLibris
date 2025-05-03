@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/><link rel="stylesheet" href="https://runelibris.github.io/Styles/style.css">
+<title>RS/Quests/Witch's Potion - RuneLibris</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a7a91a48bbae272bd13c4f85","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"RS/Quests/Witch's_Potion","wgTitle":"RS/Quests/Witch's Potion","wgCurRevisionId":24768,"wgRevisionId":24768,"wgArticleId":9457,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"RS/Quests/Witch's_Potion","wgRelevantArticleId":9457,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.skinning.interface":"ready","skins.darkvector.styles":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","ext.gadget.checkboxList","skins.darkvector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/RuneLibris/load.php?lang=en&amp;modules=ext.cite.styles%7Cjquery.tablesorter.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.darkvector.styles&amp;only=styles&amp;skin=darkvector"/>
+<script async="" src="/RuneLibris/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=darkvector"></script>
+<meta name="generator" content="MediaWiki 1.35.5"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit"/>
+<link rel="icon" type="image/x-icon" href="file:///R:/Xampp/htdocs/RuneLibris/__RULI_demo_primer/Styles/icon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/RuneLibris/opensearch_desc.php" title="RuneLibris (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://localhost/RuneLibris/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="RuneLibris Atom feed" href="/RuneLibris/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/RuneLibris/skins/DarkVector/csshover.min.htc")}</style><![endif]-->
+<!--[if lt IE 9]><script src="/RuneLibris/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-RS_Quests_Witch_s_Potion rootpage-RS_Quests_Witch_s_Potion skin-darkvector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<div class = "warningbox"><p>This website is a read-only preview of <a href="https://manpaint.neocities.org/library/runelibris">RuneLibris</a>. Some features may not work. To download the full feature-complete version of this wiki, please visit <a href="https://manpaint.neocities.org/library/runelibris">this link</a>.<br><br><a href="https://runelibris.github.io/index.html">(Return to archive index)</a></p></div><h1 id="firstHeading" class="firstHeading" lang="en">RS/Quests/Witch's Potion</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From RuneLibris</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Quest_states"><span class="tocnumber">1</span> <span class="toctext">Quest states</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Todo"><span class="tocnumber">2</span> <span class="toctext">Todo</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Quest_overview_interface"><span class="tocnumber">3</span> <span class="toctext">Quest overview interface</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Quest_journal"><span class="tocnumber">4</span> <span class="toctext">Quest journal</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#YouTube_search_operators"><span class="tocnumber">5</span> <span class="toctext">YouTube search operators</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Archival_notes"><span class="tocnumber">6</span> <span class="toctext">Archival notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Misc_notes"><span class="tocnumber">7</span> <span class="toctext">Misc notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Quest_states">Quest states</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=1" title="Edit section: Quest states">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i><b>The following is NOT a list of <a href="https://runelibris.github.io/Info/Quest_varbit" title="Info/Quest varbit">quest varbits</a> states. For more information see the <a href="https://runelibris.github.io/Info/Quest_state_policy" title="Info/Quest state policy">quest state policy</a>.</b></i>
+</p><p>The list of states for this quest is as follows<sup id="cite_ref-Ref1_1-0" class="reference"><a href="#cite_note-Ref1-1">&#91;1&#93;</a></sup>:
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>State</th>
+<th>Objective
+</th></tr>
+<tr>
+<td>Quest not started</td>
+<td>N/A
+</td></tr>
+<tr>
+<td>1</td>
+<td>Talk to <a href="https://runelibris.github.io/RS/NPCs/Hetty_(ID:_307)" title="RS/NPCs/Hetty (ID: 307)">Hetty (ID: 307)</a> with <a href="https://runelibris.github.io/RS/Items/Rat%27s_tail_(ID:_300)" title="RS/Items/Rat&#39;s tail (ID: 300)">Rat's tail (ID: 300)</a>, <a href="/RuneLibris/index.php?title=RS/Items/Burnt_meat_(ID:_2146)&amp;action=edit&amp;redlink=1" class="new" title="RS/Items/Burnt meat (ID: 2146) (page does not exist)">Burnt meat (ID: 2146)</a>, <a href="/RuneLibris/index.php?title=RS/Items/Eye_of_newt_(ID:_221)&amp;action=edit&amp;redlink=1" class="new" title="RS/Items/Eye of newt (ID: 221) (page does not exist)">Eye of newt (ID: 221)</a> and an <a href="/RuneLibris/index.php?title=RS/Items/Onion_(ID:_1957)&amp;action=edit&amp;redlink=1" class="new" title="RS/Items/Onion (ID: 1957) (page does not exist)">Onion (ID: 1957)</a> in your inventory
+</td></tr>
+<tr>
+<td>2</td>
+<td>Drink-from <a href="https://runelibris.github.io/RS/Locs/Cauldron_(ID:_14339)" title="RS/Locs/Cauldron (ID: 14339)">Cauldron (ID: 14339)</a>
+</td></tr>
+<tr>
+<td>Quest complete</td>
+<td>N/A
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Todo">Todo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=2" title="Edit section: Todo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span class="RSFont" style="color:#CC2A22; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#22130B; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">Test drop of all rats listed on RS Wiki</span>
+</p><p><span class="RSFont" style="color:#CC2A22; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#22130B; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">Add lodestone interactions from runelibris1-witches-potion1-1.avi</span>
+</p>
+<h2><span class="mw-headline" id="Quest_overview_interface">Quest overview interface</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=3" title="Edit section: Quest overview interface">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/quest-overview.webm">interface</a><sup id="cite_ref-runelibris1_2-0" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td>"SET ACTIVE" is pressed<sup id="cite_ref-runelibris1_2-1" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><span class="RSFont" style="color:#FF00DC; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1F0F1C; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">This <a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/map-marker1.webp">marker appears on the </a><a href="/RuneLibris/index.php?title=RS/Interfaces/World_map&amp;action=edit&amp;redlink=1" class="new" title="RS/Interfaces/World map (page does not exist)">World map</a></span><sup id="cite_ref-runelibris1_2-2" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/pop-up1.webp">pop-up</a><sup id="cite_ref-runelibris1_2-3" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/mes2.webp">chat message</a><sup id="cite_ref-runelibris1_2-4" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td>"VIEW JOURNAL" is pressed<sup id="cite_ref-runelibris1_2-5" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><span class="RSFont" style="color:#FF00DC; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1F0F1C; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">Opens quest journal (see below)</span><sup id="cite_ref-runelibris1_2-6" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td>"ACTIVE" is pressed <span class="RSFont" style="color:#6FA662; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#131C14; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">Button only appears if map marker is active; replaces "SET ACTIVE"</span><sup id="cite_ref-runelibris1_2-7" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><span class="RSFont" style="color:#FF00DC; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1F0F1C; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">Map marker is disabled</span><sup id="cite_ref-runelibris1_2-8" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/pop-up2.webp">pop-up</a><sup id="cite_ref-runelibris1_2-9" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/mes3.webp">chat message</a><sup id="cite_ref-runelibris1_2-10" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>end
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Quest_journal">Quest journal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=4" title="Edit section: Quest journal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<td>If</td>
+<td>after <span class="RSFont" style="color:#9311CC; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#210B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">unknown update</span>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td>
+<p><br />
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = Not started
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/journal-new1.webp">interface</a><sup id="cite_ref-runelibris1_2-11" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = 1
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/journal-new2.webp">interface</a> <sup id="cite_ref-runelibris1_2-12" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = 2
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/journal-new2.webp">interface</a> <sup id="cite_ref-runelibris1_2-13" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = Quest completed
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/journal-new3.webp">interface</a><sup id="cite_ref-runelibris1_2-14" class="reference"><a href="#cite_note-runelibris1-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<td>end
+</td></tr></tbody></table>
+<p><br />
+</p>
+</td></tr>
+<tr>
+<td>Else</td>
+<td>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = Not started
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/journal-old1.webp">interface</a><sup id="cite_ref-FlaresMind_3-0" class="reference"><a href="#cite_note-FlaresMind-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = 1
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><span class="RSFont" style="color:#6FA662; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#131C14; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">Interface change dynamically depending on items acquired</span>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/journal-old2.webp">interface when no items have been found</a><sup id="cite_ref-FlaresMind_3-1" class="reference"><a href="#cite_note-FlaresMind-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><a rel="nofollow" class="external text" href="file:///R:/Xampp/htdocs/RuneLibris/MainCluster/RS/Quests/Witchs_Potion/journal-old3.webp">interface when some items have been found</a><sup id="cite_ref-FlaresMind_3-2" class="reference"><a href="#cite_note-FlaresMind-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = 2
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><span class="RSFont" style="color:#C89022; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#22210B; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">TODO</span>
+</td></tr>
+<tr>
+<td>If</td>
+<td><a href="https://runelibris.github.io/RS/Variables/Witch%27s_Potion_state" title="RS/Variables/Witch&#39;s Potion state">Witch's Potion state</a> = Quest completed
+</td></tr>
+<tr>
+<td>&#160;</td>
+<td><span class="RSFont" style="color:#C89022; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#22210B; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">TODO</span>
+</td></tr>
+<tr>
+<td>end
+</td></tr></tbody></table>
+<p><br />
+</p>
+</td></tr>
+<tr>
+<td>end
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="YouTube_search_operators">YouTube search operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=5" title="Edit section: YouTube search operators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<pre>before:2013-02-22 after:2008-07-01 runescape Witch's Potion -guide //video before osrs release but post rshd
+</pre>
+<h2><span class="mw-headline" id="Archival_notes">Archival notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=6" title="Edit section: Archival notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Youtube videos that show non-optimal path dialogue fot this quest are extremely sparse<sup id="cite_ref-Ref5_4-0" class="reference"><a href="#cite_note-Ref5-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Misc_notes">Misc notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=7" title="Edit section: Misc notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>This quest became a mini-quest on 24 June 2010<sup id="cite_ref-RS_Wiki_5-0" class="reference"><a href="#cite_note-RS_Wiki-5">&#91;5&#93;</a></sup>.</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ref1-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ref1_1-0">↑</a></span> <span class="reference-text">Inferred from <a href="/RuneLibris/index.php?title=RS_Wiki&amp;action=edit&amp;redlink=1" class="new" title="RS Wiki (page does not exist)">RS Wiki</a> page: <a rel="nofollow" class="external free" href="https://runescape.wiki/w/Witch%27s_Potion_(miniquest)">https://runescape.wiki/w/Witch%27s_Potion_(miniquest)</a></span>
+</li>
+<li id="cite_note-runelibris1-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-runelibris1_2-0">2.00</a></sup> <sup><a href="#cite_ref-runelibris1_2-1">2.01</a></sup> <sup><a href="#cite_ref-runelibris1_2-2">2.02</a></sup> <sup><a href="#cite_ref-runelibris1_2-3">2.03</a></sup> <sup><a href="#cite_ref-runelibris1_2-4">2.04</a></sup> <sup><a href="#cite_ref-runelibris1_2-5">2.05</a></sup> <sup><a href="#cite_ref-runelibris1_2-6">2.06</a></sup> <sup><a href="#cite_ref-runelibris1_2-7">2.07</a></sup> <sup><a href="#cite_ref-runelibris1_2-8">2.08</a></sup> <sup><a href="#cite_ref-runelibris1_2-9">2.09</a></sup> <sup><a href="#cite_ref-runelibris1_2-10">2.10</a></sup> <sup><a href="#cite_ref-runelibris1_2-11">2.11</a></sup> <sup><a href="#cite_ref-runelibris1_2-12">2.12</a></sup> <sup><a href="#cite_ref-runelibris1_2-13">2.13</a></sup> <sup><a href="#cite_ref-runelibris1_2-14">2.14</a></sup></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a>. Based on private recording (runelibris1-witches-potion1-1.avi) made on 2025-03-28</span>
+</li>
+<li id="cite_note-FlaresMind-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-FlaresMind_3-0">3.0</a></sup> <sup><a href="#cite_ref-FlaresMind_3-1">3.1</a></sup> <sup><a href="#cite_ref-FlaresMind_3-2">3.2</a></sup></span> <span class="reference-text">From "Runescape - Witchs Potion Quest" by FlaresMind (<a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=wjwzmdACX6I">https://www.youtube.com/watch?v=wjwzmdACX6I</a>) (uploaded on 21 April 2009)</span>
+</li>
+<li id="cite_note-Ref5-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ref5_4-0">↑</a></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a> on 2025-03-28</span>
+</li>
+<li id="cite_note-RS_Wiki-5"><span class="mw-cite-backlink"><a href="#cite_ref-RS_Wiki_5-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://runescape.wiki/w/Witch&#39;s_Potion_(miniquest)">https://runescape.wiki/w/Witch's_Potion_(miniquest)</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20250502213635
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.250 seconds
+Real time usage: 0.415 seconds
+Preprocessor visited node count: 409/1000000
+Post‐expand include size: 3965/2097152 bytes
+Template argument size: 455/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2373/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  160.084      1 -total
+ 37.59%   60.183      2 Template:Todo
+ 15.19%   24.316      2 Template:Comment
+ 10.33%   16.531      1 Template:Mystery
+  8.52%   13.632      3 Template:Tech
+  7.45%   11.933      2 Template:Todo-historical
+-->
+
+<!-- Saved in parser cache with key RuneLibris:pcache:idhash:9457-0!canonical and timestamp 20250502213635 and revision id 24768
+ -->
+</div></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://localhost/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;oldid=24768">http://localhost/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;oldid=24768</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anontalk"><a href="https://runelibris.github.io/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="https://runelibris.github.io/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/RuneLibris/index.php?title=Special:CreateAccount&amp;returnto=RS%2FQuests%2FWitch%27s+Potion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/RuneLibris/index.php?title=Special:UserLogin&amp;returnto=RS%2FQuests%2FWitch%27s+Potion" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="darkvectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="https://runelibris.github.io/RS/Quests/Witch%27s_Potion"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/RuneLibris/index.php?title=Talk:RS/Quests/Witch%27s_Potion&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="darkvectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="darkvectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="https://runelibris.github.io/RS/Quests/Witch%27s_Potion" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="darkvectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/RuneLibris/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search RuneLibris" title="Search RuneLibris [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="https://runelibris.github.io/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="https://runelibris.github.io/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="https://runelibris.github.io/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="https://runelibris.github.io/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="https://runelibris.github.io/Special:WhatLinksHere/RS/Quests/Witch%27s_Potion" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="https://runelibris.github.io/Special:RecentChangesLinked/RS/Quests/Witch%27s_Potion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="https://runelibris.github.io/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;oldid=24768" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/RuneLibris/index.php?title=RS/Quests/Witch%27s_Potion&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <p>This page was last edited on 2 April 2025, at 19:41.
+</p><p>RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex.
+</p><p>RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited.
+</p><p>You can play RuneScape at runescape.com
+</p></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://runelibris.github.io/RuneLibris:Privacy_policy" title="RuneLibris:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="https://runelibris.github.io/RuneLibris:About" title="RuneLibris:About">About RuneLibris</a></li>
+											<li id="footer-places-disclaimer"><a href="https://runelibris.github.io/RuneLibris:General_disclaimer" title="RuneLibris:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="https://www.mediawiki.org/"><img src="/RuneLibris/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/RuneLibris/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /RuneLibris/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.250","walltime":"0.415","ppvisitednodes":{"value":409,"limit":1000000},"postexpandincludesize":{"value":3965,"limit":2097152},"templateargumentsize":{"value":455,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2373,"limit":5000000},"timingprofile":["100.00%  160.084      1 -total"," 37.59%   60.183      2 Template:Todo"," 15.19%   24.316      2 Template:Comment"," 10.33%   16.531      1 Template:Mystery","  8.52%   13.632      3 Template:Tech","  7.45%   11.933      2 Template:Todo-historical"]},"cachereport":{"timestamp":"20250502213635","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1939});});</script>
+	</body>
+</html>

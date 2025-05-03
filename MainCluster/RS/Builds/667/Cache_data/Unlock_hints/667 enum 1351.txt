@@ -1,0 +1,1014 @@
+177__Adventure__at Varrock Palace.
+50__Al Kharid__at Al Kharid.
+102__Alone__at the Ice Mountain and Monastery north of Falador.
+90__Ambient Jungle__at Shilo Village.
+36__Arabian__in the Kharidian Desert.
+123__Arabian2__at Al Kharid mine.
+124__Arabian3__at the desert entrance to the Kalphite Lair.
+19__Arabique__at the hellhounds in Taverley Dungeon.
+160__Army of Darkness__at the Dark Warrior's Fortress.
+186__Arrival__at the gem trader in Falador.
+24__Attack1__at the Battlefield north of Tree Gnome Village.
+25__Attack2__at Elvarg's lair or during Grand Tree Quest.
+26__Attack3__to the north of the Lava Maze.
+27__Attack4__at the Fight Arena.
+28__Attack5__at the King Black Dragon.
+29__Attack6__at Gu'Tanoth Ogre Enclave.
+180__Attention__at the coastline below Rimmington.
+2__Autumn Voyage__at Lumbridge farm.
+324__Background__on Entrana.
+152__Ballad of Enchantment__at the Monastery.
+99__Baroque__in Ardougne.
+100__Beyond__in the Dwarven tunnel under Wolf Mountain.
+83__Big Chords__to the west of Yanille.
+64__Book of Spells__at Lumbridge Swamp.
+104__Camelot__at Camelot Castle.
+325__Cave Background__at the Dwarven Mine or the Gamers' Grotto.
+68__Cavern__at Yanille Agility Dungeon.
+63__Chain of Command__during Temple of Ikov.
+181__Crystal Cave__at Zanaris market.
+169__Crystal Sword__at the Wilderness, north of Varrock.
+182__Dangerous__to the north of Edgeville.
+326__Dark__in the south-east of the Wilderness.
+37__Deep Wildy__in the north-west of the Wilderness.
+174__Desert Voyage__around the Desert Mining Camp.
+56__Doorways__to the north of the Grand Exchange.
+327__Dream__on the path between Lumbridge and Draynor.
+173__Dunjun__in Taverley Dungeon.
+69__Egypt__at Shantay Pass.
+148__Emotion__in the Tree Gnome Village maze.
+138__Emperor__in Melzar's Maze.
+106__Expanse__at the stone circle in Varrock.
+41__Expecting__at the unholy altar north of the Observatory.
+153__Expedition__in the caverns below the Observatory.
+118__Faerie__at Zanaris.
+72__Fanfare__at Falador Castle.
+167__Fanfare3__at Port Khazard.
+119__Fishing__at Catherby beach.
+163__Flute Salad__at the Lumbridge windmill area.
+98__Forever__at Edgeville.
+159__Gaol__at Gu'Tanoth.
+125__Garden__at Varrock city centre.
+22__Gnome King__at the Tree Gnome Stronghold.
+310__Dwarf Theme__at the Dwarven Mine.
+33__Gnome Village__at the Tree Gnome Stronghold's Agility Training Area.
+101__Gnome Village2__to the south-west of the Tree Gnome Stronghold.
+313__Goblin Village__at Goblin Village.
+112__Gnomeball__at the Gnome Ball Field.
+116__Greatness__at the Champions' Guild.
+76__Harmony__at Lumbridge Castle.
+55__High Seas__at Brimhaven.
+18__Horizon__in Taverley.
+1__Iban__at Iban's lair in the Underground Pass.
+188__In the Manor__at the ogre island, west of Yanille.
+96__Inspiration__at the area north of the Black Knights' Fortress.
+95__Intrepid__in the Underground Pass caverns.
+6__Jolly-R__at the north dock of Brimhaven.
+172__Jungle Island__on Karamja.
+114__Jungly1__at Cairn Isle.
+115__Jungly2__to the north-west of Brimhaven.
+117__Jungly3__at Tai Bwo Wannai Village.
+191__Knightly__at Ardougne Castle.
+60__Lasting__at Hemenster.
+66__Legion__at the Barbarian Outpost.
+113__Lightness__to the north of Edgeville.
+74__Lightwalk__at Keep Le Faye.
+161__Long Ago__at Hazelmere's island East of Yanille 
+12__Long Way Home__at Rimmington.
+20__Lullaby__at the area south-west of Rellekka.
+13__Mage Arena__at the Mage Arena.
+185__Magic Dance__in the east of Yanille.
+184__Magical Journey__at the Sorcerer's Tower.
+328__March__at King Lathas's Combat Training Camp.
+157__Medieval__to the west of the Dig Site.
+193__Mellow__at the Fishing Guild.
+107__Miles Away__at the Crafting Guild.
+65__Miracle Dance__at the Mind Altar.
+21__Monarch Waltz__at the Sinclair Mansion.
+10__Moody__at the entrance to the Underground Pass.
+155__Neverland__to the south of Tree Gnome Village.
+62__Newbie Melody__automatically.
+127__Nightfall__at the north of Rimmington.
+103__Oriental__in the Waterfall Dungeon, East of Shilo Village.
+7__Overture__at Seers' Village.
+93__Parade__at the Jolly Boar Inn.
+158__Quest__at the Fire Altar.
+329__Regal__at the Rogues' Castle.
+78__Reggae__to the south-east of the Kharazi Jungle.
+89__Reggae2__to the east of Karamja Jungle.
+91__Riverside__to the west of Tyras Camp.
+53__Royale__at the Black Knight base in Taverley Dungeon.
+57__Rune Essence__at the rune essence mine.
+5__Sad Meadow__at West Ardougne.
+144__Scape Cave__in Varrock Sewers.
+400__Scape Original__automatically.
+331__Scape Sad__at the Demonic Ruins in the Wilderness.
+332__Scape Wild__in the Wilderness.
+92__Sea Shanty__at Karamja port.
+35__Sea Shanty2__at Port Sarim.
+110__Serenade__at the Observatory.
+52__Serene__at the Air Altar.
+122__Shine__at the Duel Arena hospital.
+80__Soundscape__at the Feldip Hills glider area.
+175__Spirit__at the Cooks' Guild.
+77__Splendour__at the Heroes' Guild.
+333__Spooky__at Draynor Manor.
+129__Spooky Jungle__to the south-west of Karamja.
+108__Starlight__at the Asgarnian Ice Dungeon north of Mudskipper Point.
+151__Start__at Draynor Village.
+111__Still Night__at the Mining area south-east of Varrock.
+140__Talking Forest__at McGrubor's Wood.
+79__The Desert__to the west of the Kharidian Desert.
+170__The Shadow__on Crandor.
+133__The Tower__to the north-west of Ardougne.
+109__Theme__at the Coal Trucks.
+38__Trawler__during Fishing Trawler.
+51__Trawler Minor__during Fishing Trawler.
+130__Tree Spirits__to the west of the Tree Gnome Stronghold.
+162__Tribal Background__in the south-east Kharazi Jungle.
+165__Tribal__to the east of Tai Bwo Wannai Village.
+94__Tribal2__at the gnome glider on Karamja.
+192__Trinity__at the Legends' Guild.
+183__Troubled__to the west of the Bandit Camp in the Wilderness.
+179__Underground__at the dramen tree in Entrana Dungeon.
+3__Unknown Land__at Draynor Market.
+323__Underground Pass__during Underground Pass.
+70__Upcoming__at the tower of the Necromancer.
+75__Venture__at the Dig Site.
+85__Vision__at the Wizards' Tower.
+30__Voodoo Cult__at the cave under the Kharazi Jungle.
+32__Voyage__at the top of Baxtorian Falls.
+49__Wander__at the farm area south of Falador.
+82__Waterfall__at Baxtorian Falls.
+435__Wilderness__in the Wilderness.
+42__Wilderness2__to the south of the Lava Maze in the Wilderness.
+43__Wilderness3__at the Forgotten Cemetery in the Wilderness.
+14__Witching__on the east side of the Wilderness.
+34__Wonder__to the north-west of the Black Knights' Fortress.
+81__Wonderous__near the Legends' Guild.
+15__Workshop__at the Mining Guild in Falador.
+168__Lonesome__at the Desert Mining Camp.
+16__Scape Main__automatically.
+466__Ground Scape__automatically.
+321__Scape Scared__automatically.
+547__Scape Santa__automatically.
+189__Land of Snow__in a Christmas holiday event (2007 onwards).
+468__Shaping Up__during As a First Resort...
+492__Exam Conditions__at the Stronghold of Player Safety.
+429__Roots and Flutes__during Back to my Roots.
+494__Incarceration__at the Stronghold of Player Safety.
+54__Scape Soft__to the north of Falador.
+120__Shining__in the Wilderness north of the Graveyard.
+145__Yesteryear__to the east of Lumbridge Swamp.
+166__Fanfare2__at the Shipyard on Karamja.
+105__Tomorrow__at the coastline south of Port Sarim.
+47__Duel Arena__at the Duel Arena.
+87__Ice Melody__at White Wolf Mountain.
+449__Wild Isle__to the south of Red Dragon Isle in the Wilderness.
+46__Harmony2__in Lumbridge Castle's basement.
+45__Venture2__during Dig Site.
+164__Landlubber__to the west of Brimhaven.
+176__Undercurrent__in the Wilderness south-west of Daemonheim.
+58__Nomad__to the east of the Bedabin Camp.
+146__Zealot__at the Water Altar.
+330__Cellar Song__at the bank vault west of Varrock.
+190__Heart and Mind__at the Body Altar.
+67__Close Quarters__to the west of the Dark Warriors' Fortress in the Wilderness.
+17__Escape__at the perfect gold mine under Ardougne.
+128__Grumpy__at the swamp toad pond in the Feldip Hills.
+71__Chompy Hunt__at the chompy hunt area near Rantz the ogre.
+88__Twilight__during Elemental Workshop.
+48__Morytania__to the east of Paterdomus.
+84__Dead Quiet__to the north of the Mort Myre area.
+61__Village__at Canifis in Morytania.
+154__Bone Dance__to the west of Mort'ton.
+156__Mausoleum__under Paterdomus.
+121__Forbidden__to the north of the Lumber Yard.
+59__Cursed__during Underground Pass.
+131__Understanding__at the Nature Altar.
+149__Principality__at Burthorpe's training ground.
+187__Tremble__during Death Plateau.
+9__Kingdom__on the way to Death Plateau.
+97__Hermit__at the hermit's cave north-west of Burthorpe.
+134__La Mort__at the Death Altar.
+241__Stagnant__at the Hollows in the Mort Myre Swamp.
+132__Breeze__at Isafdar near the Underground Pass.
+243__Stratosphere__at the Cosmic Altar.
+242__Time Out__during the Maze random event.
+245__Natural__at the nature spirit's island in Mort Myre Swamp.
+246__Grotto__at the nature spirit's grotto in Mort Myre Swamp.
+244__Waterlogged__to the south of Canifis.
+247__Artistry__during the Mime random event.
+248__Aztec__at the Brimhaven Agility Arena.
+252__Elven Mist__at the exit of the Underground Pass.
+251__Forest__to the south-east of Isafdar.
+253__Lost Soul__at the Poison Waste in south Isafdar.
+254__Meridian__at the area around Tyras Camp in Isafdar.
+255__Woodland__at the Elf Camp in Tirannwn.
+256__Overpass__at Arandar, east of Tirannwn.
+258__Contest__in Trollheim.
+257__Sojourn__at the troll champion arena.
+259__Crystal Castle__to the south-east of Prifddinas.
+261__Marzipan__at the Trollheim cave.
+260__Insect Queen__at the Kalphite Queen.
+264__Mad Eadgar__at Eadgar's cave atop Trollheim.
+263__Bandit Camp__at the Bandit Camp in the Kharidian Desert.
+267__Sunburn__in the desert north of Jaldraocht Pyramid.
+266__Bone Dry__in the smoky well near Pollnivneach.
+269__Competition__at Burthorpe Games Room.
+11__Spooky2__at the entrance to the Haunted Mine.
+268__Everywhere__to the south-west of Prifddinas.
+270__Exposed__to the south of Tyras Camp in Isafdar.
+271__Well of Voyage__in the passage between Iban's Temple and Isafdar.
+277__Haunted Mine__at the boss area of the Haunted Mine.
+262__Righteousness__at the Law Altar.
+278__Deep Down__on the bottom floor of the Haunted Mine.
+282__Chamber__on the middle floor of the Haunted Mine.
+284__Miscellania__on Miscellania.
+285__Etcetera__on Etceteria.
+286__Shadowland__to the east of Mort'ton.
+287__Lair__at the shade catacombs below Mort'ton.
+288__Deadlands__at the Haunted Woods of Morytania.
+289__Rellekka__at Rellekka.
+290__Saga__to the south of Rellekka.
+291__Borderland__to the east of Rellekka.
+292__Stranded__at the gate to the Ice Path, north of Trollheim.
+293__Legend__to the south-east of Rellekka.
+294__Frostbite__at the Ice Path north of Trollheim.
+295__Warrior__during Fremennik Trials.
+296__Technology__at the gnome glider hangar.
+303__Monkey Madness__on Ape Atoll.
+305__Anywhere__at Marim's main gate.
+304__Marooned__on Crash Island during Monkey Madness.
+306__Island Life__at the southern part of Ape Atoll.
+307__Temple__on Ape Atoll.
+308__Suspicious__during Monkey Madness.
+311__Showdown__during the boss fight in Monkey Madness.
+312__Find My Way__at the gnome tunnel in Monkey Madness.
+314__Castle Wars__during Castle Wars, fighting for Saradomin.
+317__Melodrama__during Castle Wars.
+318__Ready for Battle__during Castle Wars.
+319__Stillness__at the Myreque area under Mort Myre.
+320__Lighthouse__at the Lighthouse.
+346__Goblin Game__at the goblin cave near the Fishing Guild.
+322__Out of the Deep__at the dagannoth cave under the Lighthouse.
+4__Hell's Bells__during the Troll Romance quest.
+316__The Navigator__during Fremennik Trials.
+8__Wildwood__to the west of Stealing Creation in the Wilderness.
+141__Barbarianism__at Barbarian Village.
+142__Complication__at the Chaos Altar.
+143__Down to Earth__at the Earth Altar.
+178__Courage__at Taverley Dungeon.
+265__Superstition__at the cave below the Kharazi Jungle.
+334__Pirates of Peril__at the Pirates' Hideout in the Wilderness.
+336__Dangerous Road__at the caves below Crandor.
+335__Romancing the Crone__during the Troll Romance quest.
+337__Faithless__at the Chaos Temple in the Wilderness.
+338__Tiptoe__at Draynor Manor's cellar.
+339__The Terrible Tower__at the Slayer Tower.
+340__Masquerade__on the west side of the Fremennik Slayer Dungeon.
+341__The Slayer__on the east side of the Fremennik Slayer Dungeon.
+342__Body Parts__at the dungeon south-east of Fenkenstrain's Castle.
+344__Fenkenstrain's Refrain__at Fenkenstrain's Castle.
+343__Monster Melee__at the H.A.M. cave.
+347__Fruits de Mer__at the Fishing Platform.
+345__Barking Mad__at the Werewolf Agility Course.
+351__Dynasty__at the town of Pollnivneach.
+353__Shipwrecked__at the shipwreck on the north coast of Morytania.
+354__Phasmatys__at the pool of ectoplasm underneath the Ectofuntus.
+355__The Other Side__at Port Phasmatys.
+356__Settlement__at the Mountain Camp.
+357__Cave of Beasts__during Mountain Daughter.
+358__Dragontooth Island__on Dragontooth Island.
+352__Scarab__at Jaldraocht, the pyramid visited in Desert Treasure.
+359__Sarcophagus__inside Jaldraocht, the pyramid visited in Desert Treasure.
+361__Down Below__at the dungeon below Draynor Village.
+363__7th Realm__at Brimhaven Dungeon.
+362__Karamja Jam__at the dragon area of Brimhaven Dungeon.
+364__Pathways__at Brimhaven Dungeon's entrance.
+366__Eagle Peak__during Eagles' Peak.
+369__Time to Mine__during Between a Rock...
+370__In Between__during Between a Rock...
+373__Claustrophobia__during Between a Rock...
+372__Far Away__at Lletya.
+375__Fight or Flight__at the slave mine under West Ardougne.
+376__Temple of Light__during Mourning's Ends Part II.
+377__The Golem__at the Ruins of Uzer.
+378__Forgotten__during the Golem.
+379__Throne of the Demon__during Shadow of the Storm.
+380__Dance of the Undead__at the Barrows.
+381__Dangerous Way__beneath the Barrows.
+383__City of the Dead__to the north of (and at) Menaphos.
+384__Hypnotized__during Icthlarin's Little Helper.
+387__Sphinx__to the north of Sophanem.
+388__Mirage__during Icthlarin's Little Helper.
+389__Cave of the Goblins__at the caves beneath Lumbridge Swamp.
+474__Bish Bash Bosh__during As a First Resort...
+392__Zogre Dance__at the zogre area.
+393__Path of Peril__in Damis's Shadow Dungeon.
+394__Wayward__at the zogre Dungeon.
+395__Tale of Keldagrim__on the east side of Keldagrim.
+396__Land of the Dwarves__on the west side of Keldagrim.
+397__Tears of Guthix__during Tears of Guthix.
+390__Romper Chomper__at the ogre area south of Castle Wars.
+402__The Rogues' Den__at the Rogues' Den.
+403__The Far Side__at the Rogues' Den training area.
+407__The Lost Melody__at the Dorgesh-Kaan mine.
+411__Evil Bob's Island__during the Evil Bob random event.
+412__Into the Abyss__in abyssal space.
+413__The Quiz Master__during the Quiz Master random event.
+398__The Power of Tears__during the Tears of Guthix quest.
+147__ __not unlockable!
+419__Pheasant Peasant__during the Freaky Forester random event.
+420__The Lost Tribe__at the goblin mines under Lumbridge.
+418__Corporal Punishment__during the Drill Demon random event.
+425__The Chosen__during Recruitment Drive.
+434__Have a Blast__during Blast Furnace.
+436__Forgettable Melody__during Forgettable Tale...
+44__Right on Track__during Forgettable Tale...
+447__Over To Nardah__at Nardah.
+448__The Monsters Below__in Waterbirth Island Dungeon.
+461__The Desolate Isle__on Waterbirth Island.
+462__Spirits of Elid__during the Spirits of Elid.
+464__The Genie__at the genie's cave west of Nardah.
+465__Desert Heat__in the desert north of Nardah.
+463__Fire and Brimstone__in the TzHaar Fight Pits.
+469__In the Pits__in TzHaar.
+409__Frogland__during the Frog random event.
+470__Strange Place__during A Tail of Two Cats.
+471__Brew Hoo Hoo__at Port Phasmatys brewery.
+473__TzHaar!__in the TzHaar Fight Caves.
+475__Wild Side__to the north of the Lava Maze in the Wilderness.
+476__Dead Can Dance__in the Graveyard of Shadows in the Wilderness.
+478__The Cellar Dwellers__during the Hazeel Cult.
+479__Jungle Troubles__in the jungle of north-east Karamja.
+481__Catch Me If You Can__at the Ardougne Rat Pits.
+482__Rat a Tat Tat__at the Varrock Rat Pits.
+485__The Noble Rodent__during Rat Catchers.
+489__Bubble and Squeak__at the Keldagrim Rat Pits.
+490__Sarim's Vermin__at Port Sarim Rat Pits.
+491__Rat Hunt__during Rat Catchers.
+621__Homescape__automatically.
+497__Aye Car Rum Ba__on Braindeath Island.
+498__Blistering Barnacles__on Braindeath Island's mountain.
+501__Distant Land__at Burgh de Rott.
+504__Fangs for the Memory__during In Aid of the Myreque.
+505__Pharaoh's Tomb__at the Agility Pyramid.
+506__Land Down Under__during Royal Trouble.
+508__Meddling Kids__during Royal Trouble.
+509__Corridors of Power__during Royal Trouble.
+510__Slither and Thither__at the sea snake cave in Royal Trouble.
+511__In the Clink__during the Prison Pete random event.
+515__Mudskipper Melody__at Mudskipper Point.
+517__Subterranea__in Waterbirth Island Dungeon.
+519__Incantation__during Shadow of the Storm.
+520__Grip of the Talon__during Shadow of the Storm.
+198__Dagannoth Dawn__in Waterbirth Island Dungeon.
+524__Xenophobe__in Waterbirth Island Dungeon.
+525__Title Fight__at the Champion's Challenge underground area.
+528__Victory is Mine__at the Champion's Challenge arena.
+529__Woe of the Wyvern__at the Asgarnian Ice Dungeon's wyvern area.
+530__In the Brine__at The Other Inn on Mos Le'Harmless.
+532__Diango's Little Helpers__at Diango's Christmas workshop.
+533__Roll the Bones__at the Mage Training Arena's Creature Graveyard.
+534__Mind Over Matter__at the Mage Training Arena's Telekinetic Theatre.
+535__Golden Touch__at the Mage Training Arena's Alchemists' Playground.
+147__ __not unlockable!
+541__The Enchanter__at the Mage Training Arena's Enchanting Chamber.
+207__Scape Hunter__automatically.
+544__Making Waves__during Swan Song.
+545__Cabin Fever__during Cabin Fever.
+546__Last Stand__during Swan Song.
+542__Lament__during Enakhra's Lament.
+548__Poles Apart__at the Trollweiss and Rellekka Hunter area.
+455__Scarabaeoidea__during Dealing with Scabaras.
+453__Jungle Hunt__at the Feldip Hunter area.
+454__Home Sweet Home__at your player-owned house.
+460__Joy of the Hunt__at the Feldip Hunter area cave.
+537__Dogs of War__at the Vault of War in the Stronghold of Security.
+558__Food for Thought__at the Catacomb of Famine in the Stronghold of Security.
+559__Malady__at the Pit of Pestilence in the Stronghold of Security.
+560__Dance of Death__at the Sepulchre of Death in the Stronghold of Security.
+565__Wrath and Ruin__at the anger room of Tolna's rift.
+568__Storm Brew__at the killerwatt plane.
+573__The Mad Mole__at Falador Mole Lair.
+576__Davy Jones's Locker__during Recipe for Disaster.
+575__Chickened Out__at the Evil Chicken's lair.
+477__Hot 'n' Bothered__during As a First Resort...
+577__Mastermindless__during Recipe for Disaster.
+964__Too Many Cooks...__during Recipe for Disaster.
+583__Chef Surprize__during Recipe for Disaster.
+587__Null and Void__at the Pest Control landing area.
+588__Pest Control__during Pest Control.
+591__Tomb Raider__during Pyramid Plunder.
+594__No Way Out__at the hopelessness room of Tolna's rift area.
+600__Method of Madness__at the confusion room of Tolna's rift area.
+602__Fear and Loathing__at the fear room of Tolna's rift area.
+603__Funny Bunnies__in an Easter holiday event (2006 onwards).
+604__Assault and Battery__during Barbarian Assault.
+606__The Depths__during Contact!
+610__Distillery Hilarity__at Trouble Brewing's distillery.
+611__Trouble Brewing__during Trouble Brewing.
+612__Head to Head__during the Evil Twin random event.
+614__Pinball Wizard__during the Pinball random event.
+615__Beetle Juice__during Contact!
+616__Back to Life__during Contact!
+213__Labyrinth__during Contact!
+493__Safety in Numbers__at the Stronghold of Player Safety.
+586__Everlasting Fire__in the north-east corner of the Wilderness.
+622__Waking Dream__during your dream in Lunar Diplomacy.
+623__Dreamstate__during your dream in Lunar Diplomacy.
+625__The Lunar Isle__at Lunar Isle.
+627__Isle of Everywhere__on the east coast of Lunar Isle.
+626__Way of the Enchanter__in the dungeon beneath Lunar Isle.
+634__Warriors' Guild__at the Warriors' Guild.
+631__Life's a Beach!__at the coastal area of Mos Le'Harmless.
+633__On the Wing__at the Falconer Area, north-east of Eagles' Peak.
+632__Little Cave of Horrors__in the cave horror dungeon beneath Mos Le'Harmless.
+200__The Mollusc Menace__during Slug Menace.
+630__The Galleon__during Lunar Diplomacy.
+638__H.A.M. Fisted__during Death to the Dorgeshuun.
+197__Lament of Meiyerditch__during the Darkness of Hallowvale.
+640__Sigmund's Showdown__during Death to the Dorgeshuun.
+643__The Last Shanty__during the Darkness of Hallowvale.
+646__Night of the Vampyre__during the Darkness of Hallowvale.
+126__We Are the Fairies__on the cosmic entity plane during Fairy Tale Part II.
+86__Dimension X__on the gorak plane in Fairy Tale Part II.
+73__All's Fairy in Love and War__at the fairy resistance hideout in Fairy Tale Part II.
+222__Major Miner__during Fremennik Isles.
+221__Jester Minute__during Fremennik Isles.
+223__Norse Code__during Fremennik Isles.
+225__Volcanic Vikings__during Fremennik Isles.
+220__Island of the Trolls__during Fremennik Isles.
+211__Pirates of Penance__during Barbarian Assault.
+194__Brimstail's Scales__at Brimstail's cave.
+203__My Arm's Journey__during My Arm's Big Adventure.
+201__Slug a Bug Ball__during the Slug Menace Quest.
+202__Prime Time__during Elemental Workshop II.
+274__Rising Damp__during Olaf's Quest.
+620__Where Eagles Lair__during Eagles' Peak.
+224__Ogre the Top__during Fremennik Isles.
+237__Work Work Work__during Tower of Life.
+235__Magic Magic Magic__during Tower of Life.
+236__Mutant Medley__during Tower of Life.
+240__Dorgeshuun City__at Dorgesh-Kaan.
+249__Dorgeshuun Deep__at the Dorgesh-Kaan caves.
+206__Floating Free__during An Enlightened Journey.
+204__Roc and Roll__during My Arm's Big Adventure.
+205__High Spirits__in a Halloween holiday event (2006 onwards).
+309__Looking Back__at Varrock Museum.
+208__Jungle Island XMAS__in a Christmas holiday event (2006 onwards).
+210__Sea Shanty XMAS__in a Christmas holiday event (2006 onwards).
+209__Jungle Bells__in a Christmas holiday event (2006 onwards).
+230__Garden of Summer__during Sorceress's Garden.
+229__Garden of Spring__during Sorceress's Garden.
+231__Garden of Winter__during Sorceress's Garden.
+228__Garden of Autumn__during Sorceress's Garden.
+217__Have an Ice Day__during Cold War.
+238__Zombiism__during The Great Brain Robbery.
+234__Creature Cruelty__during Tower of Life.
+272__Alternative Root__during What Lies Below.
+216__Espionage__during Cold War.
+214__Undead Dungeon__in Tarn's Lair.
+275__Slice of Station__during Another Slice of H.A.M..
+367__Barb Wire__while learning barbarian skills.
+349__Impetuous__during Impetuous Impulses.
+273__Easter Jig__in an Easter holiday event (2007 onwards).
+279__Ham Attack__during Another Slice of H.A.M..
+281__Slice of Silent Movie__during Another Slice of H.A.M..
+276__Ham and Seek__during Another Slice of H.A.M..
+450__Venomous__at the Scorpion Pit in the Wilderness.
+150__Mouse Trap__during Grim Tales.
+23__Fe Fi Fo Fum__during Grim Tales.
+371__School's Out__during the Pattern Recognition random event.
+299__Inadequacy__during Dream Mentor.
+298__Illusive__during Dream Mentor.
+283__Everlasting__during Dream Mentor.
+300__Untouchable__during Dream Mentor.
+301__Down and Out__during Dream Mentor.
+302__On the Up__during Dream Mentor.
+365__Melzar's Maze__during Dragon Slayer.
+391__Zamorak Zoo__in the God Wars Dungeon.
+408__Strength of Saradomin__in the God Wars Dungeon.
+386__Bandos Battalion__in the God Wars Dungeon.
+404__Armadyl Alliance__in the God Wars Dungeon.
+399__Armageddon__in the God Wars Dungeon.
+421__Storeroom Shuffle__during Path of Glouphrie.
+414__The Longramble Scramble__during Path of Glouphrie.
+426__Waste Defaced__during Path of Glouphrie.
+374__Knightmare__at the Black Knights' Fortress.
+382__Lore and Order__during King's Ransom.
+417__Terrorbird Tussle__default info
+428__Altar Ego__default info
+427__Bolrie's Diary__default info
+416__Healin' Feelin'__default info
+456__Animal Apogee__default info
+440__Temple of Tribes__default info
+439__Catacombs and Tombs__default info
+437__Zanik's Theme__default info
+433__Dusk in Yu'biusk__default info
+432__Grimly Fiendish__default info
+451__Tune from the Dune__default info
+472__Spa Bizarre__default info
+452__Copris Lunaris__default info
+348__Narnode's Theme__default info
+441__Tournament!__default info
+442__Clan Wars__default info
+487__Charmin' Farmin'__default info
+444__Bounty Hunter Level 1__default info
+443__Bounty Hunter Level 2__default info
+445__Bounty Hunter Level 3__default info
+401__The Adventurer__default info
+499__Creepy__default info
+500__A New Menace__default info
+147__ __default info
+350__ __default info
+360__ __default info
+195__ __default info
+219__ __default info
+218__ __default info
+227__ __default info
+196__ __default info
+431__ __default info
+574__ __default info
+239__Brain Battle__default info
+406__ __default info
+226__ __default info
+250__Surok's Theme__default info
+233__ __default info
+215__ __default info
+315__ __default info
+410__ __default info
+405__ __default info
+484__ __default info
+199__ __default info
+212__ __default info
+297__ __default info
+480__ __default info
+232__ __default info
+368__ __default info
+458__ __default info
+430__ __default info
+422__ __default info
+423__ __default info
+424__ __default info
+446__ __default info
+496__The Trade Parade__default info
+483__Jungle Community__default info
+495__ __default info
+523__Icy Trouble Ahead__default info
+522__Icy a Worried Gnome__default info
+385__ __default info
+39__ __default info
+40__ __default info
+79__ __default info
+332__ __default info
+260__ __default info
+288__ __default info
+174__ __default info
+573__ __default info
+165__ __default info
+548__ __default info
+347__ __default info
+529__ __default info
+241__ __default info
+172__ __default info
+33__ __default info
+24__ __default info
+501__Distant Land__default info
+314__Castle Wars__default info
+588__Pest Control__default info
+269__Competition__default info
+548__Poles Apart__default info
+372__Far Away__default info
+4__Hell's Bells__default info
+512__Bloodbath__default info
+459__The Route of All Evil__default info
+467__The Route of the Problem__default info
+488__The Wrong Path__default info
+514__The Columbarium__default info
+518__The Terrible Tunnels__default info
+521__The Terrible Caverns__default info
+527__Dillo-gence is Key__default info
+526__Arma Gonna Get You__default info
+531__TokTz-Ket-Ek-Mack__default info
+549__Jailbird__default info
+502__Bittersweet Bunny__default info
+550__Something Fishy__default info
+539__Under the Sand__default info
+540__Desert Smoke__default info
+551__A Pirate's Life for Me__default info
+513__Conspiracy: Part 1__default info
+516__Conspiracy: Part 2__default info
+457__Scape Summon__default info
+507__Guthix's Hunter__default info
+503__Waiting for the Hunt__default info
+536__Cool for Ali Cats__default info
+561__Second Vision__default info
+569__Undead Army__default info
+566__Zombie Invasion__default info
+570__The Ruins of Camdozaal__default info
+567__Dream Theatre__default info
+552__The Mentor__default info
+543__Slain to Waste__default info
+555__Ardougne Ago__default info
+556__Sarah's Lullaby__default info
+553__Shining Spirit__default info
+554__Troubled Spirit__default info
+564__Bane of Summer__default info
+563__The Vacant Abyss__default info
+557__Historic Memories__default info
+578__Stealing Creation__default info
+562__Circus__default info
+579__Dangerous Logic__default info
+585__Black of Knight__default info
+571__The Art of Hocus-Pocus__default info
+572__Magic and Mystery__default info
+589__The Sound of Guthix__default info
+580__ __default info
+584__Temple Desecrated__default info
+669__Command Centre__default info
+596__The Phoenix__default info
+668__Mobilising Armies__default info
+581__The Evil Within__default info
+590__ __default info
+593__The Dance of the Snow Queen__default info
+595__Cavernous Mythology__default info
+592__Winter Funfare__default info
+670__Waiting for Battle__default info
+641__Lair of Kang Admi__default info
+639__Frost Fight__default info
+637__Glorious Recallation...__default info
+629__Glorious Recallation...__default info
+628__Glorious Recallation...__default info
+635__The Adventurers Re-United!__default info
+648__The Plundered Tomb__default info
+649__Ancestral Wisdom__default info
+636__Nial's Widow__default info
+645__The Muspah's Tomb__default info
+673__Lamistard's Labyrinth__default info
+672__The Heist__default info
+599__Snack Attack__default info
+671__ __default info
+598__Soul Wars__default info
+597__The Waiting Game__default info
+647__Rest for the Weary__default info
+601__Trees Aren't Your Friends__default info
+618__The Throne of Bandos__default info
+652__Penguin Possible__default info
+624__Don't Panic Zanik__default info
+605__Demise of the Dorgeshuun__default info
+617__The Chosen Commander__default info
+651__The Pengmersible__default info
+655__Desert Island Bear__default info
+654____default info
+653____default info
+650__Ice Day for Penguins__default info
+613__Face Off__default info
+607____default info
+709____default info
+690____default info
+705____default info
+686____default info
+697____default info
+691____default info
+702____default info
+704____default info
+698____default info
+703____default info
+147____default info
+706____default info
+700____default info
+708____default info
+692____default info
+688____default info
+687____default info
+696____default info
+689____default info
+147____default info
+695____default info
+685____default info
+694____default info
+699__Zaros Stirs__default info
+693__The Horn of Chill__default info
+609__Godslayer__default info
+608__But We Can Fight__default info
+642__Lazy Wabbit__default info
+644__Hare-brained Machines__default info
+658____default info
+656____default info
+660____default info
+665____default info
+664____default info
+661____default info
+662____default info
+659____default info
+657____default info
+663____default info
+667__Eruption__default info
+717__I'm Counting on You__default info
+666__Kharidian Nights__default info
+678__Living Rock__default info
+674__Exhibit 'A'__default info
+677__Fight of the Dwarves__default info
+675____default info
+676____default info
+710__Final Destination__default info
+680__Elven Seed__default info
+679__Scape Theme__default info
+716__Honkytonky Newbie Melody__default info
+718__Honkytonky Harmony__default info
+681__Trick or Treat?__default info
+683__Itsy Bitsy...__default info
+682__Poison Dreams__default info
+721__Honkytonky Medieval__default info
+714__Jaws of the Dagannoth__default info
+684__The Duke__default info
+713__The Fallen Hero__default info
+711____default info
+719__Honkytonky Sea Shanty__default info
+720__Honkytonky Parade__default info
+715__Maiasaura__default info
+712____default info
+726____default info
+843__Root Canal__default info
+728__Desolate Ruins__default info
+724__Smorgasbord__default info
+725__Silent Knight__default info
+722__Ghost of Christmas Presents__default info
+723____default info
+727__Battle of Souls__default info
+729__These Stones__default info
+730__A Familiar Feeling__default info
+731__Dead and Buried__default info
+732__The Pact__default info
+734__Freshwater__default info
+735__Saltwater__default info
+736__Stillwater__default info
+737__An Easter United__default info
+733____default info
+842__Thieves' Guild I__default info
+839__Thieves' Guild II__default info
+838__Thieves' Guild III__default info
+840__Thieves' Guild IV__default info
+844__Body Talk__default info
+852__   __default info
+851__Love Lost__default info
+855__Love and Hate__default info
+854__Love Bites__default info
+853__   __default info
+845__Castle Warz__default info
+850__   __default info
+847__Mindful__default info
+848__Void Knights' Theme__default info
+849__Lortnoc Tsep__default info
+147__   __default info
+846__Judge and Jury__default info
+803__Born to Do This__default info
+770__   __default info
+836__ __default info
+805__ __default info
+806__ __default info
+830__ __default info
+829__ __default info
+804__ __default info
+809__ __default info
+807__ __default info
+823__ __default info
+822__ __default info
+835__ __default info
+826__ __default info
+813__ __default info
+812__ __default info
+828__ __default info
+825__ __default info
+832__Glacialis I__default info
+834__Glacialis II__default info
+827__Glacialis III__default info
+811__Glacialis IV__default info
+824__Glacialis V__default info
+808__Glacialis VI__default info
+831__Glacialis VII__default info
+810__Glacialis VIII__default info
+833__Glacialis IX__default info
+837__Glacialis X__default info
+816__Astea Frostweb__default info
+820__To'Kash the Bloodchiller__default info
+815__Icy Bones__default info
+818__Luminescent Icefiend__default info
+817__Gluttonous Behemoth__default info
+819__Plane-freezer Lakhrahnaz__default info
+776__ __default info
+797__ __default info
+793__ __default info
+789__ __default info
+800__ __default info
+796__ __default info
+777__ __default info
+772__ __default info
+795__ __default info
+791__ __default info
+774__ __default info
+798__ __default info
+773__ __default info
+778__ __default info
+788__ __default info
+792__ __default info
+779__Desolo I__default info
+781__Desolo II__default info
+799__Desolo III__default info
+802__Desolo IV__default info
+794__Desolo V__default info
+780__Desolo VI__default info
+771__Desolo VII__default info
+790__Desolo VIII__default info
+775__Desolo IX__default info
+801__Desolo X__default info
+786__Bal'lak the Pummeller__default info
+785__Bulwark Beast__default info
+787__Hobgoblin Geomancer__default info
+783__Shadow-forger Ihlakhizan__default info
+784__Unholy Cursebearer__default info
+782__Divine Skinweaver__default info
+766__ __default info
+752__ __default info
+758__ __default info
+744__ __default info
+760__ __default info
+764__ __default info
+749__ __default info
+751__ __default info
+745__ __default info
+754__ __default info
+750__ __default info
+763__ __default info
+740__ __default info
+755__ __default info
+762__ __default info
+765__ __default info
+748__Adorno I__default info
+769__Adorno II__default info
+741__Adorno III__default info
+739__Adorno IV__default info
+742__Adorno V__default info
+753__Adorno VI__default info
+761__Adorno VII__default info
+757__Adorno VIII__default info
+747__Adorno IX__default info
+756__Adorno X__default info
+767__Har'Lakk the Riftsplitter__default info
+738__Lexicus Runewright__default info
+759__Night-gazer Khighorahk__default info
+768__Sagittare__default info
+746__Rammernaut__default info
+743__Stomp__default info
+888__ __default info
+884__ __default info
+887__ __default info
+875__ __default info
+878__ __default info
+879__ __default info
+866__ __default info
+881__ __default info
+871__ __default info
+874__ __default info
+862__ __default info
+861__ __default info
+869__ __default info
+867__ __default info
+868__ __default info
+883__ __default info
+928____default info
+934____default info
+932____default info
+921____default info
+933____default info
+915____default info
+918____default info
+931____default info
+935____default info
+912____default info
+909____default info
+923____default info
+929____default info
+926____default info
+919____default info
+910____default info
+873__Occulo I__default info
+882__Occulo II__default info
+880__Occulo III__default info
+860__Occulo IV__default info
+886__Occulo V__default info
+872__Occulo VI__default info
+885__Occulo VII__default info
+889__Occulo VIII__default info
+870__Occulo IX__default info
+864__Occulo X__default info
+876__Necrolord__default info
+891__Gravecreeper__default info
+865__Skeletal Trio__default info
+863__Yk'Lagor the Thunderous__default info
+877__Runed Behemoth__default info
+892__Flesh-spoiler Haasghenahk__default info
+930__Torqueo I__default info
+914__Torqueo II__default info
+917__Torqueo III__default info
+911__Torqueo IV__default info
+927__Torqueo V__default info
+939__Torqueo VI__default info
+938__Torqueo VII__default info
+920__Torqueo VIII__default info
+925__Torqueo IX__default info
+936__Torqueo X__default info
+940__Blink__default info
+924__Kal'Ger the Warmonger__default info
+916__Hope Devourer__default info
+922__Warped Gulega__default info
+913__Dreadnaught__default info
+937__World-gorger Shukarhazh__default info
+858__Out of Control__default info
+856__Chain Reaction__default info
+857__All for the Pest__default info
+859__Destiny__default info
+893__Unavoidable Conflict__default info
+895__Right of Conquest__default info
+894__ __default info
+890__Yk'Lagor the Thunderous__default info
+896__Gunnarsgrunn__default info
+898__ __default info
+897__ __default info
+907__Halloween Party__default info
+908__Black Zabeth: LIVE!__default info
+903__Black Zabeth__default info
+900__In Security__default info
+905__Give it Your Pest Shot__default info
+901__ __default info
+904__The Void Stares Back__default info
+902__Precarious Void__default info
+899__Mystery Revealed__default info
+906__Who Are We to Judge?__default info
+582__Metalwork__default info
+952__ __default info
+953__Christmas Caverns__default info
+951__Seasonal Sports__default info
+941__The Task at Hand__default info
+943__Monkey See, Monkey Do__default info
+947__Monkey See, Monkey Do__default info
+944__Simian Scuffle__default info
+945__ __default info
+946__ __default info
+949__ __default info
+950__Monkey See, Monkey Do__default info
+958__Rocky Rescue__default info
+954__Go with the Flow__default info
+955__The Records Chamber__default info
+959__Corporate Callousness__default info
+942__ __default info
+948__ __default info
+957__Colonel Grimsson__default info
+956__Only a King__default info
+699__ __default info
+960__Zaros Zeitgeist__default info
+961__Reunion__default info
+962__Cage Against the Machine__default info
+963__Logical Progression__default info
+965__The Factory Floor__default info
+966__Spring Song__default info
+967__Lament of the Snow Queen__default info
+971__Troll Invasion__default info
+970__Deadliest Catch__default info
+968__Three of a Kind__default info
+969__Deadliest Catch__default info
+1008__Return of Lucien__default info
+972__Kethsi__default info
+985__Citadel Theme__default info
+973__Slug Poison__default info
+1000__Darkmeyer__default info
+1004__Arboretum__default info
+1003__Upir Likhyi__default info
+1001__Vanescula Fight__default info
+974__ __default info
+975__Natural Selection__default info
+999__ __default info
+994__Citadel I__default info
+997__Citadel II__default info
+988__Citadel III__default info
+993__Citadel IV__default info
+995__Citadel V __default info
+982__Citadel VI __default info
+976__Citadel VII __default info
+984__Citadel VIII __default info
+992__Citadel IX __default info
+998__Citadel X __default info
+978__Citadel XI __default info
+990__Citadel XII __default info
+987__Citadel XIII __default info
+989__Citadel XIV __default info
+979__Citadel XV __default info
+996__Citadel XVI __default info
+980__ __default info
+985__ __default info
+983__Architect of War__default info
+981__ __default info
+977__ __default info
+1005__ __default info

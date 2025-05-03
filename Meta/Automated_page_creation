@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/><link rel="stylesheet" href="https://runelibris.github.io/Styles/style.css">
+<title>Meta/Automated page creation - RuneLibris</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"964859b8804d41b2c8afcb28","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Meta/Automated_page_creation","wgTitle":"Meta/Automated page creation","wgCurRevisionId":25369,"wgRevisionId":25369,"wgArticleId":9607,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Meta/Automated_page_creation","wgRelevantArticleId":9607,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.skinning.interface":"ready","skins.darkvector.styles":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","ext.gadget.checkboxList","skins.darkvector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/RuneLibris/load.php?lang=en&amp;modules=ext.cite.styles%7Cjquery.tablesorter.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.darkvector.styles&amp;only=styles&amp;skin=darkvector"/>
+<script async="" src="/RuneLibris/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=darkvector"></script>
+<meta name="generator" content="MediaWiki 1.35.5"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=edit"/>
+<link rel="icon" type="image/x-icon" href="file:///R:/Xampp/htdocs/RuneLibris/__RULI_demo_primer/Styles/icon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/RuneLibris/opensearch_desc.php" title="RuneLibris (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://localhost/RuneLibris/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="RuneLibris Atom feed" href="/RuneLibris/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/RuneLibris/skins/DarkVector/csshover.min.htc")}</style><![endif]-->
+<!--[if lt IE 9]><script src="/RuneLibris/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Meta_Automated_page_creation rootpage-Meta_Automated_page_creation skin-darkvector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<div class = "warningbox"><p>This website is a read-only preview of <a href="https://manpaint.neocities.org/library/runelibris">RuneLibris</a>. Some features may not work. To download the full feature-complete version of this wiki, please visit <a href="https://manpaint.neocities.org/library/runelibris">this link</a>.<br><br><a href="https://runelibris.github.io/index.html">(Return to archive index)</a></p></div><h1 id="firstHeading" class="firstHeading" lang="en">Meta/Automated page creation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From RuneLibris</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><span class="RSFont" style="color:#6FA662; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#131C14; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">It appears that this method do not work for pages containing special characters such as "é" and "è".</span>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Requirements"><span class="tocnumber">1</span> <span class="toctext">Requirements</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Parsing_redlinks"><span class="tocnumber">2</span> <span class="toctext">Parsing redlinks</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Protocol"><span class="tocnumber">3</span> <span class="toctext">Protocol</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Requirements">Requirements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=edit&amp;section=1" title="Edit section: Requirements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This method require LibreOffice.
+</p>
+<h2><span class="mw-headline" id="Parsing_redlinks">Parsing redlinks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=edit&amp;section=2" title="Edit section: Parsing redlinks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To automatically generate pages, you will need a list of will-be page titles. This is usually done by parsing redlinks from a set of pages:
+</p>
+<ul><li>Go to a RuneLibris page</li>
+<li>Press CTRL + A</li>
+<li>Using "Copy Selected Links" Firefox addon, copy all links<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;Note 1&#93;</a></sup></li>
+<li>Paste data in Notepad++</li>
+<li>Trim out unrelated data</li>
+<li>Only preserve lines that contains <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">&amp;redlink=1</span></li>
+<li>Replace <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">http://localhost/RuneLibris/index.php?title=RS/</span> with nothing</li>
+<li>Replace <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">&amp;action=edit&amp;redlink=1</span> with nothing</li>
+<li><span style="color:red">Make sure there is no "&amp;" in the data.</span></li>
+<li>In Notepad++, go to Compléments, MIME Tools, URL Decode</li>
+<li>Replace every <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">_</span> with a space.</li>
+<li>Name said list <b>4 - Page list.txt</b>.
+<ul><li>If any name have a ",", subsitute it for something else.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Protocol">Protocol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=edit&amp;section=3" title="Edit section: Protocol">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Make a wiki page that will serve as the base model.</li>
+<li>Make sure to name it with an obvious debug name (i.e KUPPACLE)</li>
+<li>Go to <a href="https://runelibris.github.io/Special:Export" title="Special:Export">Special:Export</a> and export the page (make sure to only include current revision)</li>
+<li>Save it as <b>1 - original page.xml</b>.</li>
+<li>Create a copy of the exported page and name it <b>2 - HTML template.xml</b>.</li>
+<li>Edit the content to make sure it it only contains content within the &lt;page&gt;.</li></ul>
+<p>The HTML template should look similar to this:
+</p>
+<pre>  &lt;page&gt;
+    &lt;title&gt;RS/Locs/Tree (ID: 84030)&lt;/title&gt;
+    &lt;ns&gt;0&lt;/ns&gt;
+    &lt;id&gt;9564&lt;/id&gt;
+    &lt;revision&gt;
+      &lt;id&gt;25227&lt;/id&gt;
+      &lt;parentid&gt;25215&lt;/parentid&gt;
+      &lt;timestamp&gt;2025-04-16T17:53:36Z&lt;/timestamp&gt;
+      &lt;contributor&gt;
+        &lt;username&gt;Admin&lt;/username&gt;
+        &lt;id&gt;1&lt;/id&gt;
+      &lt;/contributor&gt;
+	  &lt;comment&gt;Page created automatically&lt;/comment&gt;
+      &lt;origin&gt;25227&lt;/origin&gt;
+      &lt;model&gt;wikitext&lt;/model&gt;
+      &lt;format&gt;text/x-wiki&lt;/format&gt;
+      &lt;text bytes="392" sha1="aqzv04eh4mudr2v6i85cf1zhg1d82ij" xml:space="preserve"&gt;
+==Interactions==
+{| class="wikitable sortable"
+| OP || Examine
+|-
+| &amp;nbsp; || ''Examines are consigned to data pages''
+|}
+
+==Meta notes==
+This page was automatically generated as part of the [[User:Dev notes/2025-04-16: Making Examine-only Loc Pages|2025-04-16: Making Examine-only Loc Pages]] task.
+
+==References==
+
+[[Category:Examine-only locs]]
+
+[[Category:Automatically generated pages]]&lt;/text&gt;
+      &lt;sha1&gt;aqzv04eh4mudr2v6i85cf1zhg1d82ij&lt;/sha1&gt;
+    &lt;/revision&gt;
+  &lt;/page&gt;
+</pre>
+<ul><li>It is reccomended that you make sure that the "Page created automatically" is there.</li>
+<li>Create another copy of the original export, name it <b>3 - Import template.xml</b>.</li>
+<li>Edit the document, this time remove the content betwen the &lt;page&gt; tags. Here's an example:</li></ul>
+<p>Data for "Import template":
+</p>
+<pre>&lt;mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en"&gt;
+  &lt;siteinfo&gt;
+    &lt;sitename&gt;RuneLibris&lt;/sitename&gt;
+    &lt;dbname&gt;RuneLibris&lt;/dbname&gt;
+    &lt;base&gt;http://localhosthttps://runelibris.github.io/Main_Page&lt;/base&gt;
+    &lt;generator&gt;MediaWiki 1.35.5&lt;/generator&gt;
+    &lt;case&gt;first-letter&lt;/case&gt;
+    &lt;namespaces&gt;
+      &lt;namespace key="-2" case="first-letter"&gt;Media&lt;/namespace&gt;
+      &lt;namespace key="-1" case="first-letter"&gt;Special&lt;/namespace&gt;
+      &lt;namespace key="0" case="first-letter" /&gt;
+      &lt;namespace key="1" case="first-letter"&gt;Talk&lt;/namespace&gt;
+      &lt;namespace key="2" case="first-letter"&gt;User&lt;/namespace&gt;
+      &lt;namespace key="3" case="first-letter"&gt;User talk&lt;/namespace&gt;
+      &lt;namespace key="4" case="first-letter"&gt;RuneLibris&lt;/namespace&gt;
+      &lt;namespace key="5" case="first-letter"&gt;RuneLibris talk&lt;/namespace&gt;
+      &lt;namespace key="6" case="first-letter"&gt;File&lt;/namespace&gt;
+      &lt;namespace key="7" case="first-letter"&gt;File talk&lt;/namespace&gt;
+      &lt;namespace key="8" case="first-letter"&gt;MediaWiki&lt;/namespace&gt;
+      &lt;namespace key="9" case="first-letter"&gt;MediaWiki talk&lt;/namespace&gt;
+      &lt;namespace key="10" case="first-letter"&gt;Template&lt;/namespace&gt;
+      &lt;namespace key="11" case="first-letter"&gt;Template talk&lt;/namespace&gt;
+      &lt;namespace key="12" case="first-letter"&gt;Help&lt;/namespace&gt;
+      &lt;namespace key="13" case="first-letter"&gt;Help talk&lt;/namespace&gt;
+      &lt;namespace key="14" case="first-letter"&gt;Category&lt;/namespace&gt;
+      &lt;namespace key="15" case="first-letter"&gt;Category talk&lt;/namespace&gt;
+      &lt;namespace key="2300" case="first-letter"&gt;Gadget&lt;/namespace&gt;
+      &lt;namespace key="2301" case="first-letter"&gt;Gadget talk&lt;/namespace&gt;
+      &lt;namespace key="2302" case="case-sensitive"&gt;Gadget definition&lt;/namespace&gt;
+      &lt;namespace key="2303" case="case-sensitive"&gt;Gadget definition talk&lt;/namespace&gt;
+    &lt;/namespaces&gt;
+  &lt;/siteinfo&gt;
+
+&lt;/mediawiki&gt;
+</pre>
+<ul><li>In LibreOffice, create a standard spreadsheet with a simple header (i.e page_title)</li>
+<li>Import the list of names</li>
+<li>Make sure that headers have NO space (i.e page_title is a good title)</li>
+<li>Export the spreadsheet in .xlsx, name the file as a single string (i.e dataset.xlsx.)</li></ul>
+<ul><li>Create a new LibreOffice Text Document (can be done in any LibreOffice windows)</li>
+<li>Copy the contents of 2 - HTML template.xml in the document.</li>
+<li>In LibreOffce go to File, Wizards, Adress Data Source</li>
+<li>Select "other external data source" and click next.</li>
+<li>Click on "settings" button.</li>
+<li>Click "next" button.</li>
+<li>Browse for the <b>5 - Database.xlsx</b> file, click "finish"</li>
+<li>Click "next"</li>
+<li>In "Adress book name" field, give it a custom name (avoid spaces)</li>
+<li>If there is a "file already exists" message, overwrite it.</li>
+<li>Goto View, Data source.</li>
+<li>Look for the data source you just created.</li>
+<li>Drag the table header in an empty area of the text document. This should produce a tag like <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">&lt;Page_title&gt;</span>.</li>
+<li>Put the tags at the places where data will need to be substitued.</li>
+<li>Once done, go to File, Print.</li>
+<li>Click yes</li>
+<li>Select "file" radio button (small selectable circle)</li>
+<li>Select "save as single document"</li>
+<li>Click OK</li>
+<li>Save the ouput file in .txt format with the filename <b>6 - Output.txt</b>.</li>
+<li>Wait for the data merging process to finish (this might take a while)</li>
+<li>Transfer the content of <b>6 - Output.txt</b> to a file called <b>6 - Output.txt</b></li>
+<li>Look for non-printable chararacters in Notepad++</li>
+<li>Make a copy of <b>3 - import template.xml</b> called <b>data.xml</b></li>
+<li>Paste <b>6 - Output.txt</b> within the &lt;siteinfo&gt; and &lt;/mediawiki&gt; tags. Do not worry if some of the tabulation/spaces are missing</li></ul>
+<ul><li>Save the document.</li>
+<li>Copy the following CMD command in Notepad++ and tweak the filepaths to match your XAMPP installation:</li></ul>
+<p><span style="color:red">Make sure to not overwrite any other path</span>
+</p>
+<pre>"R:\Xampp\php\php.exe" "R:\Xampp\htdocs\RuneLibris\maintenance\importDump.php" --conf "R:\Xampp\htdocs\RuneLibris\LocalSettings.php" "data.xml" --username-prefix="en" &gt; result.txt
+</pre>
+<ul><li>Replace "data.xml. with the path to your test run file.</li>
+<li>Check if the command formating is all on one line.</li>
+<li>Execute the command in CMD.
+<ul><li><span style="color:red">The importation may take a while</span></li></ul></li>
+<li>Once the command is finished, check "result.txt" for any error.</li>
+<li>On the wiki make list of link featuring expected pages on <a href="https://runelibris.github.io/RuneLibris:Sandbox" title="RuneLibris:Sandbox">RuneLibris:Sandbox</a>, to see if everything is here.</li>
+<li>Tweak and run the following command:</li></ul>
+<pre>"R:\Xampp\php\php.exe" "R:\Xampp\htdocs\RuneLibris\maintenance\rebuildrecentchanges.php"
+</pre>
+<ul><li>Wait for the command to finish, <span style="color:red">this can take a long while (30+ minutes)</span></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">A copy of this addon can be found in RueLibris' SoftwareSuite</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20250502212817
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.141 seconds
+Real time usage: 0.281 seconds
+Preprocessor visited node count: 193/1000000
+Post‐expand include size: 2323/2097152 bytes
+Template argument size: 217/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4340/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  169.931      1 -total
+ 68.45%  116.315      1 Template:Comment
+ 10.01%   17.006      5 Template:Text
+-->
+
+<!-- Saved in parser cache with key RuneLibris:pcache:idhash:9607-0!canonical and timestamp 20250502212817 and revision id 25369
+ -->
+</div></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://localhost/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;oldid=25369">http://localhost/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;oldid=25369</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anontalk"><a href="https://runelibris.github.io/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="https://runelibris.github.io/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/RuneLibris/index.php?title=Special:CreateAccount&amp;returnto=Meta%2FAutomated+page+creation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/RuneLibris/index.php?title=Special:UserLogin&amp;returnto=Meta%2FAutomated+page+creation" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="darkvectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="https://runelibris.github.io/Meta/Automated_page_creation"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/RuneLibris/index.php?title=Talk:Meta/Automated_page_creation&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="darkvectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="darkvectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="https://runelibris.github.io/Meta/Automated_page_creation" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="darkvectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/RuneLibris/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search RuneLibris" title="Search RuneLibris [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="https://runelibris.github.io/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="https://runelibris.github.io/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="https://runelibris.github.io/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="https://runelibris.github.io/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="https://runelibris.github.io/Special:WhatLinksHere/Meta/Automated_page_creation" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="https://runelibris.github.io/Special:RecentChangesLinked/Meta/Automated_page_creation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="https://runelibris.github.io/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;oldid=25369" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/RuneLibris/index.php?title=Meta/Automated_page_creation&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <p>This page was last edited on 16 April 2025, at 22:06.
+</p><p>RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex.
+</p><p>RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited.
+</p><p>You can play RuneScape at runescape.com
+</p></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://runelibris.github.io/RuneLibris:Privacy_policy" title="RuneLibris:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="https://runelibris.github.io/RuneLibris:About" title="RuneLibris:About">About RuneLibris</a></li>
+											<li id="footer-places-disclaimer"><a href="https://runelibris.github.io/RuneLibris:General_disclaimer" title="RuneLibris:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="https://www.mediawiki.org/"><img src="/RuneLibris/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/RuneLibris/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /RuneLibris/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.141","walltime":"0.281","ppvisitednodes":{"value":193,"limit":1000000},"postexpandincludesize":{"value":2323,"limit":2097152},"templateargumentsize":{"value":217,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4340,"limit":5000000},"timingprofile":["100.00%  169.931      1 -total"," 68.45%  116.315      1 Template:Comment"," 10.01%   17.006      5 Template:Text"]},"cachereport":{"timestamp":"20250502212817","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1645});});</script>
+	</body>
+</html>
