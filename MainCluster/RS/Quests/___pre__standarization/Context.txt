@@ -1,2 +1,0 @@
-The following is data that was added in RuneLibris before "optimal path" tags and quest state
-standarization
