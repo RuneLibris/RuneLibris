@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RuneLibris Devlog</title>
+    <link rel="stylesheet" href="../Styles/style.css">
+    <link rel="icon" type="image/x-icon" href="../Styles/icon.ico">
+</head>
+<body>
+    <div class = "mainframe">
+        <div class = "header">
+            <div class = "logo">
+                <a href="../index.html">
+                </a>
+                
+            </div>
+            <div class = "navbox">
+                <a href="../index.html">&lt; Main page</a> 
+            </div>
+            <hr class="solid">
+        
+        </div>
+        <div class = "text">
+            <div class = "text-jail">
+                <h1>RuneLibris Devlog #4</h1>
+                <p>My main priority this week was to deal with what I call “fill-in data”. Some data in RuneScape have a 1:1 subject mapping. A good example of this is how all locations have an examine. While I could write them into individual pages, this would be extremely inefficient. I ended up making “data pages” that host a list of subject present in X dataset.</p>
+                <p>Dynamic page lists (DPLs) are then used to ensure that every subject has its fill-in information documented. For example, there is a page called "RS/Locs/Cauldron (ID: 14339)". The DPL check if the examine for this scenery object is present on one of the data pages.</p>
+                <p>Speaking of datasets, I also catalogued official datasets that were given to us by Jagex over the years. While some of them were present in the previous iteration of RuneLibris, this version was a disorganized mess. Everything is much more concise now.</p>
+                <p>Another thing I wanted to deal with this week were examine-only locations page. I initially planned to write a script and automatically create a page for every subject in the cache that fufills this criteria. While preparing the wikitext using LibreOffice's data marge function, I quickly realized that this would take forever. I instead decided to only generate locations for a given scope. As such, this week I only automatically generated pages relating to the 2018 version of Tutorial Island.</p>
+                <p>I also wrote some documentation about how music works in RuneScape. I noticed that was some gap in our knowledge, most notably how to dump tracksets (music groups) from the game cache. I looked at the cache for many hours and finally figured out that they are stored in enum 1346.</p>
+                <p>Although RuneScape packets are encrypted, strings of text transmitted through them are not. I intent to use this to document music unlock hints in the future. As such, I decided to look into how to edit the output of a <a href="https://www.wireshark.org/">Wireshark</a> packet dump so that I could get a clean text string list. I successfully managed to do so. I wrote a tutorial on how to do this on the "Info/Wireshark" page.</p>
+                <p>While thinking about RuneScape preservation, I noticed that the game has a lot of “mapsquare checks”. For example:</p>
+				<ul>
+<li>Checking if pets are allowed in X mapsquare</li>
+<li>Checking if player can make a fire in X mapsquare</li>
+<li>Checking if Treasure Hunter training dummies can be placed in X mapsquare</li>
+<li>Checking if Treasure Hunter skilling stations can be placed in X mapsquare</li>
+<li>Checking if locs spawned via divination can be placed in X mapsquare</li>
+<li>Checking if Home Teleport can be used in X mapsquare</li>
+<li>Checking if Mithril Seeds flower can be planted in X mapsquare</li>
+<li>Checking if Remote View (Summoning ability) can be used in X mapsquare</li>
+<li>Checking if a Dwarf Canon can be placed in X mapsquare</li>
+<li>Checking if move abilities can be used in X mapsquare</li>
+                  </ul> 
+                <p>After some meditating, I have opted to exclude such things from the scope of RuneLibris as to  focus on preserving “actual game content”. The wiki makes it clear which things are excluded from its archive by making use of a template. In the case of mapsquare checks, I made a special page that host the exclusion list for these kind of cases.</p>
+                <p>I also did some thinking about the aspects of the game. I was wondering if one could theoretically come up with an exhaustive list. I ultimately concluded that this was impossible as many things are server-only and have zero trace in the game cache. As such, all that could be done is to manually compile a list of aspects using community-gathered data and hope that nothing is missed.</p>
+                <p>My next focus will be to document how music behaves on the RuneScape surface. I specifically want to document music unlock zones. I believe that this should be the last major thing in my way before I can start actually preserving game content.</p>
+                <p>Written by manpaint on 21 April 2025.</p>
+            </div>
+        </div>
+
+        <div class = "footer">
+            <hr class="solid">
+            <p class="text-center">RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex. </p>
+            <p class="text-center">RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited. </p>
+            <p class="text-center">You can play RuneScape at runescape.com </p>
+        </div>
+
+    </div>
+
+</body>
+</html>

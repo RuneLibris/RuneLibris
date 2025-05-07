@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RuneLibris Devlog</title>
+    <link rel="stylesheet" href="../Styles/style.css">
+    <link rel="icon" type="image/x-icon" href="../Styles/icon.ico">
+</head>
+<body>
+    <div class = "mainframe">
+        <div class = "header">
+            <div class = "logo">
+                <a href="../index.html">
+                </a>
+                
+            </div>
+            <div class = "navbox">
+                <a href="../index.html">&lt; Main page</a> 
+            </div>
+            <hr class="solid">
+        
+        </div>
+        <div class = "text">
+            <div class = "text-jail">
+                <h1>RuneLibris Devlog #3</h1>
+                <p>Earlier this week, I decided that I would release the rework of RuneLibris on 14 April 2025. As such, most of my effort this week went into ensuring that installing the wiki is as simple as possible.</p>
+                <p>If you ever tried to download the previous version of RuneLibris you might remember how much of a nightmare it was. The user was required to edit configuration files of MySQL among other things. It was not a pleasant experience. As soon as I decided that I would rework this project, streamlining the installation process was one of my priorities.</p>
+                <p class="text-center"><img src="../Devlog/img/vhd-file1.png" class="img-generic img-blur" alt="RuneLibris mounted as VHD file in the Windows interface"></p>
+                <p>RuneLibris is now distributed as a static 5 GB .vhd file. This atypical distribution method was chosen as it makes the uploading and downloading the wiki far easier. Another thing taken into consideration was how many files are present in this MediaWiki installation. The .vhd file currently has 47073 files. Compressing them into a .7z archive would come at a significant time cost, especially considering I plan to update this wiki frequently. It should also be noted that Windows struggle to perform file operations when there is a high file count. Using a .vhd file bypass this problem entirely.</p>
+                <p>The virtual hard drive contains a pre-installed and isolated XAMPP installation that the user can run with relative ease. In order to assure that the installation would go smoothly, I performed a test inside an untouched and offline Windows 7 virtual machine. </p>
+                <p>Only a Microsoft C++ 2015-2022 Redistribuable library might need to be installed if it does not already exist on the user's machine (something that can be checked when trying to run XAMPP). Said library is included in the package as to ensure that the wiki can be installed in offline environment.</p>
+                <p>The only programs the users will need to run are VHDManager and XAMPP, both which do not require any installation.</p>
+				<p>The RuneLibris rework includes all data that was present in the previous iteration of the wiki. Pre-2023 pages were all moved into a special userspace and old files were moved into a specific folder.</p>
+				<p>I initially planned to upload the .vhd file on the Internet Archive. It turns out that the upload speed over there is extremely slow. It took me around 4 hours to upload 1,4 GB. I decided to switch to MEGA, where the upload only took me around 30 minutes.</p>
+                <p>Aside for preparing for release, I also wrote some documentation about how dialogue in RuneScape works. I also set up <a href="https://github.com/mejrs/rs3cache">Mejrs' RS3 cache tool</a> as I needed it to dump lists of locations per mapsquare.</p>
+                <p>While looking into locations, I realized that the next challenge will be to automate examine-only locations. As to not clog the wiki too much, I intent to automatically create redirects that go to a special page that says that X location as its examine in Y dataset.</p>
+                <p>I also still have lots of infrastructure-related work to do. RuneScape seems like a chaotic game where the madness never ends, but I am confident that there is a logic to it that I can map out over time.</p>
+                <p>Written by manpaint on 14 April 2025.</p>
+            </div>
+        </div>
+
+        <div class = "footer">
+            <hr class="solid">
+            <p class="text-center">RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex. </p>
+            <p class="text-center">RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited. </p>
+            <p class="text-center">You can play RuneScape at runescape.com </p>
+        </div>
+
+    </div>
+
+</body>
+</html>

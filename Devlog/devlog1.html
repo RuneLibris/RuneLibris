@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RuneLibris Devlog</title>
+    <link rel="stylesheet" href="../Styles/style.css">
+    <link rel="icon" type="image/x-icon" href="../Styles/icon.ico">
+</head>
+<body>
+    <div class = "mainframe">
+        <div class = "header">
+            <div class = "logo">
+                <a href="../index.html">
+                </a>
+                
+            </div>
+            <div class = "navbox">
+                <a href="../index.html">&lt; Main page</a> 
+            </div>
+            <hr class="solid">
+        
+        </div>
+        <div class = "text">
+            <div class = "text-jail">
+                <h1>RuneLibris Devlog #1</h1>
+                <p>Despite me writing <a href="https://manpaint.neocities.org/journal/runescape-preservation">a rant about RuneScape preservation</a> last week, something compelled me to try again, so here I am. I think that writing that rant offered me some kind of clarity because I am not bothered by the prospect of preserving the game anymore. I just want to do it. Perhaps I simply want to prove to myself I am capable of doing so.</p>
+                <p>The first thing I did was rework RuneLibris. That thing was a mess. Since I did not want to delete anything, I simply moved everything to the userspace. I also decided to limit the scope of my archival efforts to non-repeatable content that existed for a significant amount of time in-game. My efforts will mostly be targeted at archiving quest interactions.</p>
+                <p>In my previous attempt at RuneScape preservation, I mapped dialogue using mindmaps made with <a href="https://sourceforge.net/projects/freemind/">FreeMind</a>. The result looked like this:</p>
+                <p class="text-center"><img src="../Devlog/img/runelibris3.jpg" class="img-generic img-blur" alt="RuneLibris preview" style="width:544px;"></p>
+				<p class="text-center">Right click on the image to open it in full resolution.</p>
+                <p>This greatly displeased me. It also had a major downside. The mindmaps were totally isolated from the MediaWiki installation. For example, I couldn't use a template to flag some data as being missing.</p>
+                <p>As such, I decided to redo my approach. I ended up making wikitables that represent an abstraction of RuneScape code. The result was this:</p>
+                <p class="text-center"><img src="../Devlog/img/table1.png" class="img-generic img-blur" alt="RuneLibris preview"></p>
+                <p>That is much better. That idea is based on how <a href="../journal/rpg-maker-mv.html">RPG Maker</a> interfaces have a visual representation of code when making events.</p>
+                <p>My current method of preserving RuneScape consist of making a cluster of small videos and images compressed in webm and webp that display a specific interaction in game. For example, if an NPC does an animation during a quest, a small video of said animation is recorded and added to the wiki.</p>
+                <p>One of the first things I started to do was archive Tutorial Island. This is where the problem started. I first did a “standard path” run on a new account. This took 16 minutes (16:14) Parsing the video until the 03:15 mark took me 7 hours (07:16).  To be completely honest, this  significantly lowered my morale.</p>
+                <p>I then wondered if Tutorial Island could be a special case due to its introductory nature (hence why it would have lots of time-consuming interactions). After looking at quest varbits, I determined that the simplest quest in RuneScape 3 was Witch's Potion. So I decided to go preserve this mini-quest as to gather intel on the preservation process.</p>
+                <p>I started by parsing <a href="https://www.youtube.com/watch?v=bVgyAnccBIo">AlaskaRS' playthrough</a>. The video is 3 minutes long (02:53). Parsing it took me 1,5 hour (01:26). As such I can determine that parsing 1 minute of content roughly takes an hour.</p>
+                <p>The long parsing time is definitively a problem. It is notably a stark difference between just playing the game. It would be nice if I could just put references to existing videos on wiki pages, but then the archive would quickly become unshareable as video files tend to be huge.</p>
+                <p>I also have some minor concerns about the total file size of RuneLibris. As the writing of this, I  got everything for the current iteration for Witch's Potion. Files related to this quest weight 4,17 mb. In the previous iteration of RuneLibris, it was noted that the files for Cook's Assistant weighted 17,7 Mb. Although those sizes are relatively small, they will add up. I expect that in the end, the archive will weight around 10 GB. Although not ideal, this does seem a fair price to pay to have RuneScape 3 preserved.</p>
+                <p>In an ideal world, we would have the ability to record and play back packets similar to <a href="https://rsc.plus/">RSC+</a>. This is not doable for a variety of technical reasons. The next theoretical best thing would be packet dumps. Putting aside the obvious hurdle of needing to maintain a third-party client, this would have the problem of not being easily readable by humans. As such, I will stick to my current method for now.</p>
+                <p>Despite me having a clear overview of the colossal challenges of RuneScape preservation, I am somehow not bothered by this. In fact, I am in a very strange mood. I feel like I traveled back in time to 2022. I guess it would be more appropriate to say that it feels like that the world remained in stasis. So far the only major difference is the existence of the Jagex Launcher. I feel like in a dream. Curious.</p>
+                <p>Anyway, it seems like that RuneScape preservation is back to the menu for me. We will see if it ends up like last time or not.</p>
+                <p>Written by manpaint on 28 March 2025.</p>
+                  </ul> 
+            </div>
+        </div>
+
+        <div class = "footer">
+            <hr class="solid">
+            <p class="text-center">RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex. </p>
+            <p class="text-center">RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited. </p>
+            <p class="text-center">You can play RuneScape at runescape.com </p>
+        </div>
+
+    </div>
+
+</body>
+</html>
