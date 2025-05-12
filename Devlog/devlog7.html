@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RuneLibris Devlog</title>
+    <link rel="stylesheet" href="../Styles/style.css">
+    <link rel="icon" type="image/x-icon" href="../Styles/icon.ico">
+</head>
+<body>
+    <div class = "mainframe">
+        <div class = "header">
+            <div class = "logo">
+                <a href="../index.html">
+                </a>
+                
+            </div>
+            <div class = "navbox">
+                <a href="../index.html">&lt; Main page</a> 
+            </div>
+            <hr class="solid">
+        
+        </div>
+        <div class = "text">
+            <div class = "text-jail">
+                <h1>RuneLibris Devlog #7</h1>
+                <p>The first thing I did this week was to fix the broken page links issue. In most cases, this was due to the presence of the ":" character on the page names for items, locs and NPCs. As such, I altered all of them with a script to remove the problematic characters. I also changed links in the pages' text. </p>
+                <p>The GitHub site is now properly usable. I am certain that there are still some edge cases somewhere on the wiki, but they will be ignored for now as this website is simply a demonstration. Even if a page cannot be accessed, the .html file should still be accessible through the <a href="https://github.com/RuneLibris/RuneLibris">GitHub repository</a>.</p>
+                <p>The other thing I did this week was to finish the unlock hints page. As I suspected, RS Wiki had lots of outdated data. As such, I dumped the hints myself using Wireshark. The data was then compared with RS Wiki data and manually reviewed as to ensure that no mistakes were made.</p>
+                <p>I also created a template that will be used to signify when the subject of a given page is considered archived. It also includes a field that says which was the last game update the data account for. This will be useful should I ever decide to update those pages with new data.</p>
+                <p>I also figured out how to dump location configurations with <a href="https://runeapps.org/modelviewer">Skillbert's cache tool</a>. Details have been consigned to the tool's page on the wiki.</p>
+                <p>The next thing I intent to is to finish documenting the non-standard path for Tutorial Island 2018. This will allow me to minimize the amount of RuneScape account I will need to create in the future. Once that is done, I will look into documenting the music map for the RuneScape Surface.</p>
+                <p>Written by manpaint on 12 May 2025.</p>
+            </div>
+        </div>
+		
+            </div>
+        </div>
+
+        <div class = "footer">
+            <hr class="solid">
+            <p class="text-center">RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex. </p>
+            <p class="text-center">RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited. </p>
+            <p class="text-center">You can play RuneScape at runescape.com </p>
+        </div>
+
+    </div>
+
+</body>
+</html>
