@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RuneLibris Devlog</title>
+    <link rel="stylesheet" href="../Styles/style.css">
+    <link rel="icon" type="image/x-icon" href="../Styles/icon.ico">
+</head>
+<body>
+    <div class = "mainframe">
+        <div class = "header">
+            <div class = "logo">
+                <a href="../index.html">
+                </a>
+                
+            </div>
+            <div class = "navbox">
+                <a href="../index.html">&lt; Main page</a> 
+            </div>
+            <hr class="solid">
+        
+        </div>
+        <div class = "text">
+            <div class = "text-jail">
+                <h1>RuneLibris Devlog #8</h1>
+                <p>So this week, I continued working on archiving the 2018 version of Tutorial Island. I quickly realized doing this would take ages. There were two main problems: every subject had their own pages and said pages needed me to manually import right click actions and examines from the cache and official datasets.</p>
+                <p>Inspired by transcripts page on RuneScape Wiki, I decided that every subject for a given piece of content should be on one page. This allows me to have a clearer overview of what exactly is missing in a given quest. Prior to this, I needed to rely on a DPL, which was quite inefficient.</p>
+                <p>I also acquired a powerful new replacement script that allows me to pull automatically pull data from a series of datasets when making a content page. This means I no longer have to manually input the actions for a given subject. The datasets I use do have some gaps, but it covers the vast majority of cases, which is good enough for me.</p>
+                <p>Each subject is now defined by the new "Content" template. It allows me to perform a variety of automated checks based on the aforementioned automatically imported data.</p>
+                <p>As quests now are in a single page, this now means that the number of pages in RuneLibris has massively decreased. This RuneLibris demonstration previously had 302 html files; now there is only 152. </p>
+                <p>The new content archival system did introduce some minor problems. The reference section for a page is now very big. Content pages also take a while to "compile" on my end. I will look into issues in the upcoming weeks to see if there is anything I can do.</p>
+                <p>In other news, I updated the archive certification template to provide more details about the archival status of a given page.</p>
+                <p>I also made a decision regarding RuneLibris updates. As generating this live preview takes a considerable amount of time, I have decided that I will now make monthly updates instead. At the end of each month, I will publish a progress report and will update the online demonstration at the same time.</p>
+                <p>As a result of this change, I have decided that the RuneLibris VHD file will be updated on a weekly basis (typically on Sundays) as to ensure that an updated backup of the archive exists online.</p>
+                <p>Written by manpaint on 22 May 2025.</p>
+            </div>
+        </div>
+		
+            </div>
+        </div>
+
+        <div class = "footer">
+            <hr class="solid">
+            <p class="text-center">RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex. </p>
+            <p class="text-center">RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited. </p>
+            <p class="text-center">You can play RuneScape at runescape.com </p>
+        </div>
+
+    </div>
+
+</body>
+</html>
