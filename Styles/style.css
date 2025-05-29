@@ -115,7 +115,12 @@ body {
   border-color: #666;
 }
  
- 
+    pre {
+	white-space: pre-wrap;
+	overflow-x: hidden;
+	word-wrap: break-word;
+}
+ }
  
  
  
