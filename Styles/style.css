@@ -3,8 +3,8 @@
 
 body {
   background-color:#333333;
-  margin-left: 177px;
-  margin-right: 16px;
+  margin-left: 15px; /* orig: 177px */
+  margin-right: 15px; /* orig: 16px */
   font-family: sans-serif;
  }
 
