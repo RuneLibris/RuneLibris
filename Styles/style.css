@@ -7,6 +7,37 @@ body {
   margin-right: 15px; /* orig: 16px */
   font-family: sans-serif;
  }
+ 
+ /* ==== MEDIAWIKI SUPRESSION ====== */
+ /* (Supress unusable functions from actual wiki) */
+
+ .mw-editsection {
+	display: none;
+}
+
+ #siteSub {
+	display: none;
+}
+
+ #jump-to-nav {
+	display: none;
+}
+
+ .printfooter {
+	display: none;
+}
+
+ #mw-navigation {
+	display: none;
+}
+
+ #footer-places {
+	display: none;
+}
+
+ #footer-poweredbyico {
+	display: none;
+}
 
  /* ====== MAINFRAME ======= */
  
