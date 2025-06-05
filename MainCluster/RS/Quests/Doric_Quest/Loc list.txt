@@ -1,0 +1,7 @@
+Bed (ID 11877)
+Stool (ID 11603)
+Door (ID 1530)
+Blacksmiths' tools (ID 11876)
+Doric's Whetstone (ID 10641)
+Workbench (ID 34115)
+Anvil (ID 2782)
