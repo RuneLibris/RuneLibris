@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RuneLibris Devlog</title>
+    <link rel="stylesheet" href="../Styles/style.css">
+    <link rel="icon" type="image/x-icon" href="../Styles/icon.ico">
+</head>
+<body class="mw-body">
+    <div class = "mainframe">
+        <div class = "header">
+            <div class = "logo">
+                <a href="../index.html">
+                </a>
+                
+            </div>
+            <div class = "navbox">
+                <a href="../index.html">&lt; Main page</a> 
+            </div>
+            <hr class="solid">
+        
+        </div>
+        <div class = "text">
+            <div class = "text-jail">
+                <h1>RuneLibris Devlog #10</h1>
+                <p>While working on RuneLibris those last weeks, it dawned on me that the infrastructure of the wiki was a mess. Things were defined at multiple places and there was room for lots of streamlined. As such, infrastructure work was my main focus this week.</p>
+                <p>I implemented a new task system on the wiki. A task is something that takes a considerable amount of time to do (i.e archiving a quest). This is in contrast to the todo template that is used to mark missing data or information, or in other words, a "sub-task". This new system also account for the possibility of a piece of content having interactions that differ greatly from the rest.</p>
+                <p>One of the things I realized was that RuneLibris was missing a way to tell which content is not archived. As such, I imported an exhaustive list of quests and minigames. Each entry using the aforementioned task template. I also created the requirement index metric to measure how inaccessible a piece of content is.</p>
+                <p>Another problem I tackled is how RuneScape has lots of subjects. For example, there is 44540 in build 900. Creating a page or template for all of these would be pure insanity. I realized that when it comes to archiving those kinds of things, I only seek to archive its attributes (i.e item examines, item weights). As such, I have decided that attributes will be considered a meta aspect of sorts and that data will be validated using the python replacement script. This new system also solves a logic error where the wiki structure would have considered "Items examines" to be an item in itself, which it is obviously not.</p>
+                <p>An attempt was made to rework the aspect list found into the front page into a dynamic table, like the one used to document quest interactions. Although I was technically successful, I decided to stick to a bog standard wikitable as it is more readable. My motive was to add dynamic entries that would remind me to document data for a given build, but I realized that I can simply use a validation table to do that.</p>
+                <p>The tools required to generate the live preview from the VHD are now bundled with it. I must admit that not including them earlier was a bit of an oversight on my part.</p>
+                <p>I also started working on a quest requirement system as to enumerate all the requirements for  a given quest and all its requirement as the equivalent system on RuneScape Wiki only list requirements for immediate quests.</p>
+                <p>Speaking of quests, I also started working on Doric's Quest.Reorganizing the wiki made me realize that I have the habit of starting lots of tasks without finish them. This is something I will try to correct.</p>
+                <p>Despite me starting this iteration of RuneLibris on 28 March 2025, only 1 quest has been archived so far. I find this lack of progress utterly unacceptable one my part and I will do everything in my power to course-correct.</p>
+                <p>In other news, I made the following changes to RuneLibris:</p>
+				<ul>
+                <li>Corrected filesystem hierarchy errors</li>
+                <li>Removed unused MediaWiki functions from live preview</li>
+                <li>Added new entries to aspect list</li>
+                <li>Added new sections to maintenance panel</li>
+                <li>Added CSS support for colored table background on the live preview</li>
+                <li>Added membership status to task template</li>
+                <li>Created content index</li>
+                <li>Added tutorials to content index</li>
+                <li>Added repeatable parameter to task template</li>
+                <li>Reworked and streamlined front page</li>
+                <li>Transferred TODOs from a personal spreadsheet to relevant wiki pages</li>
+                <li>Reworked how TODO page works</li>
+                <li>Discontinued todo-historical in favor of lost media template</li>
+                <li>Indexed minigames</li>
+                <li>Relocated game pages to allow for hierarchical access</li>
+                <li>Merged scripts and misc aspects</li>
+                <li>Wrote a page describing the new RuneLibris pipeline</li>
+                <li>Added GrepWin to SoftwareSuite</li>
+                <li>Added Wget to SoftwareSuite</li>
+                <li>Added Halloween 2005 dialogue</li>
+                <li>Fixed Devlog HTML files to support new CSS file</li>
+                <li>Reworked aspect table on main page</li>
+                <li>Wrote documentation about MediaWiki templates</li>
+                <li>Removed unused templates</li>
+                <li>Grouped many TODOs into tasks</li>
+                <li>Wrote page explaining attribute term</li>
+                <li>Merged Mission control panel with front page</li>
+                <li>Merged validation panel with front page</li>
+                  </ul> 
+                <p>Written by manpaint on 14 June 2025.</p>
+            </div>
+        </div>
+		
+            </div>
+        </div>
+
+        <div class = "footer">
+            <hr class="solid">
+            <p class="text-center">RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex. </p>
+            <p class="text-center">RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited. </p>
+            <p class="text-center">You can play RuneScape at runescape.com </p>
+        </div>
+
+    </div>
+
+</body>
+</html>
