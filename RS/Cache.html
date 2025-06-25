@@ -1,0 +1,1505 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/><link rel="stylesheet" href="file:///C:/RULI_DEMO/RuneLibris/Styles/style.css">
+<title>RS/Cache - RuneLibris</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3a54890df6aeb0d496c5ffab","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"RS/Cache","wgTitle":"RS/Cache","wgCurRevisionId":28289,"wgRevisionId":28289,"wgArticleId":10220,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"RS/Cache","wgRelevantArticleId":10220,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready",
+"user.options":"loading","ext.cite.styles":"ready","mediawiki.skinning.interface":"ready","skins.darkvector.styles":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","ext.gadget.checkboxList","skins.darkvector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/RuneLibris/load.php?lang=en&amp;modules=ext.cite.styles%7Cjquery.tablesorter.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.darkvector.styles&amp;only=styles&amp;skin=darkvector"/>
+<script async="" src="/RuneLibris/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=darkvector"></script>
+<meta name="generator" content="MediaWiki 1.35.5"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit"/>
+<link rel="icon" type="image/x-icon" href="file:///R:/Xampp/htdocs/RuneLibris/Styles/icon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/RuneLibris/opensearch_desc.php" title="RuneLibris (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://localhost/RuneLibris/api.php?action=rsd"/>
+<link rel="alternate" type="application/atom+xml" title="RuneLibris Atom feed" href="/RuneLibris/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/RuneLibris/skins/DarkVector/csshover.min.htc")}</style><![endif]-->
+<!--[if lt IE 9]><script src="/RuneLibris/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-RS_Cache rootpage-RS_Cache skin-darkvector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<div class = "warningbox"><p>This website is a read-only preview of RuneLibris. Some features may not work. For more information about the full feature-complete version of this wiki, please visit <a href="https://runelibris.github.io/RuneLibris/index.html">this link</a>.<br><br><a href="https://runelibris.github.io/RuneLibris/Meta/Pagelist">(Archive index)</a></p></div><h1 id="firstHeading" class="firstHeading" lang="en">RS/Cache</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From RuneLibris</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cache_indexes"><span class="tocnumber">2</span> <span class="toctext">Cache indexes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Cache_indexes_2"><span class="tocnumber">2.1</span> <span class="toctext">Cache indexes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Index_2_config_entries"><span class="tocnumber">2.2</span> <span class="toctext">Index 2 config entries</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Index_8_known_sprite_names"><span class="tocnumber">2.3</span> <span class="toctext">Index 8 known sprite names</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Index_30_-_Native_Libraries_.28Complete.29"><span class="tocnumber">2.4</span> <span class="toctext">Index 30 - Native Libraries (Complete)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Index_31_-_Shaders_.28Complete.29"><span class="tocnumber">2.5</span> <span class="toctext">Index 31 - Shaders (Complete)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Index_41_-_Worldmap_data"><span class="tocnumber">2.6</span> <span class="toctext">Index 41 - Worldmap data</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Tasks"><span class="tocnumber">3</span> <span class="toctext">Tasks</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This page documents information regarding <a href="file:///C:/RULI_DEMO/RuneLibris/RS" title="RS">RuneScape</a>'s <a href="file:///C:/RULI_DEMO/RuneLibris/Aspects/Cache" title="Aspects/Cache">cache</a><sup id="cite_ref-Ref1_1-0" class="reference"><a href="#cite_note-Ref1-1">&#91;1&#93;</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Cache_indexes">Cache indexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=2" title="Edit section: Cache indexes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Information about cache indexes are as follows:
+</p>
+<h3><span class="mw-headline" id="Cache_indexes_2">Cache indexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=3" title="Edit section: Cache indexes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Information is as follows<sup id="cite_ref-Ref2_2-0" class="reference"><a href="#cite_note-Ref2-2">&#91;2&#93;</a></sup>:
+</p>
+<pre style="width: 700px"> Index 0: Animation Frames
+ Index 1: Animation Frame Bases
+ Index 2: Miscellaneous (See below for full list of archives)
+ Index 3: Interfaces
+ Index 4: Empty (Pre 772: Sound Effects)
+ Index 5: Maps
+ Index 6: Empty (Pre 772: Music)
+ Index 7: Models (.dat)
+ Index 8: Sprites
+ Index 9: Empty (Pre 839: Textures)
+ Index 10: Huffman encoding (Official name: Binary)
+ Index 11: Empty (Pre 772: Jiingles/interludes)
+ Index 12: Clientscripts (music list)
+ Index 13: Font metrics
+ Index 14: Sound Effects (Pre 772: MIDI Instruments)
+ Index 15: Empty (Pre 772: MIDI Instruments Configuration)
+ Index 16: Locations (commonly called objects)
+ Index 17: Enums
+ Index 18: Npcs 
+ Index 19: Objects (commonly called items)
+ Index 20: Sequences
+ Index 21: GFX/SpotAnimations
+ Index 22: Structs (Pre 745: Var Bit)
+ Index 23: World Map
+ Index 24: Quickchat
+ Index 25: Quickchat global
+ Index 26: Materials (MaterialRaws)
+ Index 27: Particles
+ Index 28: Defaults
+ Index 29: Billboards (Used by models to determine wich textures and scale.
+ Index 30: Native libraries
+ Index 31: Shaders
+ Index 32: Loading Fonts &amp; Images
+ Index 33: Loading Screens
+ Index 34: Loading Fonts &amp; Images (jagex format images)
+ Index 35: Cutscenes
+ Index 36: Empty
+ Index 37: Empty (Pre 839: Gfx Config)
+ Index 38: Empty
+ Index 39: Empty
+ Index 40: Music
+ Index 41: World Map data
+ Index 42: World Map Labels
+ Index 43: Diffuse Textures (RGBA format)
+ Index 44: HDR Textures (high dynamic range textures) (RGBA format)
+ Index 45: DXT (DDS) Textures
+ Index 46: Textures HDR Mipped
+ Index 47: Models (.ob3)
+ Index 48: NXT/RuneTek7 Animations
+ Index 49: DatabaseTableIndex
+ Index 50: Datatable Index
+ Index 51: DXT (DDS) Textures
+ Index 52: NxtTextures (PNG files)
+ Index 53: MobileTextures (mipped PNG files)
+ Index 54: Etc texturte / MippedMobileTextures (KTX11 (OpenGL) images&#160;?)
+ Index 55: KTX11 (Opengl) images
+ Index 56: Client Anims Keyframes
+ Index 57: AchievementConfig
+ Index 58: FontMetrics
+ Index 59: Typefonts
+ Index 60: Unknown
+ Index 255: ReferenceTable
+
+Indexes 51 to 56 were added around build 900.
+</pre>
+<h3><span class="mw-headline" id="Index_2_config_entries">Index 2 config entries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=4" title="Edit section: Index 2 config entries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Information is as follows<sup id="cite_ref-Ref2_2-1" class="reference"><a href="#cite_note-Ref2-2">&#91;2&#93;</a></sup>:
+</p>
+<pre style="width: 700px"> Archive 1: Floor underlay
+ Archive 3: Identikit
+ Archive 4: Floor overlay
+ Archive 5: Inventories
+ Archive 6: Empty (Pre 488: Locations)
+ Archive 7: Unknown &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 8: Empty (Pre 488: Enums)
+ Archive 9: Empty (Pre 488: Npcs)
+ Archive 10: Empty (Pre 488: Objects)
+ Archive 11: Params
+ Archive 12: Empty (Pre 488: Sequences)
+ Archive 13: Empty (Pre 488: Spotanim)
+ Archive 14: Empty (Pre 488: Var Bit)
+ Archive 15: Empty (Pre 745: Var Client Strings)
+ Archive 16: Empty (Pre 745: Var Player)
+ Archive 18: Areas &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 19: Empty (Pre 745: Var Client)
+ Archive 26: Empty (Pre 763: Structs)
+ Archive 29: Skyboxes
+ Archive 30: Sun definitions (Archive is empty)
+ Archive 31: Light intensity
+ Archive 32: Render anims
+ Archive 33: Cursors
+ Archive 34: Mapscenes
+ Archive 35: Quests
+ Archive 36: Worldmap info
+ Archive 40: Database Tables &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 41: Database Rows &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 42: Unknown &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 46: Hitmarks
+ Archive 47: Empty (Pre 745: Var Clan)
+ Archive 48: Item Codes &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 49: Categories &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 54: Empty (Pre 745: Var Clan Settings)
+ Archive 60: Var Player
+ Archive 61: Var Npc
+ Archive 62: Var Client
+ Archive 63: Var World &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 64: Var Region &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 65: Var Object &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 66: Var Clan
+ Archive 67: Var Clan Setting
+ Archive 68: Unknown Var related &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 69: Var Bit
+ Archive 70: Game log event &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 72: Hitbars
+ Archive 73: Unknown &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 75: Unknown Var related &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 76: Unknown &lt;font color="#D0D0FF"&gt;(Server sided only)&lt;/font&gt;
+ Archive 77: Anim flow control
+ Archive 80: Var Group
+</pre>
+<h3><span class="mw-headline" id="Index_8_known_sprite_names">Index 8 known sprite names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=5" title="Edit section: Index 8 known sprite names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Information is as follow (from <a href="/RuneLibris/index.php?title=RS/Builds/820&amp;action=edit&amp;redlink=1" class="new" title="RS/Builds/820 (page does not exist)">820</a>)<sup id="cite_ref-Ref3_3-0" class="reference"><a href="#cite_note-Ref3-3">&#91;3&#93;</a></sup>:
+</p>
+<pre style="white-space: pre-wrap; overflow: auto; height: 200px; width: 700px">Archive 4: backleft1
+Archive 11: hint_headicons
+Archive 12: mapback
+Archive 13: hint_mapmarkers
+Archive 14: hint_mapedge
+Archive 155: prayerglow
+Archive 165: christmas_yelps
+Archive 168: mob_attack_cursor
+Archive 169: compass
+Archive 297: tradebacking
+Archive 298: hitmarks
+Archive 299: cross
+Archive 300: mapdots
+Archive 308: leftarrow
+Archive 309: rightarrow
+Archive 428: button_brown
+Archive 429: button_red
+Archive 430: chest
+Archive 431: coins
+Archive 432: key
+Archive 433: keys
+Archive 434: pen
+Archive 437: letter
+Archive 439: headicons_pk
+Archive 440: headicons_prayer
+Archive 442: overlay_multiway
+Archive 444: tex_brown
+Archive 445: tex_red
+Archive 446: number_button
+Archive 452: magic_tree_leaves_new
+Archive 453: roof
+Archive 458: railings
+Archive 463: fountain
+Archive 467: elfroof2
+Archive 472: elfroof
+Archive 474: bamboo
+Archive 479: stars
+Archive 493: hitbar_default
+Archive 494: p11_full
+Archive 495: p12_full
+Archive 496: b12_full
+Archive 497: q8_full
+Archive 498: logo
+Archive 499: otherlevel
+Archive 760: combat_shield
+Archive 776: tzhaar_numbers
+Archive 779: scales
+Archive 780: feathers
+Archive 1017: chat_background
+Archive 1019: small_button
+Archive 1021: small_button_blue
+Archive 1022: small_button_pressed
+Archive 1024: large_button
+Archive 1031: side_background
+Archive 1032: side_background_bottom
+Archive 1035: side_background_right
+Archive 1036: side_background_top
+Archive 1084: coins_icon
+Archive 1130: map_ring
+Archive 1167: mesh
+Archive 1222: mapflag
+Archive 1243: floorshadows
+Archive 1455: name_icons
+Archive 1509: hitbar_90
+Archive 1771: hitbar_med
+Archive 1848: friends_line
+Archive 2243: timerbar_default
+Archive 2314: friends_arrow_cursor
+Archive 2498: logo_alpha
+Archive 2499: login_background_alpha
+Archive 2637: lobby_frame_01
+Archive 2638: lobby_frame_02
+Archive 2639: lobby_frame_03
+Archive 2640: lobby_frame_04
+Archive 2641: lobby_frame_05
+Archive 2752: button_body
+Archive 3078: runefest_logo_1
+Archive 3079: runefest_logo_2
+Archive 3080: runefest_logo_3
+Archive 3081: runefest_logo_4
+Archive 3082: runefest_logo_5
+Archive 3083: runefest_logo
+Archive 4072: corner_frame_3
+Archive 4073: corner_frame_4
+Archive 4080: background_texture
+Archive 4088: runescape_logo
+Archive 4346: symbol_lock
+Archive 4512: gold_arrow_1
+Archive 4513: member_phoenix_graphic
+Archive 4544: wildy_banner
+Archive 4699: artisan_sword_background
+Archive 4709: artisan_sword_back
+Archive 5411: blue_on
+Archive 5412: blue_over
+Archive 5413: green_on
+Archive 5414: green_over
+Archive 5648: yew_tree_leaves
+Archive 5649: willow_tree_leaves
+Archive 5651: oak_tree_leaves
+Archive 5653: willow_new
+Archive 5654: willow_new_full
+Archive 5655: maple_tree_leaves
+Archive 5659: small_leaves
+Archive 6280: fishing_net
+Archive 7660: attack_logo
+Archive 8074: old_corner_frame_3
+Archive 8075: old_corner_frame_4
+Archive 8090: old_runescape_logo
+Archive 8436: skill_agility
+Archive 8958: money_pouch_icon
+Archive 9318: skill_attack
+Archive 9319: skill_constitution
+Archive 9320: skill_construction
+Archive 9322: skill_crafting
+Archive 9323: skill_defence
+Archive 9324: skill_dungeoneering
+Archive 9325: skill_farming
+Archive 9326: skill_firemaking
+Archive 9327: skill_fishing
+Archive 9328: skill_fletching
+Archive 9329: skill_herblore
+Archive 9330: skill_hunter
+Archive 9331: skill_mining
+Archive 9332: skill_prayer
+Archive 9333: skill_ranged
+Archive 9334: skill_runecrafting
+Archive 9335: skill_slayer
+Archive 9336: skill_smithing
+Archive 9337: skill_strength
+Archive 9338: skill_summoning
+Archive 9339: skill_thieving
+Archive 9340: skill_woodcutting
+Archive 9341: skill_agility_silver
+Archive 9342: skill_attack_silver
+Archive 9343: skill_constitution_silver
+Archive 9344: skill_construction_silver
+Archive 9346: skill_crafting_silver
+Archive 9347: skill_defence_silver
+Archive 9348: skill_dungeoneering_silver
+Archive 9349: skill_farming_silver
+Archive 9350: skill_firemaking_silver
+Archive 9351: skill_fishing_silver
+Archive 9352: skill_fletching_silver
+Archive 9353: skill_herblore_silver
+Archive 9354: skill_hunter_silver
+Archive 9355: skill_mining_silver
+Archive 9356: skill_prayer_silver
+Archive 9357: skill_ranged_silver
+Archive 9358: skill_runecrafting_silver
+Archive 9359: skill_slayer_silver
+Archive 9360: skill_smithing_silver
+Archive 9361: skill_strength_silver
+Archive 9362: skill_summoning_silver
+Archive 9363: skill_thieving_silver
+Archive 9364: skill_woodcutting_silver
+Archive 9365: omge_banner_agility
+Archive 9367: omge_banner_combat
+Archive 9368: omge_banner_construction
+Archive 9369: omge_banner_cooking
+Archive 9370: omge_banner_crafting
+Archive 9371: omge_banner_dungeoneering
+Archive 9372: omge_banner_farming
+Archive 9373: omge_banner_firemaking
+Archive 9374: omge_banner_fishing
+Archive 9375: omge_banner_fletching
+Archive 9376: omge_banner_herblore
+Archive 9377: omge_banner_hunting
+Archive 9378: omge_banner_mining
+Archive 9379: omge_banner_prayer
+Archive 9380: omge_banner_runecrafting
+Archive 9381: omge_banner_slayer
+Archive 9382: omge_banner_smithing
+Archive 9383: omge_banner_summoning
+Archive 9384: omge_banner_thieving
+Archive 9385: omge_banner_woodcutting
+Archive 10213: diamond_icon
+Archive 10214: diamond_icon_alpha
+Archive 10577: air_cape_graphic
+Archive 10578: astral_cape_graphic
+Archive 10579: blood_cape_graphic
+Archive 10580: body_cape_graphic
+Archive 10581: chaos_cape_graphic
+Archive 10582: cosmic_cape_graphic
+Archive 10583: death_cape_graphic
+Archive 10584: earth_cape_graphic
+Archive 10586: fire_cape_graphic
+Archive 10587: law_cape_graphic
+Archive 10588: mind_cape_graphic
+Archive 10589: nature_cape_graphic
+Archive 10590: soul_cape_graphic
+Archive 10591: water_cape_graphic
+Archive 13675: palm_leaf
+Archive 13676: palm_leaf_2
+Archive 13677: palm_leaf_3
+Archive 13918: ivy_leaves
+Archive 14949: kurask_boots
+Archive 14950: basilisk_boots
+Archive 15401: worldmap_01
+Archive 15402: worldmap_02
+Archive 15403: worldmap_03
+Archive 15404: worldmap_04
+Archive 15405: worldmap_05
+Archive 15406: worldmap_06
+Archive 15407: worldmap_07
+Archive 15408: worldmap_08
+Archive 15409: worldmap_09
+Archive 15906: turoth_boots
+Archive 16567: green_skin_01
+Archive 16568: green_skin_02
+Archive 17400: mtx_wings
+Archive 17566: yelps_body
+Archive 17571: yelps_attack
+Archive 17890: stone_rock
+Archive 22182: treasure_hunter_hair_alpha
+Archive 20281: m11_full
+Archive 20282: m12_full
+Archive 20325: summoning_icon
+Archive 20338: penance_ranger
+Archive 20339: penance_king
+Archive 20340: penance_fighter
+Archive 20352: skill_divination
+Archive 20353: skill_divination_silver
+Archive 20589: penance_runner
+Archive 20590: penance_healer
+Archive 20591: penance_queen
+Archive 20743: chest_giant
+Archive 20744: arm_giant
+Archive 20747: back_giant
+Archive 20850: bandages
+Archive 20853: skin
+Archive 20854: feet
+Archive 20856: fingers
+Archive 20858: flower_alpha
+Archive 20859: flower
+Archive 21067: coin_2013
+Archive 21436: cow_skin
+Archive 21438: seagull_diffuse
+Archive 22173: necklace_treasure_hunter
+Archive 22183: treasure_hunter_boot
+Archive 22187: eyeball_green
+Archive 22194: demon_skin
+Archive 22198: demon_body
+Archive 22641: tpr_lava
+Archive 22644: symbols_1
+Archive 22645: symbols_2
+Archive 22646: symbols_1_alpha
+Archive 22658: tpr_runes_1
+Archive 22659: tpr_runes_1_alpha
+Archive 22660: tpr_runes_2
+Archive 22661: tpr_runes_2_alpha
+Archive 22672: tpr_lava_edge
+Archive 22685: tpr_stone_2
+Archive 22693: tpr_stone_1
+Archive 22906: godless_symbol
+Archive 22907: godless_symbol_alpha
+Archive 22912: brassica_cape_alpha 
+Archive 22913: brassica_cape
+Archive 22914: godless_cape
+Archive 22915: godless_cape_spec
+Archive 22916: gorilla1
+Archive 22917: monkey
+Archive 22918: monkey_fur
+Archive 22919: monkey_fur_alpha
+Archive 22920: marimbo_body
+Archive 22921: marimbo_fur
+Archive 22922: marimbo_fur_alpha
+Archive 23208: mtx_fire_sword
+Archive 23212: mtx_fire_orb
+Archive 24053: yellow_on
+Archive 24054: yellow_over
+Archive 24055: red_on
+Archive 24056: red_over
+Archive 24593: senecianus
+Archive 24887: fareed
+</pre>
+<h3><span id="Index_30_-_Native_Libraries_(Complete)"></span><span class="mw-headline" id="Index_30_-_Native_Libraries_.28Complete.29">Index 30 - Native Libraries (Complete)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=6" title="Edit section: Index 30 - Native Libraries (Complete)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Information is as follow (from <a href="/RuneLibris/index.php?title=RS/Builds/820&amp;action=edit&amp;redlink=1" class="new" title="RS/Builds/820 (page does not exist)">820</a>)<sup id="cite_ref-Ref3_3-1" class="reference"><a href="#cite_note-Ref3-3">&#91;3&#93;</a></sup>:
+</p>
+<pre style="white-space: pre-wrap; overflow: auto; height: 200px; width: 700px">Archive 0: windows/x86/twitchtv.dll
+Archive 1: windows/x86/hw3d.dll
+Archive 2: windows/x86/jaggl.dll
+Archive 3: windows/x86/sw3d.dll
+Archive 4: windows/x86/jaclib.dll
+Archive 5: windows/x86/jagdx.dll
+Archive 6: windows/x86/twitchsdk_32_release.dll
+Archive 7: windows/x86_64/hw3d.dll
+Archive 8: windows/x86_64/jaggl.dll
+Archive 9: windows/x86_64/jaclib.dll
+Archive 10: windows/x86_64/jagdx.dll
+Archive 11: windows/x86/avutil-ttv-51.dll
+Archive 12: macos/universal/libhw3d.dylib
+Archive 13: macos/universal/libjaggl.dylib
+Archive 14: macos/universal/libjaclib.dylib
+Archive 15: macos/x86/libhw3d.dylib
+Archive 16: macos/x86/libjaggl.dylib
+Archive 17: macos/x86/libjaclib.dylib
+Archive 18: macos/x86_64/libhw3d.dylib
+Archive 19: macos/x86_64/libjaggl.dylib
+Archive 20: macos/x86_64/libjaclib.dylib
+Archive 21: macos/ppc/libhw3d.dylib
+Archive 22: macos/ppc/libjaggl.dylib
+Archive 23: macos/ppc/libjaclib.dylib
+Archive 24: linux/x86/libjaclib.so
+Archive 25: linux/x86/libjaggl.so
+Archive 26: linux/x86/libhw3d.so
+Archive 27: linux/x86_64/libjaclib.so
+Archive 28: linux/x86_64/libjaggl.so
+Archive 29: linux/x86_64/libhw3d.so
+Archive 30: linux/x86_64/libsw3d.so
+Archive 31: linux/x86/libsw3d.so
+Archive 32: windows/x86_64/sw3d.dll
+Archive 33: macos/x86_64/libsw3d.dylib
+Archive 34: macos/universal/libsw3d.dylib
+Archive 35: macos/x86/libsw3d.dylib
+Archive 36: windows/x86/libmfxsw32.dll
+Archive 37: windows/x86/swresample-ttv-0.dll
+Archive 38: windows/x86/libmp3lame-ttv.dll
+Archive 39: windows/x86_64/libmfxsw64.dll
+Archive 40: windows/x86_64/twitchtv.dll
+Archive 41: windows/x86_64/avutil-ttv-51.dll
+Archive 42: windows/x86_64/swresample-ttv-0.dll
+Archive 43: windows/x86_64/twitchsdk_64_release.dll
+Archive 44: windows/x86_64/libmp3lame-ttv.dll
+Archive 45: macos/universal/libsdk-mac-dynamic.dylib
+Archive 46: macos/universal/libtwitchtv.dylib
+Archive 47: macos/universal/libtwitchsdk.dylib
+Archive 48: macos/x86_64/libsdk-mac-dynamic.dylib
+Archive 49: macos/x86_64/libtwitchtv.dylib
+Archive 50: macos/x86_64/libtwitchsdk.dylib
+</pre>
+<h3><span id="Index_31_-_Shaders_(Complete)"></span><span class="mw-headline" id="Index_31_-_Shaders_.28Complete.29">Index 31 - Shaders (Complete)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=7" title="Edit section: Index 31 - Shaders (Complete)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Information is as follow (from <a href="/RuneLibris/index.php?title=RS/Builds/820&amp;action=edit&amp;redlink=1" class="new" title="RS/Builds/820 (page does not exist)">820</a>)<sup id="cite_ref-Ref3_3-2" class="reference"><a href="#cite_note-Ref3-3">&#91;3&#93;</a></sup>:
+</p>
+<pre style="white-space: pre-wrap; overflow: auto; height: 200px; width: 700px">Archive 1: gl
+Archive 3: dx
+Archive 1, File 0: FilterDefault.filter.glsl
+Archive 1, File 1: EnvMappedWater.fragment.glsl
+Archive 1, File 2: Emissive.fragment.glsl
+Archive 1, File 3: Basic
+Archive 1, File 4: TransparentWater.vertex.glsl
+Archive 1, File 5: Sprite
+Archive 1, File 6: Basic.fragment.glsl
+Archive 1, File 7: Basic.vertex.glsl
+Archive 1, File 8: Waterfall.fragment2D.glsl
+Archive 1, File 9: Filter.Filter_vertexGL.glsl
+Archive 1, File 10: TransparentWater.fragment3D.glsl
+Archive 1, File 11: EnvMappedWater.vertex.glsl
+Archive 1, File 12: Model.vertex.glsl
+Archive 1, File 13: Emissive
+Archive 1, File 14: FilterBloom.passThrough.glsl
+Archive 1, File 15: FilterBloom.blur.glsl
+Archive 1, File 16: Emissive.vertex.glsl
+Archive 1, File 17: Waterfall.fragment3D.glsl
+Archive 1, File 18: Waterfall
+Archive 1, File 19: FilterDefault
+Archive 1, File 20: Primitive.vertex.glsl
+Archive 1, File 21: Sprite.vertex.glsl
+Archive 1, File 22: Sprite.fragment.glsl
+Archive 1, File 23: Model.fragment.glsl
+Archive 1, File 24: Primitive.fragment.glsl
+Archive 1, File 25: FilterBloom.test.glsl
+Archive 1, File 26: UnderWater
+Archive 1, File 27: Waterfall.vertex.glsl
+Archive 1, File 28: FilterBloom
+Archive 1, File 29: Model
+Archive 1, File 30: TransparentWater.fragment2D.glsl
+Archive 1, File 31: UnderWater.vertex.glsl
+Archive 1, File 32: Particle.vertex.glsl
+Archive 1, File 33: Particle
+Archive 1, File 34: UnderWater.fragment.glsl
+Archive 1, File 35: FilterBloom.composite.glsl
+Archive 1, File 36: EnvMappedWater
+Archive 1, File 37: FilterBloom.brightpass.glsl
+Archive 1, File 38: TransparentWater
+Archive 1, File 39: Primitive
+Archive 1, File 40: Particle.fragment.glsl
+Archive 1, File 41: BatchedSprite
+Archive 1, File 42: BatchedSprite.vertex.glsl
+Archive 1, File 43: BatchedSprite.fragment.glsl
+Archive 1, File 44: FilterLevels
+Archive 1, File 45: FilterColourRemapping.remap2D.glsl
+Archive 1, File 46: FilterLevels.adjustColour.glsl
+Archive 1, File 47: FilterColourRemapping.remap3D.glsl
+Archive 1, File 48: FilterColourRemapping
+Archive 3, File 0: Model.fragment.ps_2_0.000000005
+Archive 3, File 1: TransparentWater.vertex.vs_2_0
+Archive 3, File 2: Model.vertex.vs_2_0.0000000000000005
+Archive 3, File 3: UnderWater.vertex.vs_2_0.2
+Archive 3, File 4: BatchedSprite
+Archive 3, File 5: Waterfall.fragment2D.ps_2_0
+Archive 3, File 6: FilterBloom.Filter_vertexD3D.vs_2_0
+Archive 3, File 7: UnderWater.vertex.vs_2_0.0
+Archive 3, File 8: Sprite.fragment.ps_2_0.1
+Archive 3, File 9: Emissive.fragment.ps_2_0
+Archive 3, File 10: Basic
+Archive 3, File 11: Sprite
+Archive 3, File 12: BatchedSprite.fragment.ps_2_0
+Archive 3, File 13: FilterDefault.filter.ps_2_0
+Archive 3, File 14: BatchedSprite.vertex.vs_2_0
+Archive 3, File 15: Particle.vertex.vs_2_0.00000001
+Archive 3, File 16: Particle.vertex.vs_2_0.00000002
+Archive 3, File 17: Particle.fragment.ps_2_0.00000002
+Archive 3, File 18: EnvMappedWater.fragment.ps_2_0.1
+Archive 3, File 19: Model.fragment.ps_2_0.100000003
+Archive 3, File 20: UnderWater.vertex.vs_2_0.3
+Archive 3, File 21: Particle.fragment.ps_2_0.00000000
+Archive 3, File 22: Particle.fragment.ps_2_0.00000001
+Archive 3, File 23: Basic.fragment.ps_2_0
+Archive 3, File 24: Particle.vertex.vs_2_0.00000000
+Archive 3, File 25: Basic.vertex.vs_2_0
+Archive 3, File 26: Sprite.fragment.ps_2_0.0
+Archive 3, File 27: FilterColourRemapping.remap3D.ps_2_0.00000002
+Archive 3, File 28: Emissive
+Archive 3, File 29: Model.fragment.ps_2_0.000000000
+Archive 3, File 30: Emissive.vertex.vs_2_0
+Archive 3, File 31: Waterfall
+Archive 3, File 32: Model.fragment.ps_2_0.000000002
+Archive 3, File 33: FilterColourRemapping.remap2D.ps_2_0.00000001
+Archive 3, File 34: FilterBloom.composite.ps_2_0
+Archive 3, File 35: TransparentWater.fragment3D.ps_2_0
+Archive 3, File 36: FilterColourRemapping.remap3D.ps_2_0.00000003
+Archive 3, File 37: FilterDefault
+Archive 3, File 38: FilterLevels
+Archive 3, File 39: FilterColourRemapping.remap2D.ps_2_0.00000003
+Archive 3, File 40: FilterLevels.Filter_vertexD3D.vs_2_0
+Archive 3, File 41: EnvMappedWater.fragment.ps_2_0.0
+Archive 3, File 42: Primitive.vertex.vs_2_0
+Archive 3, File 43: FilterColourRemapping.remap2D.ps_2_0.00000002
+Archive 3, File 44: FilterLevels.adjustColour.ps_2_0
+Archive 3, File 45: FilterBloom.brightpass.ps_2_0
+Archive 3, File 46: UnderWater.fragment.ps_2_0
+Archive 3, File 47: Model
+Archive 3, File 48: Sprite.fragment.ps_2_0.2
+Archive 3, File 49: FilterColourRemapping.Filter_vertexD3D.vs_2_0
+Archive 3, File 50: Model.fragment.ps_2_0.000000003
+Archive 3, File 51: Waterfall.fragment3D.ps_2_0
+Archive 3, File 52: FilterColourRemapping
+Archive 3, File 53: FilterColourRemapping.remap3D.ps_2_0.00000001
+Archive 3, File 54: Primitive.fragment.ps_2_0
+Archive 3, File 55: FilterBloom.passThrough.ps_2_0
+Archive 3, File 57: TransparentWater.fragment2D.ps_2_0
+Archive 3, File 58: Sprite.vertex.vs_2_0.1
+Archive 3, File 59: UnderWater
+Archive 3, File 63: FilterBloom.Filter_vertexD3D.vs_3_0
+Archive 3, File 64: UnderWater.vertex.vs_2_0.1
+Archive 3, File 65: Sprite.vertex.vs_2_0.0
+Archive 3, File 67: FilterBloom
+Archive 3, File 72: FilterBloom.blur.ps_3_0
+Archive 3, File 73: FilterDefault.Filter_vertexD3D.vs_2_0
+Archive 3, File 75: EnvMappedWater.vertex.vs_2_0
+Archive 3, File 77: Particle
+Archive 3, File 78: Waterfall.vertex.vs_2_0
+Archive 3, File 79: FilterBloom.test.ps_2_0
+Archive 3, File 80: EnvMappedWater
+Archive 3, File 81: TransparentWater
+Archive 3, File 82: Primitive
+Archive 3, File 84: Model.vertex.vs_2_0.0000000400000001
+Archive 3, File 85: Model.vertex.vs_2_0.0000000000000003
+Archive 3, File 86: Model.vertex.vs_2_0.0000000200000000
+Archive 3, File 87: Model.vertex.vs_2_0.0000000100000001
+Archive 3, File 88: Model.fragment.ps_2_0.000000001
+Archive 3, File 89: Model.vertex.vs_2_0.0000000300000002
+Archive 3, File 90: Model.vertex.vs_2_0.0000000000000000
+</pre>
+<h3><span class="mw-headline" id="Index_41_-_Worldmap_data">Index 41 - Worldmap data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=8" title="Edit section: Index 41 - Worldmap data">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Information is as follow (from <a href="/RuneLibris/index.php?title=RS/Builds/820&amp;action=edit&amp;redlink=1" class="new" title="RS/Builds/820 (page does not exist)">820</a>)<sup id="cite_ref-Ref3_3-3" class="reference"><a href="#cite_note-Ref3-3">&#91;3&#93;</a></sup>:
+</p>
+<pre style="white-space: pre-wrap; overflow: auto; height: 200px; width: 700px">Archive 0: ardougne_underground
+Archive 100: pioneer_cave_full
+Archive 101: red_axe_4_pretty_flowers_cave
+Archive 102: red_axe_4_tunnels_near_keldagrim
+Archive 103: red_axe_4_records_chamber_open
+Archive 104: red_axe_4_records_chamber_closed
+Archive 105: fist_of_guthix_lobby
+Archive 106: fist_of_guthix_matchmaking
+Archive 107: fist_of_guthix_arena_01
+Archive 108: fist_of_guthix_arena_02
+Archive 109: rune_crafting_guild
+Archive 10: null
+Archive 110: defenders_of_varrock_instance
+Archive 111: barbarian_assault_arena
+Archive 112: barbarian_assault_queen_arena
+Archive 113: barbarian_assault_lobby
+Archive 114: olympics_2012_cheese_rolling
+Archive 115: olympics_2012_race
+Archive 116: olympics_2012_resource_race
+Archive 117: brutal_barbarian_cave
+Archive 118: mad_mole
+Archive 119: varrock_museum
+Archive 11: soul_wars_tutorial
+Archive 120: lava_flow_mine
+Archive 121: clockwork_syringe_dungeon
+Archive 122: ame_combilock
+Archive 123: ame_beehive
+Archive 124: ame_pinball
+Archive 125: ame_gravedigger
+Archive 126: ame_church
+Archive 127: ame_evil_twin
+Archive 128: ame_certers_office
+Archive 129: ame_sandwich_lady
+Archive 12: tzhaar_area
+Archive 130: ame_prison_pete
+Archive 131: ame_maze
+Archive 132: ame_evil_bob
+Archive 133: ame_demon_sergeant
+Archive 134: ame_pattern
+Archive 135: player_owned_houses
+Archive 136: rum_deal_islands
+Archive 137: games_room
+Archive 138: grim_tales_giant_island
+Archive 139: gublinch_cave
+Archive 13: karamja_underground
+Archive 140: blast_furnace
+Archive 141: eagles_peak_cave
+Archive 142: tourist_trap_mine
+Archive 143: vinesweeper_field
+Archive 144: kdb_lair
+Archive 145: sabbots_cave
+Archive 146: meiyerditch_mine
+Archive 147: grim_tale_mouse_hole
+Archive 148: cosmic_rune_temple
+Archive 149: death_rune_temple
+Archive 14: miscellania_underground
+Archive 150: chaos_rune_temple
+Archive 151: nature_rune_temple
+Archive 152: law_rune_temple
+Archive 153: body_rune_temple
+Archive 154: fire_rune_temple
+Archive 155: earth_rune_temple
+Archive 156: mind_rune_temple
+Archive 157: air_rune_temple
+Archive 158: blood_rune_temple
+Archive 159: water_rune_temple
+Archive 15: godwars
+Archive 160: circus
+Archive 161: taverley_slayer_dungeon
+Archive 162: burthorpe_mine
+Archive 163: abandoned_burthorpe_mine
+Archive 164: lumbridge_catacombs_upper
+Archive 165: lumbridge_catacombs_lower
+Archive 166: crucible_lobby
+Archive 167: crucible
+Archive 168: impetuous_impulses_wheat_maze
+Archive 169: stronghold_of_security_peace
+Archive 16: waterbirth
+Archive 170: stronghold_of_security_plenty
+Archive 171: stronghold_of_security_health
+Archive 172: stronghold_of_security_life
+Archive 173: wolf_whistle_troll_cave
+Archive 174: dragonking_castle_cutscene
+Archive 175: enchanted_valley
+Archive 176: guthix_temple_entrance
+Archive 177: guthix_temple
+Archive 178: tower_of_life
+Archive 179: killerwatt_plane
+Archive 17: taverley_dungeon
+Archive 180: thieves_guild_vault
+Archive 181: thieves_guild_01
+Archive 182: thieves_guild_02
+Archive 183: thieves_guild_03
+Archive 184: thieves_guild_04
+Archive 185: rogues_den
+Archive 186: abyss_training_dungeon
+Archive 187: abyss_runecrafting_shortcut
+Archive 188: courtroom
+Archive 189: black_knights_fortress_basement
+Archive 18: dwarven_mines
+Archive 190: kings_ransom_jail
+Archive 191: keldagrim_rat_pit
+Archive 192: tunnel_of_chaos
+Archive 193: souls_bane_ravine
+Archive 194: souls_bane_rage
+Archive 195: souls_bane_fear
+Archive 196: souls_bane_confusion
+Archive 197: souls_bane_hopelessness_no_bridge
+Archive 198: souls_bane_hopelessness_with_bridge
+Archive 199: wizards_tower_ariane_cutscene
+Archive 19: braindeath_island
+Archive 1: zanaris
+Archive 200: pog_sewer
+Archive 201: pog_sewer_entrance
+Archive 202: pog_sewer_copy
+Archive 203: arzinian_gold_mine
+Archive 204: arzinian_gold_mine_post_quest
+Archive 205: dorgeshkaan_copy
+Archive 206: stronghold_of_player_safety
+Archive 207: stronghold_of_player_safety_cells
+Archive 208: fishing_platform_copy
+Archive 209: ibans_lair
+Archive 20: kalphite
+Archive 210: ibans_lair_temple_copy
+Archive 211: temple_of_light
+Archive 212: easter_2011
+Archive 213: easter_2009
+Archive 214: easter_2010
+Archive 215: easter_2007
+Archive 216: xmas_2005
+Archive 217: xmas_2008
+Archive 218: xmas_2007
+Archive 219: xmas_2009
+Archive 21: keldagrim
+Archive 220: xmas_2010
+Archive 221: xmas_2011
+Archive 222: halloween_2006
+Archive 223: halloween_2007
+Archive 224: halloween_2009
+Archive 225: halloween_2010
+Archive 226: halloween_2011
+Archive 227: tzhaar_elder_kiln
+Archive 228: tzhaar_caves
+Archive 229: tzhaar_fight_cave
+Archive 22: pollnivneach_well
+Archive 230: tzhaar_theatre
+Archive 231: elfcity
+Archive 232: tzhaar_armadillo_cave
+Archive 233: tzhaar_armadillo_nest
+Archive 234: tzhaar_road_to_the_elder_kiln
+Archive 235: agility_pyramid_top
+Archive 236: yanille_watch_tower
+Archive 237: phoenix_lair
+Archive 238: romeo_and_juliet_crypt
+Archive 239: hettys_basement
+Archive 23: chaos_tunnels
+Archive 240: bettys_basement
+Archive 241: swept_away_puzzle_01
+Archive 242: swept_away_puzzle_02
+Archive 243: watermill_cellar_instance
+Archive 244: red_axe_caves
+Archive 245: chaos_dwarf_battlefield
+Archive 246: abandoned_mine_tracks
+Archive 247: red_axe_base
+Archive 248: consortium_meeting_room_cutscene
+Archive 249: sigmunds_base
+Archive 24: sos
+Archive 250: bandos_throne_room_01
+Archive 251: bandos_throne_room_02
+Archive 252: chosen_commander_small_cave_instance
+Archive 253: secret_goblin_temple_crypt
+Archive 254: secret_goblin_temple
+Archive 255: lady_lumbridge_ship
+Archive 256: dillo_collapsing_cave
+Archive 257: ruins_of_uzer
+Archive 258: thammarons_throne_room
+Archive 259: chars_caves
+Archive 25: asgarnia_ice_dungeon
+Archive 260: mobilising_armies_islands
+Archive 261: mobilising_armies_waiting_rooms
+Archive 262: stealing_creation
+Archive 263: goblin_village_copy
+Archive 264: mage_training_arena_basement
+Archive 265: mage_training_arena_basement_instance
+Archive 266: polypore_slayer_dungeon
+Archive 267: polypore_dungeoneering_dungeon
+Archive 268: sorceress_garden
+Archive 269: ham_tunnel
+Archive 26: dorgeshkaan
+Archive 270: keldagrim_station
+Archive 271: dorgeshkaan_station
+Archive 272: dorgeshkaan_station_construction_site
+Archive 273: underground_railway
+Archive 274: turaels_basement_instance
+Archive 275: rune_essence_mine
+Archive 276: witchaven_excavations
+Archive 277: temple_knight_testing_room
+Archive 278: eye_of_glouphrie_battlefield
+Archive 279: land_of_snow_01
+Archive 27: mosleharmless_cave
+Archive 280: land_of_snow_02
+Archive 281: grand_tree_copy
+Archive 282: ooglog_copy
+Archive 283: ham_store_rooms
+Archive 284: soul_wars_copy
+Archive 285: zmi_altar
+Archive 286: dominion_tower
+Archive 287: diamond_jubilee_varrock
+Archive 288: kethsi
+Archive 289: strykewyrm_ice_cave
+Archive 28: main
+Archive 290: lumbridge_tutorial2_mine
+Archive 291: lumbridge_tutorial2_cellar
+Archive 292: burgh_de_rott_underground
+Archive 293: lair_of_tarn_razorlor_instance
+Archive 294: haunted_mine_level_2
+Archive 295: haunted_mine_level_3
+Archive 296: haunted_mine_level_4
+Archive 297: haunted_mine_level_5
+Archive 298: haunted_mine_level_6
+Archive 299: movarios_base
+Archive 29: ourania
+Archive 2: troll_stronghold
+Archive 300: love_story_house
+Archive 301: love_story_dungeon
+Archive 302: temple_trek
+Archive 303: ame_frog
+Archive 304: ame_freaky_forrester
+Archive 305: mage_arena_cave
+Archive 306: regicide_catapult_instance
+Archive 307: ame_mime
+Archive 308: monkey_madness_boss_arena
+Archive 309: fairy_hq_01
+Archive 30: undead_dungeon
+Archive 310: fairy_hq_02
+Archive 311: canoe
+Archive 312: shredfleshs_cave
+Archive 313: zaniks_lab
+Archive 314: baba_yagas_house
+Archive 315: yubiusk
+Archive 316: lumbridge_tutorial3_cellar
+Archive 317: lumbridge_tutorial2_cellar_copy
+Archive 318: ozan_boss_area
+Archive 319: ozan_boat_cutscene
+Archive 31: misthalin_underground
+Archive 320: ozan_the_skullery
+Archive 321: pow_iceburg_01
+Archive 322: pow_iceburg_02
+Archive 323: pow_iceburg_03
+Archive 324: pow_yanille_cutscene
+Archive 325: red_raktuber_submarine
+Archive 326: pow_submarine
+Archive 327: tutorial_2_lumbridge_copy
+Archive 328: captain_barnabys_ship
+Archive 329: draynor_bank_robbery_instance
+Archive 32: tutorial3_1
+Archive 330: old_tzhaar_caves
+Archive 331: ame_lost_and_found
+Archive 332: witchaven_dungeon_02
+Archive 333: slug_citadel_01
+Archive 334: slug_citadel_02
+Archive 335: slug_citadel_03
+Archive 336: slug_citadel_04
+Archive 337: slug_citadel_05
+Archive 338: slug3_daemonheim_dungeon
+Archive 339: evil_chicken_cave
+Archive 33: tutorial3_2
+Archive 340: keep_le_faye_copy
+Archive 341: waterbirth_dungeon_sub_level_2_to_5
+Archive 342: waterbirth_dungeon_sub_level_6
+Archive 343: silas_dream
+Archive 344: fremennik_spiritual_realm
+Archive 345: rellekka_copy
+Archive 346: fortress_of_annakarl
+Archive 347: temple_knight_archives
+Archive 348: kethsi_library
+Archive 349: barrows_akrisae_tomb
+Archive 34: tutorial3_3
+Archive 350: sophanem_bank
+Archive 351: sophanem_bank_destroyed
+Archive 352: player_moderator_room
+Archive 353: rat_catcher_house
+Archive 354: varrock_rat_pit
+Archive 355: gorak_plane
+Archive 356: the_battle_of_the_archipelago
+Archive 357: uzer_mastaba_upper_level
+Archive 358: uzer_mastaba_lower_level
+Archive 359: uzer_mastaba_scarab_cave
+Archive 35: living_rock_caverns
+Archive 360: jalsavrah_pyramid
+Archive 361: cosmic_entity_plane
+Archive 362: shady_grove
+Archive 363: golries_cave
+Archive 364: yewnocks_cave
+Archive 365: grim_reapers_office
+Archive 366: nature_grotto
+Archive 367: bloodsplatter_isle
+Archive 368: bolries_lab
+Archive 369: pollniveach_slayer_dungeon_lower_level
+Archive 36: ancient_cavern
+Archive 370: pollniveach_slayer_dungeon_lower_level_old
+Archive 371: lighthouse_dungeon_copy
+Archive 372: dungeoneering_edgeville_dungeon_chaos_druid
+Archive 373: dungeoneering_dwarven_mine
+Archive 374: dungeoneering_edgeville_dungeon_hill_giant
+Archive 375: dungeoneering_karamja_volcano_dungeon
+Archive 376: dungeoneering_baxtorian_falls_dungeon
+Archive 377: dungeoneering_mining_guild_dungeon
+Archive 378: dungeoneering_taverley_dungeon_hellhound
+Archive 379: dungeoneering_taverley_dungeon_blue_dragon
+Archive 37: spirit_plane
+Archive 380: dungeoneering_varrock_sewers_dungeon
+Archive 381: dungeoneering_chaos_tunnels_dungeon
+Archive 382: dungeoneering_chaos_tunnels_dungeon_copy
+Archive 383: dungeoneering_al_kharid_dungeon
+Archive 384: dungeoneering_brimhaven_dungeon
+Archive 385: dungeoneering_asgarnian_ice_dungeon
+Archive 386: wilderness_chaos_temple_copy
+Archive 387: nomads_temple
+Archive 388: clan_wars_turrets
+Archive 389: clan_wars_blasted_forrest
+Archive 38: ft3_zanaris_hq
+Archive 390: clan_wars_plateau
+Archive 391: clan_wars_classic
+Archive 392: clan_wars_forsaken_quarry
+Archive 393: realm_of_the_culinaromancer
+Archive 394: lumbridge_castle_dining_room
+Archive 395: lumbridge_castle_dining_room_frozen
+Archive 396: yanille_copy_submarine
+Archive 397: balloon_crash_land
+Archive 398: balloon_crash_sea
+Archive 399: draynor_village_destroyed
+Archive 39: lfm_worldmap
+Archive 3: yanille_dungeon
+Archive 400: fisher_realm
+Archive 401: fisher_realm_polluted
+Archive 402: troll_invasion_minigame
+Archive 403: omge_combat_tutorial_sunny
+Archive 404: omge_combat_tutorial_raining
+Archive 405: lighthouse_copy
+Archive 406: meiyerditch_mine_copy
+Archive 407: karamja_jungle_copy
+Archive 408: karamja_shipyard_copy
+Archive 409: haunted_mine_tunnel_01
+Archive 40: jaro_jade_roots
+Archive 410: haunted_mine_tunnel_02
+Archive 411: caverns_under_arandar
+Archive 412: duel_arena_instance
+Archive 413: varrock_souls_bane_copy
+Archive 414: tai_bwo_wannai_village_copy
+Archive 415: summoning_obelisk
+Archive 416: shadow_dungeon
+Archive 417: erjolfs_cave_flooded
+Archive 418: erjolfs_cave
+Archive 419: ritual_site_cave
+Archive 41: morytania_underground
+Archive 420: elemental_workshop_mind_chamber
+Archive 421: elemental_workshop_body_chamber
+Archive 422: elemental_workshop_cosmic_and_chaos_chamber
+Archive 423: familiarisation_minigame
+Archive 424: rusty_anchor_cellar
+Archive 425: chemists_laboratory
+Archive 426: kinshra_workshop
+Archive 427: black_knights_fortress_security_rooms
+Archive 428: vallutas_domain
+Archive 429: spirit_realm
+Archive 42: ranged_slayer_dungeon
+Archive 430: gnome_glider_hangar_cutscene
+Archive 431: gnome_glider_hangar_complete
+Archive 432: history_the_past
+Archive 433: desert_island_submarine
+Archive 434: vallutas_den
+Archive 435: fremennik_fleet
+Archive 436: arposandran_underground
+Archive 437: kharazi_caves_01_copy
+Archive 438: mermaid_island
+Archive 439: temple_of_light_lower_levels
+Archive 43: qbd2_area
+Archive 440: void_knight_ship_battle_cutsene
+Archive 441: senntisten_digsite
+Archive 442: senntisten_temple
+Archive 443: death_plateau_tunnel
+Archive 444: luc2_dragonkin_cutscene
+Archive 445: clan_wars_ffa_safe
+Archive 446: clan_wars_ffa_dangerouse
+Archive 447: spirit_realm_demonic_ruins
+Archive 448: spirit_realm_chaos_altar
+Archive 449: tunnel_under_ice_mountain
+Archive 44: carni_sewervariants
+Archive 450: saradomins_hidden_cave
+Archive 451: recipe_for_disaster_cave_01
+Archive 452: recipe_for_disaster_cave_02
+Archive 453: recipe_for_disaster_cave_03
+Archive 454: temple_knight_hq
+Archive 455: fishing_trawler_minigame
+Archive 456: guthix_temple_crawlspace
+Archive 457: luc2_orb_dragonkin_cutscene
+Archive 458: deadliest_catch_ocean
+Archive 459: glorious_memories_ice_cave
+Archive 45: kk_kalphite
+Archive 460: dagganoth_mothers_chamber
+Archive 461: dagganoth_hatchery
+Archive 462: dagganoth_caves
+Archive 463: blood_runs_deep_ship
+Archive 464: fremmenik_sagas_dungeons
+Archive 465: ancient_cavern_dragon_forge
+Archive 466: fairy_tale_ork_rift
+Archive 467: fairy_tale_ork_rift_entrance_01
+Archive 468: fairy_tale_ork_rift_entrance_02
+Archive 469: clockwork_syringe_ship
+Archive 46: runespan_level_1
+Archive 470: omge_burthorpe_cutscene_copy
+Archive 471: sea_battle
+Archive 472: lunar_dream_world
+Archive 473: lunar_game_of_chance
+Archive 474: lunar_communicating_with_numbers
+Archive 475: lunar_anything_you_can_do
+Archive 476: lunar_chop_away
+Archive 477: lunar_the_race_is_on
+Archive 478: lunar_boss_arena
+Archive 479: dream_boss_inadequacy
+Archive 47: runespan_level_2
+Archive 480: ame_quiz_master
+Archive 481: eagles_peak
+Archive 482: sinclair_mansion_copy
+Archive 483: recipe_for_disaster_quiz
+Archive 484: water_rune_temple_old
+Archive 485: jaldaoch_pyramid_level_3
+Archive 486: jaldaoch_pyramid_level_2
+Archive 487: jaldaoch_pyramid_level_1
+Archive 488: flash_powder_factory
+Archive 489: gnomecopter_tours
+Archive 48: runespan_level_3
+Archive 490: dwarf_rock_cutscene
+Archive 491: korasis_dream
+Archive 492: jatizso_troll_cave
+Archive 493: miscellania_cave
+Archive 494: penguin_outpost
+Archive 495: lighthouse_dungeon
+Archive 496: piscatoris_summoning_cave
+Archive 497: barbarian_agility_course_pit
+Archive 498: brimstails_home
+Archive 499: grand_tree_mine
+Archive 49: boss2_entrance_room
+Archive 4: tolna
+Archive 500: gnome_glider_hangar
+Archive 501: glarials_tomb
+Archive 502: golries_hideout
+Archive 503: skavid_cave
+Archive 504: yanille_agility_dungeon
+Archive 505: western_ardougne_sewer
+Archive 506: chaos_druid_tower_dungeon
+Archive 507: regicide_well
+Archive 508: troll_tunnels_troll_romance
+Archive 509: temple_of_ikov
+Archive 50: boss2_room_one
+Archive 510: keldagrim_entrance_tunnel
+Archive 511: fishing_guild_cave
+Archive 512: rantzs_house
+Archive 513: cairn_island_dungeon
+Archive 514: shilo_village_gem_mine
+Archive 515: enakhras_lament
+Archive 516: mob_office
+Archive 517: witchs_house_cellar
+Archive 518: melzars_maze
+Archive 519: port_sarim_rat_pits
+Archive 51: boss2_room_two
+Archive 520: ham_cave
+Archive 521: champions_arena
+Archive 522: souls_bane
+Archive 523: man_bear_cave
+Archive 524: castle_wars_underground_cave
+Archive 525: jaldaoch_pyramid_level_4
+Archive 526: shade_catacombs
+Archive 527: barrows
+Archive 528: columbarium
+Archive 529: paterdomus
+Archive 52: boss2_room_three
+Archive 530: fenkenstrains_dungeon
+Archive 531: werewolf_agility_course
+Archive 532: port_phasmatys_distillery
+Archive 533: ectofuntus
+Archive 534: meiyerditch_myreque_base
+Archive 535: burgh_de_rott_cellar
+Archive 536: citharede_abby_basement
+Archive 537: dwarf_tunnels_under_white_wolf_moutains
+Archive 538: ramarnos_forge
+Archive 539: legends_guild_dungeon
+Archive 53: boss2_room_four
+Archive 540: icthlarins_pyramid
+Archive 541: gamers_grotto
+Archive 542: draynor_sewers
+Archive 543: varrock_bank_vault
+Archive 544: asgarnia_ice_cave
+Archive 545: under_observatory
+Archive 546: mogre_underwater_cave
+Archive 547: ghorrock_fortress_dungeon_frozen
+Archive 548: ghorrock_fortress_dungeon_thawed
+Archive 549: mage_training_arena
+Archive 54: boss2_room_five
+Archive 550: genies_cave
+Archive 551: clocktower_dungeon
+Archive 552: acs_interrogation_room
+Archive 553: mos_leharmless_caves
+Archive 554: elvargs_lair
+Archive 555: artisans_workshop
+Archive 556: draynor_manor_basement
+Archive 557: pollniveach_slayer_dungeon_upper_level
+Archive 558: tomb_of_catolax
+Archive 559: scabaras_dungeon
+Archive 55: boss2_graveyard
+Archive 560: brine_rat_caverns
+Archive 561: lava_maze_dungeon
+Archive 562: deep_wilderness_dungeon
+Archive 563: wilderness_agility_course_pit
+Archive 564: jiggig_dungeon
+Archive 565: conquest
+Archive 566: jadinko_lair
+Archive 567: river_elid_cave
+Archive 568: desert_mining_camp_cave
+Archive 569: haunted_mine_level_1
+Archive 56: quest_bacon_area_eli
+Archive 570: sophanem_dungeon
+Archive 571: sophanem_cave
+Archive 572: ogre_enclave
+Archive 573: rashiliyias_tomb
+Archive 574: pothole_dungeon
+Archive 575: heroes_guild_mine
+Archive 576: ice_queens_lair
+Archive 577: black_arm_gang_hideout
+Archive 578: beneath_ibans_lair
+Archive 579: underground_path
+Archive 57: quest_bacon_pig_pen_1
+Archive 580: black_knights_catacombs
+Archive 581: chaos_temple_dungeon
+Archive 582: chaos_temple_dungeon_sewer
+Archive 583: goblin_kitchen
+Archive 584: goblin_kitchen_scorched
+Archive 585: dragontooth_shipwreck
+Archive 586: eastern_ardougne_sewer
+Archive 587: southern_ardougne_sewer
+Archive 588: agility_arena
+Archive 589: brimhaven_dungeon
+Archive 58: quest_bacon_pig_pen_2
+Archive 590: dwarven_mine
+Archive 591: smoke_dungeon
+Archive 592: edgeville_dungeon_varrock_sewers
+Archive 593: meiyerditch_tunnels
+Archive 594: harmony_islans_windmill_cellar
+Archive 595: beneath_harmony_island
+Archive 596: forinthry_dungeon
+Archive 597: kalphite_hive_upper_level
+Archive 598: kalphite_hive_middle_level
+Archive 599: kalphite_hive_lower_level
+Archive 59: quest_bacon_pig_pen_3
+Archive 5: slayer_cave
+Archive 600: kalphite_tunnel
+Archive 601: dung_kalphite_chamber
+Archive 602: kalphite_chamber
+Archive 603: eagle_eyrie_feldip
+Archive 604: eagle_eyrie_rellekka
+Archive 605: eagle_eyrie_uzer
+Archive 606: lumbridge_watermill_cellar
+Archive 607: lumbridge_goblin_mines
+Archive 608: lumbridge_swamp_caves
+Archive 609: old_wizards_tower_basement
+Archive 60: quest_bacon_pig_pen_4
+Archive 610: swensens_maze
+Archive 611: fremennik_trials_cave
+Archive 612: witchaven_dungeon_01
+Archive 613: jhallans_resting_place
+Archive 614: ritual_plateau_tunnels
+Archive 615: ape_atoll_tunnels
+Archive 616: jungle_demon_lair
+Archive 617: temple_of_marimbo_dungeon
+Archive 618: digsite_old
+Archive 619: waterfall_cave
+Archive 61: qbd1_stomach_area_01
+Archive 620: eadgars_cave
+Archive 621: tunnel_to_trollheim
+Archive 622: kharazi_caves_01
+Archive 623: kharazi_caves_02
+Archive 624: kharazi_caves_03
+Archive 625: digsite_caves_wall_up
+Archive 626: digsite_caves_wall_down
+Archive 627: elemental_workshop
+Archive 628: blue_moon_inn_cellar
+Archive 629: merlins_crystal_crate
+Archive 62: qbd1_stomach_area_02
+Archive 630: monkey_madness_escape_route
+Archive 631: family_crest_cave
+Archive 632: desert_summoning_obelisk
+Archive 633: underground_pass_pit
+Archive 634: tears_of_guthix_cavern
+Archive 635: temple_of_ikov_dark
+Archive 636: temple_of_ikov_light
+Archive 637: lunar_isle_mine
+Archive 638: tutorial_island_mine
+Archive 639: ice_troll_king_cave
+Archive 63: qbd1_stomach_area_03
+Archive 640: clans
+Archive 641: soul_wars
+Archive 642: dungeoneering_source_squares
+Archive 643: sleeping_dog_entrance1
+Archive 644: sleeping_dog_entrance2
+Archive 645: sleeping_dog_entrance3
+Archive 646: sleeping_dog_upper_dungeon
+Archive 647: sleeping_dog_lower_dungeon
+Archive 648: sleeping_dog_boss_room
+Archive 649: sleeping_dog_guthix_homeworld
+Archive 64: qbd1_siren_area
+Archive 650: mah5_cutscene_fog_area
+Archive 651: vkq2_rand_area
+Archive 652: ame_tribute_mr_mordaut
+Archive 653: ame_tribute_evil_bob
+Archive 654: omge_overcast_cutscene
+Archive 655: sliske1_citadel
+Archive 656: sliske1_citadel_post_quest
+Archive 657: barrows_graveyard
+Archive 658: myreque_hideout
+Archive 659: tpr_agility_course
+Archive 65: qbd1_music_maze_area_01
+Archive 660: tpr_lab
+Archive 661: tpr_nihil_fight
+Archive 662: tpr_peak
+Archive 663: tpr_elder_hall
+Archive 664: tpr_limbo
+Archive 665: ash1_caves
+Archive 666: ash1_sewers
+Archive 667: kalgerion_dungeon
+Archive 668: yubiusk_arena
+Archive 669: spider_boss_fight
+Archive 66: qbd1_music_maze_area_02
+Archive 670: spider_boss_graveyard
+Archive 671: tzhaar_fight_cauldron
+Archive 672: dslay_saracrypt
+Archive 673: dslay_zamocrypt
+Archive 674: elfcity_meilyr_dungeon_95
+Archive 675: elfcity_meilyr_dungeon_115
+Archive 67: qbd1_music_maze_area_03
+Archive 68: qbd1_music_maze_area_04
+Archive 69: qbd1_music_maze_area_05
+Archive 6: wilderness_dungeons
+Archive 70: qbd1_music_maze_area_06
+Archive 71: qbd1_music_maze_area_07
+Archive 72: qbd1_dreamers_cave_01
+Archive 73: qbd1_dreamers_cave_02
+Archive 74: qbd1_dreamers_cave_03
+Archive 75: qbd1_connecting_room_01
+Archive 76: qbd1_connecting_room_02
+Archive 77: qbd1_chasm
+Archive 78: qbd1_multi_room_01
+Archive 79: qbd1_multi_room_02
+Archive 7: town_lobby
+Archive 80: qbd2_dungeon_01
+Archive 81: qbd2_dungeon_02
+Archive 82: qbd2_dungeon_03
+Archive 83: qbd2_boss_arena
+Archive 84: qbd2_kerapacs_vault
+Archive 85: stolen_heart_rewards_area
+Archive 86: big_chinchompa_event_area
+Archive 87: big_chinchompa_swamp_area
+Archive 88: big_chinchompa_frost_area
+Archive 89: big_chinchompa_grassland_area_01
+Archive 8: white_wolf_mountain_underground
+Archive 90: big_chinchompa_grassland_area_02
+Archive 91: big_chinchompa_grassland_area_03
+Archive 92: ariane_shrine_room
+Archive 93: ariane_stairwell
+Archive 94: ariane_spellcasting_chamber
+Archive 95: ariane_library
+Archive 96: ariane_studies
+Archive 97: carnillean_rising_sewer
+Archive 98: carnillean_rising_sewer_instance
+Archive 99: pioneer_cave_empty
+Archive 9: sops
+</pre>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Tasks">Tasks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=9" title="Edit section: Tasks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Type</th>
+<th>Date</th>
+<th>Suject</th>
+<th>Class</th>
+<th><a href="file:///C:/RULI_DEMO/RuneLibris/Info/Abbreviations" title="Info/Abbreviations">MO?</a></th>
+<th><a href="file:///C:/RULI_DEMO/RuneLibris/Info/Abbreviations" title="Info/Abbreviations">RI</a></th>
+<th><a href="file:///C:/RULI_DEMO/RuneLibris/Info/Abbreviations" title="Info/Abbreviations">RE?</a></th>
+<th><a href="file:///C:/RULI_DEMO/RuneLibris/Info/Abbreviations" title="Info/Abbreviations">ARCD</a></th>
+<th>Notes
+</th></tr>
+<tr>
+<td><span style="display:none;">null</span>
+</td>
+<td><span style="display:none;">null</span>
+</td>
+<td>Make list of cache locations
+</td>
+<td>Research/short
+</td>
+<td><span style="display:none;">null</span>
+</td>
+<td>0
+</td>
+<td>N/A
+</td>
+<td style="background-color:#FF0000;color:black;"><span style="display: block; width:113px;">TODO</span>
+</td>
+<td><span style="display:none;">null</span>
+</td></tr>
+</tbody></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Ref1-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ref1_1-0">↑</a></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a> on 2025-06-16</span>
+</li>
+<li id="cite_note-Ref2-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ref2_2-0">2.0</a></sup> <sup><a href="#cite_ref-Ref2_2-1">2.1</a></sup></span> <span class="reference-text">Data from <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a>'s archive. It is based on intel posted by <a href="/RuneLibris/index.php?title=User:Pea2nuts&amp;action=edit&amp;redlink=1" class="new" title="User:Pea2nuts (page does not exist)">Pea2nuts</a> in this <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150426093916/http://www.rune-server.org/runescape-development/rs-503-client-server/informative-threads/568002-known-cache-information-index-contents-unhashed-filenames.html">this RuneServer thread</a> but it was modified over the years to account for new indexes. The file this verbatim is transcripted from was last edited on 2022-04-11</span>
+</li>
+<li id="cite_note-Ref3-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Ref3_3-0">3.0</a></sup> <sup><a href="#cite_ref-Ref3_3-1">3.1</a></sup> <sup><a href="#cite_ref-Ref3_3-2">3.2</a></sup> <sup><a href="#cite_ref-Ref3_3-3">3.3</a></sup></span> <span class="reference-text">Copy of intel posted by <a href="/RuneLibris/index.php?title=User:Pea2nuts&amp;action=edit&amp;redlink=1" class="new" title="User:Pea2nuts (page does not exist)">Pea2nuts</a> in <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150426093916/http://www.rune-server.org/runescape-development/rs-503-client-server/informative-threads/568002-known-cache-information-index-contents-unhashed-filenames.html">this RuneServer thread</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20250625163125
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.156 seconds
+Real time usage: 0.195 seconds
+Preprocessor visited node count: 209/1000000
+Post‐expand include size: 1155/92160000 bytes
+Template argument size: 92/92160000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 43683/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   17.559      1 Template:Task
+100.00%   17.559      1 -total
+-->
+
+<!-- Saved in parser cache with key RuneLibris:pcache:idhash:10220-0!canonical and timestamp 20250625163125 and revision id 28289
+ -->
+</div></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://localhost/RuneLibris/index.php?title=RS/Cache&amp;oldid=28289">http://localhost/RuneLibris/index.php?title=RS/Cache&amp;oldid=28289</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anontalk"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/RuneLibris/index.php?title=Special:CreateAccount&amp;returnto=RS%2FCache" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/RuneLibris/index.php?title=Special:UserLogin&amp;returnto=RS%2FCache" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="darkvectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="file:///C:/RULI_DEMO/RuneLibris/RS/Cache"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/RuneLibris/index.php?title=Talk:RS/Cache&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="darkvectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="darkvectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="file:///C:/RULI_DEMO/RuneLibris/RS/Cache" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="darkvectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/RuneLibris/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search RuneLibris" title="Search RuneLibris [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="file:///C:/RULI_DEMO/RuneLibris/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="file:///C:/RULI_DEMO/RuneLibris/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:WhatLinksHere/RS/Cache" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:RecentChangesLinked/RS/Cache" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/RuneLibris/index.php?title=RS/Cache&amp;oldid=28289" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/RuneLibris/index.php?title=RS/Cache&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <p>This page was last edited on 22 June 2025, at 18:54.
+</p><p>RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex.
+</p><p>RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited.
+</p><p>You can play RuneScape at runescape.com
+</p></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="file:///C:/RULI_DEMO/RuneLibris/RuneLibris:Privacy_policy" title="RuneLibris:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="file:///C:/RULI_DEMO/RuneLibris/RuneLibris:About" title="RuneLibris:About">About RuneLibris</a></li>
+											<li id="footer-places-disclaimer"><a href="file:///C:/RULI_DEMO/RuneLibris/RuneLibris:General_disclaimer" title="RuneLibris:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-poweredbyico">
+							<a href="https://www.mediawiki.org/"><img src="/RuneLibris/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/RuneLibris/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /RuneLibris/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.195","ppvisitednodes":{"value":209,"limit":1000000},"postexpandincludesize":{"value":1155,"limit":92160000},"templateargumentsize":{"value":92,"limit":92160000},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":43683,"limit":5000000},"timingprofile":["100.00%   17.559      1 Template:Task","100.00%   17.559      1 -total"]},"cachereport":{"timestamp":"20250625163125","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1806});});</script>
+	</body>
+</html>

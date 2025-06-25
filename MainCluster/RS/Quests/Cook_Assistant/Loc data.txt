@@ -1,0 +1,1138 @@
+{{Maploc|50,50|['Cook-at', None, None, None, None];None|[[RS/Locs/Cooking range (ID: 114)|Cooking range (ID: 114)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1282)|Dead tree (ID: 1282)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1282)|Dead tree (ID: 1282)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1282)|Dead tree (ID: 1282)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1282)|Dead tree (ID: 1282)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1282)|Dead tree (ID: 1282)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1282)|Dead tree (ID: 1282)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1286)|Dead tree (ID: 1286)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Dead tree (ID: 1383)|Dead tree (ID: 1383)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Plant (ID: 1392)|Plant (ID: 1392)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cooking Pots (ID: 5609)|Cooking Pots (ID: 5609)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cooking Pots (ID: 5610)|Cooking Pots (ID: 5610)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Chest (ID: 6910)|Chest (ID: 6910)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Scroll desk (ID: 8718)|Scroll desk (ID: 8718)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 12348)|Door (ID: 12348)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Large door (ID: 12349)|Large door (ID: 12349)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Large door (ID: 12350)|Large door (ID: 12350)]]}}
+{{Maploc|50,50|['Fill', None, None, None, None];None|[[RS/Locs/Water trough (ID: 14352)|Water trough (ID: 14352)]]}}
+{{Maploc|50,50|['Fill', None, None, None, None];None|[[RS/Locs/Water barrel (ID: 14353)|Water barrel (ID: 14353)]]}}
+{{Maploc|50,50|['Take-hammer', None, None, None, None];None|[[RS/Locs/Crate of hammers (ID: 15468)|Crate of hammers (ID: 15468)]]}}
+{{Maploc|50,50|['Search', None, None, None, None];None|[[RS/Locs/Crate (ID: 21806)|Crate (ID: 21806)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Sage's backpack (ID: 33510)|Sage's backpack (ID: 33510)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Torch (ID: 33797)|Torch (ID: 33797)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Trapdoor (ID: 36687)|Trapdoor (ID: 36687)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Statue (ID: 36749)|Statue (ID: 36749)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Statue (ID: 36750)|Statue (ID: 36750)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36768)|Ladder (ID: 36768)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36768)|Ladder (ID: 36768)]]}}
+{{Maploc|50,50|['Climb', 'Climb-up', 'Climb-down', None, None];None|[[RS/Locs/Ladder (ID: 36769)|Ladder (ID: 36769)]]}}
+{{Maploc|50,50|['Climb', 'Climb-up', 'Climb-down', None, None];None|[[RS/Locs/Ladder (ID: 36769)|Ladder (ID: 36769)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36770)|Ladder (ID: 36770)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36770)|Ladder (ID: 36770)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36771)|Ladder (ID: 36771)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36772)|Ladder (ID: 36772)]]}}
+{{Maploc|50,50|['Climb-up', 'Climb top floor', None, None, None];None|[[RS/Locs/Staircase (ID: 36773)|Staircase (ID: 36773)]]}}
+{{Maploc|50,50|['Climb', 'Climb-up', 'Climb-down', None, None];None|[[RS/Locs/Staircase (ID: 36774)|Staircase (ID: 36774)]]}}
+{{Maploc|50,50|['Climb-down', 'Climb bottom floor', None, None, None];None|[[RS/Locs/Staircase (ID: 36775)|Staircase (ID: 36775)]]}}
+{{Maploc|50,50|['Climb-up', 'Climb top floor', None, None, None];None|[[RS/Locs/Staircase (ID: 36776)|Staircase (ID: 36776)]]}}
+{{Maploc|50,50|['Climb', 'Climb-up', 'Climb-down', None, None];None|[[RS/Locs/Staircase (ID: 36777)|Staircase (ID: 36777)]]}}
+{{Maploc|50,50|['Climb-down', 'Climb bottom floor', None, None, None];None|[[RS/Locs/Staircase (ID: 36778)|Staircase (ID: 36778)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Suit of armour (ID: 36779)|Suit of armour (ID: 36779)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Suit of armour (ID: 36779)|Suit of armour (ID: 36779)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Suit of armour (ID: 36779)|Suit of armour (ID: 36779)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Suit of armour (ID: 36779)|Suit of armour (ID: 36779)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Suit of armour (ID: 36779)|Suit of armour (ID: 36779)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Suit of armour (ID: 36779)|Suit of armour (ID: 36779)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannon (ID: 36780)|Cannon (ID: 36780)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannon (ID: 36780)|Cannon (ID: 36780)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannon (ID: 36780)|Cannon (ID: 36780)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannon (ID: 36780)|Cannon (ID: 36780)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannon (ID: 36780)|Cannon (ID: 36780)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannon (ID: 36780)|Cannon (ID: 36780)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannon (ID: 36780)|Cannon (ID: 36780)]]}}
+{{Maploc|50,50|['Fill', None, None, None, None];None|[[RS/Locs/Fountain (ID: 36781)|Fountain (ID: 36781)]]}}
+{{Maploc|50,50|['Fill', None, None, None, None];None|[[RS/Locs/Fountain (ID: 36781)|Fountain (ID: 36781)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36783)|Chair (ID: 36783)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36783)|Chair (ID: 36783)]]}}
+{{Maploc|50,50|[None, 'Bank', 'Collect', None, None];None|[[RS/Locs/Bank booth (ID: 36786)|Bank booth (ID: 36786)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Closed Bank booth (ID: 36787)|Closed Bank booth (ID: 36787)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Closed Bank booth (ID: 36787)|Closed Bank booth (ID: 36787)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Closed Bank booth (ID: 36787)|Closed Bank booth (ID: 36787)]]}}
+{{Maploc|50,50|['Deposit', 'Deposit-All', None, None, None];None|[[RS/Locs/Bank deposit box (ID: 36788)|Bank deposit box (ID: 36788)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bank table (ID: 36789)|Bank table (ID: 36789)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannonballs (ID: 36790)|Cannonballs (ID: 36790)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannonballs (ID: 36790)|Cannonballs (ID: 36790)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannonballs (ID: 36790)|Cannonballs (ID: 36790)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannonballs (ID: 36790)|Cannonballs (ID: 36790)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cannonballs (ID: 36790)|Cannonballs (ID: 36790)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 36798)|Barrel (ID: 36798)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 36798)|Barrel (ID: 36798)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 36798)|Barrel (ID: 36798)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 36798)|Barrel (ID: 36798)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 36803)|Painting (ID: 36803)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 36804)|Painting (ID: 36804)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 36805)|Painting (ID: 36805)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36809)|Hanging tapestry (ID: 36809)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36809)|Hanging tapestry (ID: 36809)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36809)|Hanging tapestry (ID: 36809)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36809)|Hanging tapestry (ID: 36809)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36809)|Hanging tapestry (ID: 36809)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 36811)|Painting (ID: 36811)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 36814)|Painting (ID: 36814)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Fireplace (ID: 36815)|Fireplace (ID: 36815)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Axe cabinet (ID: 36817)|Axe cabinet (ID: 36817)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Axe cabinet (ID: 36817)|Axe cabinet (ID: 36817)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Sword cabinet (ID: 36818)|Sword cabinet (ID: 36818)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Table (ID: 36821)|Table (ID: 36821)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Large table (ID: 36822)|Large table (ID: 36822)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Shelves (ID: 36829)|Shelves (ID: 36829)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36830)|Chair (ID: 36830)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36830)|Chair (ID: 36830)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 36831)|Chair (ID: 36831)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 36837)|Stool (ID: 36837)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 36837)|Stool (ID: 36837)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 36844)|Door (ID: 36844)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 36846)|Door (ID: 36846)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 36846)|Door (ID: 36846)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 36908)|Wardrobe (ID: 36908)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 36908)|Wardrobe (ID: 36908)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 36908)|Wardrobe (ID: 36908)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 36908)|Wardrobe (ID: 36908)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Table (ID: 36910)|Table (ID: 36910)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging tapestry (ID: 36923)|Hanging tapestry (ID: 36923)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36924)|Standard (ID: 36924)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36924)|Standard (ID: 36924)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36925)|Standard (ID: 36925)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36925)|Standard (ID: 36925)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36926)|Standard (ID: 36926)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36926)|Standard (ID: 36926)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36926)|Standard (ID: 36926)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Standard (ID: 36926)|Standard (ID: 36926)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wooden defence (ID: 36928)|Wooden defence (ID: 36928)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bust (ID: 36938)|Bust (ID: 36938)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bust (ID: 36938)|Bust (ID: 36938)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bust (ID: 36939)|Bust (ID: 36939)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bust (ID: 36939)|Bust (ID: 36939)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bust (ID: 36940)|Bust (ID: 36940)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bust (ID: 36940)|Bust (ID: 36940)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bust (ID: 36940)|Bust (ID: 36940)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 36941)|Bed (ID: 36941)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 36943)|Bed (ID: 36943)]]}}
+{{Maploc|50,50|[None, 'Spin', None, None, None];None|[[RS/Locs/Spinning wheel (ID: 36970)|Spinning wheel (ID: 36970)]]}}
+{{Maploc|50,50|['Fill', None, None, None, None];None|[[RS/Locs/Sink (ID: 36971)|Sink (ID: 36971)]]}}
+{{Maploc|50,50|['Ring', None, None, None, None];None|[[RS/Locs/Bell (ID: 36976)|Bell (ID: 36976)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36985)|Ladder (ID: 36985)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36987)|Ladder (ID: 36987)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36988)|Ladder (ID: 36988)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36989)|Ladder (ID: 36989)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36990)|Ladder (ID: 36990)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 36991)|Ladder (ID: 36991)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Church door (ID: 36999)|Church door (ID: 36999)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Church door (ID: 37002)|Church door (ID: 37002)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 37007)|Candle (ID: 37007)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 37007)|Candle (ID: 37007)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 37007)|Candle (ID: 37007)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Organ (ID: 37008)|Organ (ID: 37008)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Closed chest (ID: 37009)|Closed chest (ID: 37009)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 37011)|Drawers (ID: 37011)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 37011)|Drawers (ID: 37011)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 37011)|Drawers (ID: 37011)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 37015)|Crate (ID: 37015)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 37015)|Crate (ID: 37015)]]}}
+{{Maploc|50,50|['Raise', None, None, None, None];None|[[RS/Locs/Flag (ID: 37335)|Flag (ID: 37335)]]}}
+{{Maploc|50,50|['Operate', None, None, None, None];None|[[RS/Locs/Winch (ID: 37336)|Winch (ID: 37336)]]}}
+{{Maploc|50,50|['Operate', None, None, None, None];None|[[RS/Locs/Winch (ID: 37336)|Winch (ID: 37336)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chart table (ID: 37672)|Chart table (ID: 37672)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 38424)|Painting (ID: 38424)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Willow (ID: 38616)|Willow (ID: 38616)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Willow (ID: 38717)|Willow (ID: 38717)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Yew (ID: 38755)|Yew (ID: 38755)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38782)|Tree (ID: 38782)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38784)|Tree (ID: 38784)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38785)|Tree (ID: 38785)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,50|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree (ID: 38789)|Tree (ID: 38789)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree (ID: 38795)|Tree (ID: 38795)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree (ID: 39097)|Tree (ID: 39097)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree (ID: 40312)|Tree (ID: 40312)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree (ID: 40318)|Tree (ID: 40318)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree (ID: 40347)|Tree (ID: 40347)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree (ID: 40348)|Tree (ID: 40348)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Tree stump (ID: 40351)|Tree stump (ID: 40351)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Sign (ID: 45179)|Sign (ID: 45179)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Sign (ID: 45180)|Sign (ID: 45180)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45229)|Bed (ID: 45229)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Table (ID: 45234)|Table (ID: 45234)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Table (ID: 45234)|Table (ID: 45234)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Table (ID: 45234)|Table (ID: 45234)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Table (ID: 45234)|Table (ID: 45234)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Table (ID: 45234)|Table (ID: 45234)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Counter (ID: 45238)|Counter (ID: 45238)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Workbench (ID: 45239)|Workbench (ID: 45239)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Workbench (ID: 45240)|Workbench (ID: 45240)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,50|['Search', None, None, None, None];None|[[RS/Locs/Bookcase (ID: 45247)|Bookcase (ID: 45247)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Shelves (ID: 45248)|Shelves (ID: 45248)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Shelves (ID: 45248)|Shelves (ID: 45248)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Shelves (ID: 45248)|Shelves (ID: 45248)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Shelves (ID: 45249)|Shelves (ID: 45249)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Shelves (ID: 45249)|Shelves (ID: 45249)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Cooking shelf (ID: 45253)|Cooking shelf (ID: 45253)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 45258)|Painting (ID: 45258)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 45258)|Painting (ID: 45258)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 45258)|Painting (ID: 45258)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 45259)|Painting (ID: 45259)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 45259)|Painting (ID: 45259)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Painting (ID: 45259)|Painting (ID: 45259)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging banner (ID: 45260)|Hanging banner (ID: 45260)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging banner (ID: 45261)|Hanging banner (ID: 45261)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging banner (ID: 45261)|Hanging banner (ID: 45261)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Display axe (ID: 45262)|Display axe (ID: 45262)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Display axes (ID: 45263)|Display axes (ID: 45263)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Display axes (ID: 45264)|Display axes (ID: 45264)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45270)|Candles (ID: 45270)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45270)|Candles (ID: 45270)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45270)|Candles (ID: 45270)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45270)|Candles (ID: 45270)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45270)|Candles (ID: 45270)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45270)|Candles (ID: 45270)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45272)|Candle (ID: 45272)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45272)|Candle (ID: 45272)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45273)|Candle (ID: 45273)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45273)|Candle (ID: 45273)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45273)|Candle (ID: 45273)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45274)|Candles (ID: 45274)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45274)|Candles (ID: 45274)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45274)|Candles (ID: 45274)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45277)|Candles (ID: 45277)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45277)|Candles (ID: 45277)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Candles (ID: 45277)|Candles (ID: 45277)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45283)|Barrel (ID: 45283)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45285)|Barrel (ID: 45285)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel (ID: 45285)|Barrel (ID: 45285)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Barrel of swords (ID: 45286)|Barrel of swords (ID: 45286)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Broken stool (ID: 45290)|Broken stool (ID: 45290)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Broken table (ID: 45292)|Broken table (ID: 45292)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Broken ladder (ID: 45293)|Broken ladder (ID: 45293)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Grandfather clock (ID: 45295)|Grandfather clock (ID: 45295)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Grandfather clock (ID: 45295)|Grandfather clock (ID: 45295)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Grandfather clock (ID: 45295)|Grandfather clock (ID: 45295)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Grandfather clock (ID: 45295)|Grandfather clock (ID: 45295)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stepladder (ID: 45296)|Stepladder (ID: 45296)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Big vase (ID: 45297)|Big vase (ID: 45297)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Spitroast (ID: 45313)|Spitroast (ID: 45313)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Roasting chicken (ID: 45314)|Roasting chicken (ID: 45314)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Goblin cook (ID: 45315)|Goblin cook (ID: 45315)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Stove (ID: 45316)|Stove (ID: 45316)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging meat (ID: 45317)|Hanging meat (ID: 45317)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging meat (ID: 45317)|Hanging meat (ID: 45317)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Hanging meat (ID: 45318)|Hanging meat (ID: 45318)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Smithing tools (ID: 45320)|Smithing tools (ID: 45320)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Smithing tools (ID: 45321)|Smithing tools (ID: 45321)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Smithing tools (ID: 45322)|Smithing tools (ID: 45322)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,50|['Close', None, None, None, None];None|[[RS/Locs/Door (ID: 45477)|Door (ID: 45477)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45481)|Stairs (ID: 45481)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45481)|Stairs (ID: 45481)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45482)|Stairs (ID: 45482)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45482)|Stairs (ID: 45482)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45483)|Stairs (ID: 45483)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45483)|Stairs (ID: 45483)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45483)|Stairs (ID: 45483)]]}}
+{{Maploc|50,50|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45483)|Stairs (ID: 45483)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45484)|Stairs (ID: 45484)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45484)|Stairs (ID: 45484)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45484)|Stairs (ID: 45484)]]}}
+{{Maploc|50,50|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45484)|Stairs (ID: 45484)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Leaflets (ID: 45504)|Leaflets (ID: 45504)]]}}
+{{Maploc|50,50|['Open', None, None, None, None];None|[[RS/Locs/Trapdoor (ID: 45800)|Trapdoor (ID: 45800)]]}}
+{{Maploc|50,50|['Search', None, None, None, None];None|[[RS/Locs/Boxes (ID: 46237)|Boxes (ID: 46237)]]}}
+{{Maploc|50,50|['Search', None, None, None, None];None|[[RS/Locs/Bookcase (ID: 49101)|Bookcase (ID: 49101)]]}}
+{{Maploc|50,50|['Read', None, None, None, None];None|[[RS/Locs/Clan Cup plaque (ID: 55301)|Clan Cup plaque (ID: 55301)]]}}
+{{Maploc|50,50|[None, 'Steal from', None, None, None];None|[[RS/Locs/Bakery Stall (ID: 66692)|Bakery Stall (ID: 66692)]]}}
+{{Maploc|50,50|[None, 'Steal from', None, None, None];None|[[RS/Locs/Wine Stall (ID: 66694)|Wine Stall (ID: 66694)]]}}
+{{Maploc|50,50|[None, 'Steal from', None, None, None];None|[[RS/Locs/Vegetable Stalls (ID: 66696)|Vegetable Stalls (ID: 66696)]]}}
+{{Maploc|50,50|[None, 'Steal from', None, None, None];None|[[RS/Locs/Vegetable Stalls (ID: 66696)|Vegetable Stalls (ID: 66696)]]}}
+{{Maploc|50,50|[None, 'Steal from', None, None, None];None|[[RS/Locs/Seed Stall (ID: 66698)|Seed Stall (ID: 66698)]]}}
+{{Maploc|50,50|[None, 'Steal from', None, None, None];None|[[RS/Locs/Seed Stall (ID: 66698)|Seed Stall (ID: 66698)]]}}
+{{Maploc|50,50|[None, 'Steal from', None, None, None];None|[[RS/Locs/Crafting Stall (ID: 66700)|Crafting Stall (ID: 66700)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Supplies (ID: 66736)|Supplies (ID: 66736)]]}}
+{{Maploc|50,50|['North:', None, None, None, None];None|[[RS/Locs/Lumbridge farms (ID: 69782)|Lumbridge farms (ID: 69782)]]}}
+{{Maploc|50,50|['South:', None, None, None, None];None|[[RS/Locs/Lumbridge Castle (ID: 69783)|Lumbridge Castle (ID: 69783)]]}}
+{{Maploc|50,50|['West:', None, None, None, None];None|[[RS/Locs/Draynor (ID: 69784)|Draynor (ID: 69784)]]}}
+{{Maploc|50,50|['East:', None, None, None, None];None|[[RS/Locs/Al Kharid (ID: 69785)|Al Kharid (ID: 69785)]]}}
+{{Maploc|50,50|['South:', None, None, None, None];None|[[RS/Locs/Graveyard and swamp, Daemonheim (via boat) (ID: 69786)|Graveyard and swamp, Daemonheim (via boat) (ID: 69786)]]}}
+{{Maploc|50,50|['South-west:', None, None, None, None];None|[[RS/Locs/Lumbridge Castle (ID: 69787)|Lumbridge Castle (ID: 69787)]]}}
+{{Maploc|50,50|['North-west:', None, None, None, None];None|[[RS/Locs/Lumbridge farms (ID: 69788)|Lumbridge farms (ID: 69788)]]}}
+{{Maploc|50,50|['North:', None, None, None, None];None|[[RS/Locs/Varrock (ID: 69789)|Varrock (ID: 69789)]]}}
+{{Maploc|50,50|['East:', None, None, None, None];None|[[RS/Locs/Al Kharid (ID: 69790)|Al Kharid (ID: 69790)]]}}
+{{Maploc|50,50|['West:', None, None, None, None];None|[[RS/Locs/Lumbridge Castle (ID: 69791)|Lumbridge Castle (ID: 69791)]]}}
+{{Maploc|50,50|['Use', None, 'Collect', None, None];None|[[RS/Locs/Bank chest (ID: 79036)|Bank chest (ID: 79036)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Lectern (ID: 85128)|Lectern (ID: 85128)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crow (ID: 89475)|Crow (ID: 89475)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crow (ID: 89477)|Crow (ID: 89477)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Crow (ID: 89477)|Crow (ID: 89477)]]}}
+{{Maploc|50,50|None;None|[[RS/Locs/Yew (ID: 95045)|Yew (ID: 95045)]]}}
+{{Maploc|50,50|['Smith', 'Deposit-all (into metal bank)', 'Withdraw-all (from metal bank)', 'Open smithing interface', None];None|[[RS/Locs/Anvil (ID: 113258)|Anvil (ID: 113258)]]}}
+{{Maploc|50,50|['Heat', 'Deposit-all (into metal bank)', 'Withdraw-all (from metal bank)', 'Open smithing interface', None];None|[[RS/Locs/Forge (ID: 113259)|Forge (ID: 113259)]]}}
+{{Maploc|50,50|['Smelt', 'Deposit-all (into metal bank)', 'Withdraw-all (from metal bank)', None, None];None|[[RS/Locs/Furnace (ID: 113261)|Furnace (ID: 113261)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Potato (ID: 312)|Potato (ID: 312)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Flower (ID: 1187)|Flower (ID: 1187)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Flower (ID: 1187)|Flower (ID: 1187)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Fern (ID: 1299)|Fern (ID: 1299)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Fern (ID: 1299)|Fern (ID: 1299)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Fern (ID: 1299)|Fern (ID: 1299)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Fern (ID: 1300)|Fern (ID: 1300)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1392)|Plant (ID: 1392)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1392)|Plant (ID: 1392)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1392)|Plant (ID: 1392)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1392)|Plant (ID: 1392)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1392)|Plant (ID: 1392)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plant (ID: 1394)|Plant (ID: 1394)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Scarecrow (ID: 2170)|Scarecrow (ID: 2170)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Onion (ID: 3366)|Onion (ID: 3366)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Dry stone wall (ID: 5569)|Dry stone wall (ID: 5569)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Dry stone wall (ID: 5569)|Dry stone wall (ID: 5569)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sack (ID: 5574)|Sack (ID: 5574)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sack (ID: 5574)|Sack (ID: 5574)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Wheelbarrow (ID: 5580)|Wheelbarrow (ID: 5580)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Rock (ID: 5605)|Rock (ID: 5605)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Cooking Pots (ID: 5610)|Cooking Pots (ID: 5610)]]}}
+{{Maploc|50,51|['Milk', None, None, None, None];[None, 'Steal-cowbell', None, None, None]|[[RS/Locs/Dairy cow (ID: 8689)|Dairy cow (ID: 8689)]]}}
+{{Maploc|50,51|['Milk', None, None, None, None];[None, 'Steal-cowbell', None, None, None]|[[RS/Locs/Dairy cow (ID: 8689)|Dairy cow (ID: 8689)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Crate (ID: 15704)|Crate (ID: 15704)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Crate (ID: 15704)|Crate (ID: 15704)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Crate (ID: 15704)|Crate (ID: 15704)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Crate (ID: 15704)|Crate (ID: 15704)]]}}
+{{Maploc|50,51|['Read', None, None, None, None];None|[[RS/Locs/Signpost (ID: 31297)|Signpost (ID: 31297)]]}}
+{{Maploc|50,51|['Churn', None, None, None, None];None|[[RS/Locs/Dairy churn (ID: 35931)|Dairy churn (ID: 35931)]]}}
+{{Maploc|50,51|['Churn', None, None, None, None];None|[[RS/Locs/Dairy churn (ID: 35931)|Dairy churn (ID: 35931)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 36829)|Shelves (ID: 36829)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Water wheel (ID: 36867)|Water wheel (ID: 36867)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Water wheel (ID: 36868)|Water wheel (ID: 36868)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Water wheel (ID: 36869)|Water wheel (ID: 36869)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Water wheel (ID: 36871)|Water wheel (ID: 36871)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Log pile (ID: 36882)|Log pile (ID: 36882)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Log pile (ID: 36882)|Log pile (ID: 36882)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bale (ID: 36893)|Hay bale (ID: 36893)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36895)|Hay bales (ID: 36895)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36895)|Hay bales (ID: 36895)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36897)|Hay bales (ID: 36897)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36897)|Hay bales (ID: 36897)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36904)|Sack of animal feed (ID: 36904)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Bench (ID: 36905)|Bench (ID: 36905)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Standard (ID: 36924)|Standard (ID: 36924)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Standard (ID: 36924)|Standard (ID: 36924)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Standard (ID: 36924)|Standard (ID: 36924)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Standard (ID: 36924)|Standard (ID: 36924)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Sacks (ID: 36929)|Sacks (ID: 36929)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Coop (ID: 36951)|Coop (ID: 36951)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Coop (ID: 36952)|Coop (ID: 36952)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Coop (ID: 36953)|Coop (ID: 36953)]]}}
+{{Maploc|50,51|['Take-hatchet', None, None, None, None];None|[[RS/Locs/Logs (ID: 36974)|Logs (ID: 36974)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Closed chest (ID: 37009)|Closed chest (ID: 37009)]]}}
+{{Maploc|50,51|[None, 'Search', 'Shut', None, None];None|[[RS/Locs/Open chest (ID: 37010)|Open chest (ID: 37010)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Willow (ID: 38616)|Willow (ID: 38616)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Willow (ID: 38616)|Willow (ID: 38616)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Willow (ID: 38616)|Willow (ID: 38616)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Willow (ID: 38717)|Willow (ID: 38717)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Willow (ID: 38717)|Willow (ID: 38717)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Willow (ID: 38717)|Willow (ID: 38717)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 38791)|Tree (ID: 38791)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 39097)|Tree (ID: 39097)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 39097)|Tree (ID: 39097)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 39121)|Tree (ID: 39121)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 39121)|Tree (ID: 39121)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 39121)|Tree (ID: 39121)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40196)|Tree (ID: 40196)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40295)|Tree (ID: 40295)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40295)|Tree (ID: 40295)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40295)|Tree (ID: 40295)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40347)|Tree (ID: 40347)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40347)|Tree (ID: 40347)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40348)|Tree (ID: 40348)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tree (ID: 40348)|Tree (ID: 40348)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45206)|Gate (ID: 45206)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45206)|Gate (ID: 45206)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45206)|Gate (ID: 45206)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45208)|Gate (ID: 45208)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45208)|Gate (ID: 45208)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45208)|Gate (ID: 45208)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45210)|Gate (ID: 45210)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45210)|Gate (ID: 45210)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45210)|Gate (ID: 45210)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45212)|Gate (ID: 45212)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45212)|Gate (ID: 45212)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45212)|Gate (ID: 45212)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Bed (ID: 45229)|Bed (ID: 45229)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Bed (ID: 45229)|Bed (ID: 45229)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Bed (ID: 45229)|Bed (ID: 45229)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Bed (ID: 45230)|Bed (ID: 45230)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Large table (ID: 45233)|Large table (ID: 45233)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Table (ID: 45234)|Table (ID: 45234)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Table (ID: 45234)|Table (ID: 45234)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Stool (ID: 45241)|Stool (ID: 45241)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Chair (ID: 45242)|Chair (ID: 45242)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Drawers (ID: 45243)|Drawers (ID: 45243)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Wardrobe (ID: 45245)|Wardrobe (ID: 45245)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Bookcase (ID: 45247)|Bookcase (ID: 45247)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Bookcase (ID: 45247)|Bookcase (ID: 45247)]]}}
+{{Maploc|50,51|['Search', None, None, None, None];None|[[RS/Locs/Bookcase (ID: 45247)|Bookcase (ID: 45247)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45248)|Shelves (ID: 45248)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45248)|Shelves (ID: 45248)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45249)|Shelves (ID: 45249)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45249)|Shelves (ID: 45249)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45249)|Shelves (ID: 45249)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45250)|Shelves (ID: 45250)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45250)|Shelves (ID: 45250)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45251)|Shelves (ID: 45251)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45251)|Shelves (ID: 45251)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Cooking shelf (ID: 45253)|Cooking shelf (ID: 45253)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Cooking shelf (ID: 45253)|Cooking shelf (ID: 45253)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Shelves (ID: 45254)|Shelves (ID: 45254)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Painting (ID: 45258)|Painting (ID: 45258)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Painting (ID: 45258)|Painting (ID: 45258)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Painting (ID: 45258)|Painting (ID: 45258)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Painting (ID: 45258)|Painting (ID: 45258)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Painting (ID: 45259)|Painting (ID: 45259)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Painting (ID: 45259)|Painting (ID: 45259)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Lantern (ID: 45269)|Lantern (ID: 45269)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45272)|Candle (ID: 45272)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45273)|Candle (ID: 45273)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45273)|Candle (ID: 45273)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45273)|Candle (ID: 45273)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45273)|Candle (ID: 45273)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candles (ID: 45274)|Candles (ID: 45274)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candles (ID: 45274)|Candles (ID: 45274)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45275)|Candle (ID: 45275)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candle (ID: 45276)|Candle (ID: 45276)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Candles (ID: 45277)|Candles (ID: 45277)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Barrel (ID: 45282)|Barrel (ID: 45282)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Grandfather clock (ID: 45295)|Grandfather clock (ID: 45295)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Grandfather clock (ID: 45295)|Grandfather clock (ID: 45295)]]}}
+{{Maploc|50,51|['Fill', None, None, None, None];None|[[RS/Locs/Sink (ID: 45299)|Sink (ID: 45299)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Stove (ID: 45316)|Stove (ID: 45316)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45476)|Door (ID: 45476)]]}}
+{{Maploc|50,51|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45481)|Stairs (ID: 45481)]]}}
+{{Maploc|50,51|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45482)|Stairs (ID: 45482)]]}}
+{{Maploc|50,51|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45483)|Stairs (ID: 45483)]]}}
+{{Maploc|50,51|['Climb-up', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45483)|Stairs (ID: 45483)]]}}
+{{Maploc|50,51|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45484)|Stairs (ID: 45484)]]}}
+{{Maploc|50,51|['Climb-down', None, None, None, None];None|[[RS/Locs/Stairs (ID: 45484)|Stairs (ID: 45484)]]}}
+{{Maploc|50,51|['Fill', None, None, None, None];None|[[RS/Locs/Water barrel (ID: 46015)|Water barrel (ID: 46015)]]}}
+{{Maploc|50,51|['Fill', None, None, None, None];None|[[RS/Locs/Water barrel (ID: 46019)|Water barrel (ID: 46019)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Weather vane (ID: 46020)|Weather vane (ID: 46020)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Wheelbarrow (ID: 46021)|Wheelbarrow (ID: 46021)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Mushroom (ID: 46428)|Mushroom (ID: 46428)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Mushroom (ID: 46428)|Mushroom (ID: 46428)]]}}
+{{Maploc|50,51|['Milk', None, None, None, None];[None, 'Steal-cowbell', None, None, None]|[[RS/Locs/Prized dairy cow (ID: 47721)|Prized dairy cow (ID: 47721)]]}}
+{{Maploc|50,51|['Enter', None, None, None, None];None|[[RS/Locs/Trapdoor (ID: 52309)|Trapdoor (ID: 52309)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Plough (ID: 59430)|Plough (ID: 59430)]]}}
+{{Maploc|50,51|[None, 'Steal from', None, None, None];None|[[RS/Locs/Bakery Stall (ID: 66692)|Bakery Stall (ID: 66692)]]}}
+{{Maploc|50,51|[None, 'Steal from', None, None, None];None|[[RS/Locs/Wine Stall (ID: 66694)|Wine Stall (ID: 66694)]]}}
+{{Maploc|50,51|[None, 'Steal from', None, None, None];None|[[RS/Locs/Crafting Stall (ID: 66700)|Crafting Stall (ID: 66700)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Rocks (ID: 75513)|Rocks (ID: 75513)]]}}
+{{Maploc|50,51|None;None|[[RS/Locs/Tool box (ID: 81980)|Tool box (ID: 81980)]]}}
+{{Maploc|50,51|['Fill', None, None, None, None];None|[[RS/Locs/Water barrel (ID: 95604)|Water barrel (ID: 95604)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Food trough (ID: 301)|Food trough (ID: 301)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Cabbage (ID: 1161)|Cabbage (ID: 1161)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 1162)|Bullrushes (ID: 1162)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 1162)|Bullrushes (ID: 1162)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Thistle (ID: 1174)|Thistle (ID: 1174)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Waterlily (ID: 1175)|Waterlily (ID: 1175)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Waterlily (ID: 1176)|Waterlily (ID: 1176)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Waterlily (ID: 1176)|Waterlily (ID: 1176)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Waterlily (ID: 1177)|Waterlily (ID: 1177)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Plant (ID: 1391)|Plant (ID: 1391)]]}}
+{{Maploc|49,51|['Operate', None, None, None, None];None|[[RS/Locs/Hopper controls (ID: 2718)|Hopper controls (ID: 2718)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5539)|Bullrushes (ID: 5539)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5539)|Bullrushes (ID: 5539)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5539)|Bullrushes (ID: 5539)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5539)|Bullrushes (ID: 5539)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5539)|Bullrushes (ID: 5539)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5540)|Bullrushes (ID: 5540)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5540)|Bullrushes (ID: 5540)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5540)|Bullrushes (ID: 5540)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5540)|Bullrushes (ID: 5540)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5540)|Bullrushes (ID: 5540)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5540)|Bullrushes (ID: 5540)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5541)|Bullrushes (ID: 5541)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5542)|Bullrushes (ID: 5542)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5542)|Bullrushes (ID: 5542)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5542)|Bullrushes (ID: 5542)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Bullrushes (ID: 5542)|Bullrushes (ID: 5542)]]}}
+{{Maploc|49,51|['Milk', None, None, None, None];[None, 'Steal-cowbell', None, None, None]|[[RS/Locs/Dairy cow (ID: 8689)|Dairy cow (ID: 8689)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15506)|Wheat (ID: 15506)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15507)|Wheat (ID: 15507)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15508)|Wheat (ID: 15508)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15508)|Wheat (ID: 15508)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15508)|Wheat (ID: 15508)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15508)|Wheat (ID: 15508)]]}}
+{{Maploc|49,51|[None, 'Pick', None, None, None];None|[[RS/Locs/Wheat (ID: 15508)|Wheat (ID: 15508)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Crate (ID: 21806)|Crate (ID: 21806)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Wagon (ID: 30016)|Wagon (ID: 30016)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/ (ID: 33253)| (ID: 33253)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/ (ID: 33253)| (ID: 33253)]]}}
+{{Maploc|49,51|['Climb-up', 'Climb-top', None, None, None];None|[[RS/Locs/Ladder (ID: 36795)|Ladder (ID: 36795)]]}}
+{{Maploc|49,51|['Climb', 'Climb-up', 'Climb-down', None, None];None|[[RS/Locs/Ladder (ID: 36796)|Ladder (ID: 36796)]]}}
+{{Maploc|49,51|['Climb-down', 'Climb-bottom', None, None, None];None|[[RS/Locs/Ladder (ID: 36797)|Ladder (ID: 36797)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Mill (ID: 36874)|Mill (ID: 36874)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Mill (ID: 36877)|Mill (ID: 36877)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Food trough (ID: 36884)|Food trough (ID: 36884)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Food trough (ID: 36884)|Food trough (ID: 36884)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Trough (ID: 36885)|Trough (ID: 36885)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Trough (ID: 36887)|Trough (ID: 36887)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bale (ID: 36892)|Hay bale (ID: 36892)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bale (ID: 36892)|Hay bale (ID: 36892)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bale (ID: 36892)|Hay bale (ID: 36892)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bale (ID: 36892)|Hay bale (ID: 36892)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bale (ID: 36892)|Hay bale (ID: 36892)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36894)|Hay bales (ID: 36894)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36896)|Hay bales (ID: 36896)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36896)|Hay bales (ID: 36896)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36896)|Hay bales (ID: 36896)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36897)|Hay bales (ID: 36897)]]}}
+{{Maploc|49,51|['Search', None, None, None, None];None|[[RS/Locs/Hay bales (ID: 36898)|Hay bales (ID: 36898)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 36903)|Sack of animal feed (ID: 36903)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Willow (ID: 38616)|Willow (ID: 38616)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Willow (ID: 38616)|Willow (ID: 38616)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Willow (ID: 38616)|Willow (ID: 38616)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Willow (ID: 38717)|Willow (ID: 38717)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Willow (ID: 38717)|Willow (ID: 38717)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Willow (ID: 38717)|Willow (ID: 38717)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38731)|Oak (ID: 38731)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38731)|Oak (ID: 38731)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38731)|Oak (ID: 38731)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38731)|Oak (ID: 38731)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38731)|Oak (ID: 38731)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Oak (ID: 38732)|Oak (ID: 38732)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Oak (ID: 38736)|Oak (ID: 38736)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Oak (ID: 38736)|Oak (ID: 38736)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Oak (ID: 38736)|Oak (ID: 38736)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Oak (ID: 38736)|Oak (ID: 38736)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Oak (ID: 38736)|Oak (ID: 38736)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Oak (ID: 38739)|Oak (ID: 38739)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Yew (ID: 38755)|Yew (ID: 38755)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Yew (ID: 38755)|Yew (ID: 38755)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Yew (ID: 38755)|Yew (ID: 38755)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Yew (ID: 38758)|Yew (ID: 38758)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Yew (ID: 38758)|Yew (ID: 38758)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Yew (ID: 38758)|Yew (ID: 38758)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38760)|Tree (ID: 38760)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38782)|Tree (ID: 38782)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38783)|Tree (ID: 38783)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38785)|Tree (ID: 38785)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38785)|Tree (ID: 38785)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38785)|Tree (ID: 38785)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38786)|Tree (ID: 38786)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38787)|Tree (ID: 38787)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38788)|Tree (ID: 38788)]]}}
+{{Maploc|49,51|['Chop down', None, None, None, None];None|[[RS/Locs/Tree (ID: 38788)|Tree (ID: 38788)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 38789)|Tree (ID: 38789)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 38795)|Tree (ID: 38795)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 38795)|Tree (ID: 38795)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 38795)|Tree (ID: 38795)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 38795)|Tree (ID: 38795)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 39097)|Tree (ID: 39097)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 39097)|Tree (ID: 39097)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 39137)|Tree (ID: 39137)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 39137)|Tree (ID: 39137)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 39137)|Tree (ID: 39137)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40303)|Tree (ID: 40303)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40303)|Tree (ID: 40303)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40303)|Tree (ID: 40303)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40303)|Tree (ID: 40303)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40303)|Tree (ID: 40303)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40303)|Tree (ID: 40303)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40303)|Tree (ID: 40303)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40313)|Tree (ID: 40313)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40313)|Tree (ID: 40313)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree (ID: 40347)|Tree (ID: 40347)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Tree stump (ID: 40350)|Tree stump (ID: 40350)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Mushroom (ID: 40415)|Mushroom (ID: 40415)]]}}
+{{Maploc|49,51|['Climb over', None, None, None, None];None|[[RS/Locs/Stile (ID: 45205)|Stile (ID: 45205)]]}}
+{{Maploc|49,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45210)|Gate (ID: 45210)]]}}
+{{Maploc|49,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45210)|Gate (ID: 45210)]]}}
+{{Maploc|49,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45212)|Gate (ID: 45212)]]}}
+{{Maploc|49,51|['Open', None, None, None, None];None|[[RS/Locs/Gate (ID: 45212)|Gate (ID: 45212)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Table (ID: 45235)|Table (ID: 45235)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Crate (ID: 45278)|Crate (ID: 45278)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Crate (ID: 45280)|Crate (ID: 45280)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sacks (ID: 45287)|Sacks (ID: 45287)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Food trough (ID: 45325)|Food trough (ID: 45325)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sack of animal feed (ID: 45503)|Sack of animal feed (ID: 45503)]]}}
+{{Maploc|49,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45964)|Door (ID: 45964)]]}}
+{{Maploc|49,51|['Open', None, None, None, None];None|[[RS/Locs/Door (ID: 45966)|Door (ID: 45966)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Sails (ID: 46009)|Sails (ID: 46009)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Mushroom (ID: 46428)|Mushroom (ID: 46428)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Mushroom (ID: 46428)|Mushroom (ID: 46428)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Mushroom (ID: 46428)|Mushroom (ID: 46428)]]}}
+{{Maploc|49,51|None;None|[[RS/Locs/Fallen tree (ID: 49213)|Fallen tree (ID: 49213)]]}}
+{{Maploc|49,51|None;['Climb-up', None, None, None, None]|[[RS/Locs/Ladder (ID: 52833)|Ladder (ID: 52833)]]}}
+{{Maploc|49,51|['Climb-down', None, None, None, None];None|[[RS/Locs/Ladder (ID: 52834)|Ladder (ID: 52834)]]}}
+{{Maploc|49,51|['North:', None, None, None, None];None|[[RS/Locs/Varrock (ID: 69776)|Varrock (ID: 69776)]]}}
+{{Maploc|49,51|['West:', None, None, None, None];None|[[RS/Locs/Lumbridge mill (ID: 69778)|Lumbridge mill (ID: 69778)]]}}
+{{Maploc|49,51|['East:', None, None, None, None];None|[[RS/Locs/Lumbridge (ID: 69780)|Lumbridge (ID: 69780)]]}}
+{{Maploc|49,51|['Investigate', None, None, None, None];None|[[RS/Locs/Hopper (ID: 70034)|Hopper (ID: 70034)]]}}
+{{Maploc|49,51|['Mine', None, None, 'Prospect', None];None|[[RS/Locs/Clay rock (ID: 113032)|Clay rock (ID: 113032)]]}}
+{{Maploc|49,51|['Mine', None, None, 'Prospect', None];None|[[RS/Locs/Clay rock (ID: 113033)|Clay rock (ID: 113033)]]}}
+{{Maploc|49,51|['Mine', None, None, 'Prospect', None];None|[[RS/Locs/Clay rock (ID: 113034)|Clay rock (ID: 113034)]]}}

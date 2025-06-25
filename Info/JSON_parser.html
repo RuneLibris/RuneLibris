@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
-<meta charset="UTF-8"/><link rel="stylesheet" href="https://runelibris.github.io/RuneLibris/Styles/style.css">
+<meta charset="UTF-8"/><link rel="stylesheet" href="file:///C:/RULI_DEMO/RuneLibris/Styles/style.css">
 <title>Info/JSON parser - RuneLibris</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d65c46ef71049af6bb4a519d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Info/JSON_parser","wgTitle":"Info/JSON parser","wgCurRevisionId":26770,"wgRevisionId":26770,"wgArticleId":9988,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Info/JSON_parser","wgRelevantArticleId":9988,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready"
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ddc4b54e55a975989d2dc56f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Info/JSON_parser","wgTitle":"Info/JSON parser","wgCurRevisionId":28265,"wgRevisionId":28265,"wgArticleId":9988,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Info/JSON_parser","wgRelevantArticleId":9988,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready"
 ,"user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.skinning.interface":"ready","skins.darkvector.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","ext.gadget.checkboxList","skins.darkvector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -12,7 +12,7 @@
 <meta name="generator" content="MediaWiki 1.35.5"/>
 <link rel="alternate" type="application/x-wiki" title="Edit" href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit"/>
 <link rel="edit" title="Edit" href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit"/>
-<link rel="icon" type="image/x-icon" href="https://runelibris.github.io/RuneLibris/Styles/icon.ico">
+<link rel="icon" type="image/x-icon" href="file:///R:/Xampp/htdocs/RuneLibris/Styles/icon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="/RuneLibris/opensearch_desc.php" title="RuneLibris (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="http://localhost/RuneLibris/api.php?action=rsd"/>
 <link rel="alternate" type="application/atom+xml" title="RuneLibris Atom feed" href="/RuneLibris/index.php?title=Special:RecentChanges&amp;feed=atom"/>
@@ -37,13 +37,18 @@
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Usage"><span class="tocnumber">2</span> <span class="toctext">Usage</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Archives"><span class="tocnumber">3</span> <span class="toctext">Archives</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Trouble_shotting"><span class="tocnumber">3</span> <span class="toctext">Trouble shotting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Invalid_JSON_format"><span class="tocnumber">3.1</span> <span class="toctext">Invalid JSON format</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Archives"><span class="tocnumber">4</span> <span class="toctext">Archives</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
 
 <h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><b>JSON parser</b> is a <a href="/RuneLibris/index.php?title=Info/Python&amp;action=edit&amp;redlink=1" class="new" title="Info/Python (page does not exist)">Python</a> script generated by <a rel="nofollow" class="external text" href="https://myninja.ai">MyNinja.ai</a> and tweaked by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a>. It is useful to extract data from large .json files that some <a href="https://runelibris.github.io/RuneLibris/Aspects/Cache" title="Aspects/Cache">cache</a> tools output. It accounts for empty json entries<sup id="cite_ref-Ref1_1-0" class="reference"><a href="#cite_note-Ref1-1">&#91;1&#93;</a></sup>.
+<p><b>JSON parser</b> is a <a href="/RuneLibris/index.php?title=Info/Python&amp;action=edit&amp;redlink=1" class="new" title="Info/Python (page does not exist)">Python</a> script generated by <a rel="nofollow" class="external text" href="https://myninja.ai">MyNinja.ai</a> and tweaked by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a>. It is useful to extract data from large .json files that some <a href="file:///C:/RULI_DEMO/RuneLibris/Aspects/Cache" title="Aspects/Cache">cache</a> tools output. It accounts for empty json entries<sup id="cite_ref-Ref1_1-0" class="reference"><a href="#cite_note-Ref1-1">&#91;1&#93;</a></sup>.
 </p>
 <h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=2" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <p>Usage of the script as follow<sup id="cite_ref-Ref2_2-0" class="reference"><a href="#cite_note-Ref2-2">&#91;2&#93;</a></sup>:
@@ -51,43 +56,53 @@
 <ul><li>Replace <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">data.json</span> with the json file you want to parse</li>
 <li>Run <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">parser.py</span> in CMD</li>
 <li>Data will be outputted in <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">output.txt</span></li></ul>
-<h2><span class="mw-headline" id="Archives">Archives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=3" title="Edit section: Archives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="https://runelibris.github.io/RuneLibris/MainCluster/Info/JSON_parser/json_parser.7z">The script in question (includes an example json file)</a><sup id="cite_ref-Ref3_3-0" class="reference"><a href="#cite_note-Ref3-3">&#91;3&#93;</a></sup></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Trouble_shotting">Trouble shotting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=3" title="Edit section: Trouble shotting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Invalid_JSON_format">Invalid JSON format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=4" title="Edit section: Invalid JSON format">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If you get the error <span class="RSFont" style="color:#929298; font-family: &#39;Noto Sans&#39;, sans-serif; width: max-content; font-size:9pt; background:#1C1B22; display: inline-block; padding:2px 7px; text-align: left; border-radius:1.5px;&#32;;">Invalid JSON format</span>, ensure that the json file is structured like this<sup id="cite_ref-Ref4_3-0" class="reference"><a href="#cite_note-Ref4-3">&#91;3&#93;</a></sup>:
+</p>
+<pre>{"$schema":".schema-objects_batch.json","files":[
+(Json data here)
+]}
+</pre>
+<h2><span class="mw-headline" id="Archives">Archives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=5" title="Edit section: Archives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="file:///C:/RULI_DEMO/RuneLibris/MainCluster/Info/JSON_parser/json_parser.7z">The script in question (includes an example json file)</a><sup id="cite_ref-Ref3_4-0" class="reference"><a href="#cite_note-Ref3-4">&#91;4&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-Ref1-1"><span class="mw-cite-backlink"><a href="#cite_ref-Ref1_1-0">↑</a></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a> on 2025-05-12</span>
 </li>
 <li id="cite_note-Ref2-2"><span class="mw-cite-backlink"><a href="#cite_ref-Ref2_2-0">↑</a></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a> on 2025-05-12</span>
 </li>
-<li id="cite_note-Ref3-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ref3_3-0">↑</a></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a> on 2025-05-12</span>
+<li id="cite_note-Ref4-3"><span class="mw-cite-backlink"><a href="#cite_ref-Ref4_3-0">↑</a></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a> on 2025-06-20</span>
+</li>
+<li id="cite_note-Ref3-4"><span class="mw-cite-backlink"><a href="#cite_ref-Ref3_4-0">↑</a></span> <span class="reference-text">Data directly entered in RuneLibris by <a href="/RuneLibris/index.php?title=User:Manpaint&amp;action=edit&amp;redlink=1" class="new" title="User:Manpaint (page does not exist)">manpaint</a> on 2025-05-12</span>
 </li>
 </ol></div>
 <!-- 
 NewPP limit report
-Cached time: 20250614180021
+Cached time: 20250625162821
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.125 seconds
-Real time usage: 0.159 seconds
-Preprocessor visited node count: 113/1000000
-Post‐expand include size: 1081/92160000 bytes
-Template argument size: 28/92160000 bytes
+CPU time usage: 0.094 seconds
+Real time usage: 0.155 seconds
+Preprocessor visited node count: 156/1000000
+Post‐expand include size: 1451/92160000 bytes
+Template argument size: 47/92160000 bytes
 Highest expansion depth: 5/40
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 285/5000000 bytes
+Unstrip post‐expand size: 462/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   34.870      1 -total
- 97.98%   34.165      3 Template:Text
+100.00%   38.130      1 -total
+ 97.49%   37.174      4 Template:Text
 -->
 
-<!-- Saved in parser cache with key RuneLibris:pcache:idhash:9988-0!canonical and timestamp 20250614180021 and revision id 26770
+<!-- Saved in parser cache with key RuneLibris:pcache:idhash:9988-0!canonical and timestamp 20250625162821 and revision id 28265
  -->
 </div></div>					<div class="printfooter">
-						Retrieved from "<a dir="ltr" href="http://localhost/RuneLibris/index.php?title=Info/JSON_parser&amp;oldid=26770">http://localhost/RuneLibris/index.php?title=Info/JSON_parser&amp;oldid=26770</a>"					</div>
+						Retrieved from "<a dir="ltr" href="http://localhost/RuneLibris/index.php?title=Info/JSON_parser&amp;oldid=28265">http://localhost/RuneLibris/index.php?title=Info/JSON_parser&amp;oldid=28265</a>"					</div>
 				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
 							</div>
 		</div>
@@ -98,13 +113,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anontalk"><a href="https://runelibris.github.io/RuneLibris/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="https://runelibris.github.io/RuneLibris/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/RuneLibris/index.php?title=Special:CreateAccount&amp;returnto=Info%2FJSON+parser" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/RuneLibris/index.php?title=Special:UserLogin&amp;returnto=Info%2FJSON+parser" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anontalk"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/RuneLibris/index.php?title=Special:CreateAccount&amp;returnto=Info%2FJSON+parser" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/RuneLibris/index.php?title=Special:UserLogin&amp;returnto=Info%2FJSON+parser" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="darkvectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-															<li  id="ca-nstab-main" class="selected"><span><a href="https://runelibris.github.io/RuneLibris/Info/JSON_parser"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-nstab-main" class="selected"><span><a href="file:///C:/RULI_DEMO/RuneLibris/Info/JSON_parser"  title="View the content page [c]" accesskey="c">Page</a></span></li>
 															<li  id="ca-talk" class="new"><span><a href="/RuneLibris/index.php?title=Talk:Info/JSON_parser&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
 													</ul>
 					</div>
@@ -123,7 +138,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="darkvectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-															<li id="ca-view" class="selected"><span><a href="https://runelibris.github.io/RuneLibris/Info/JSON_parser" >Read</a></span></li>
+															<li id="ca-view" class="selected"><span><a href="file:///C:/RULI_DEMO/RuneLibris/Info/JSON_parser" >Read</a></span></li>
 															<li id="ca-edit"><span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
 															<li id="ca-history" class="collapsible"><span><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
 													</ul>
@@ -149,13 +164,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									</div>
 			</div>
 			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="https://runelibris.github.io/RuneLibris/Main_Page"  title="Visit the main page"></a></div>
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="file:///C:/RULI_DEMO/RuneLibris/Main_Page"  title="Visit the main page"></a></div>
 						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
 			<h3 id='p-navigation-label'>Navigation</h3>
 
 			<div class="body">
 									<ul>
-						<li id="n-mainpage-description"><a href="https://runelibris.github.io/RuneLibris/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="https://runelibris.github.io/RuneLibris/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="https://runelibris.github.io/RuneLibris/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>					</ul>
+						<li id="n-mainpage-description"><a href="file:///C:/RULI_DEMO/RuneLibris/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>					</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
@@ -163,23 +178,23 @@ Transclusion expansion time report (%,ms,calls,template)
 
 			<div class="body">
 									<ul>
-						<li id="t-whatlinkshere"><a href="https://runelibris.github.io/RuneLibris/Special:WhatLinksHere/Info/JSON_parser" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="https://runelibris.github.io/RuneLibris/Special:RecentChangesLinked/Info/JSON_parser" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="https://runelibris.github.io/RuneLibris/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;oldid=26770" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+						<li id="t-whatlinkshere"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:WhatLinksHere/Info/JSON_parser" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:RecentChangesLinked/Info/JSON_parser" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="file:///C:/RULI_DEMO/RuneLibris/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;oldid=28265" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/RuneLibris/index.php?title=Info/JSON_parser&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
 							</div>
 		</div>
 				</div>
 		</div>
 		<div id="footer" role="contentinfo">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> <p>This page was last edited on 19 May 2025, at 16:39.
+											<li id="footer-info-lastmod"> <p>This page was last edited on 20 June 2025, at 20:14.
 </p><p>RuneLibris is a project of the RuneScape Preservation Unit, data on this website is for informational, archival and educational purposes only and is copyrighted by Jagex.
 </p><p>RuneScape, Old School RuneScape, RuneScape Classic and DarkScape are the trademarks of Jagex Limited.
 </p><p>You can play RuneScape at runescape.com
 </p></li>
 									</ul>
 							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="https://runelibris.github.io/RuneLibris/RuneLibris:Privacy_policy" title="RuneLibris:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="https://runelibris.github.io/RuneLibris/RuneLibris:About" title="RuneLibris:About">About RuneLibris</a></li>
-											<li id="footer-places-disclaimer"><a href="https://runelibris.github.io/RuneLibris/RuneLibris:General_disclaimer" title="RuneLibris:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-privacy"><a href="file:///C:/RULI_DEMO/RuneLibris/RuneLibris:Privacy_policy" title="RuneLibris:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="file:///C:/RULI_DEMO/RuneLibris/RuneLibris:About" title="RuneLibris:About">About RuneLibris</a></li>
+											<li id="footer-places-disclaimer"><a href="file:///C:/RULI_DEMO/RuneLibris/RuneLibris:General_disclaimer" title="RuneLibris:General disclaimer">Disclaimers</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 											<li id="footer-poweredbyico">
@@ -188,6 +203,6 @@ Transclusion expansion time report (%,ms,calls,template)
 						<div style="clear:both"></div>
 		</div>
 		
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.125","walltime":"0.159","ppvisitednodes":{"value":113,"limit":1000000},"postexpandincludesize":{"value":1081,"limit":92160000},"templateargumentsize":{"value":28,"limit":92160000},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":285,"limit":5000000},"timingprofile":["100.00%   34.870      1 -total"," 97.98%   34.165      3 Template:Text"]},"cachereport":{"timestamp":"20250614180021","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1928});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.094","walltime":"0.155","ppvisitednodes":{"value":156,"limit":1000000},"postexpandincludesize":{"value":1451,"limit":92160000},"templateargumentsize":{"value":47,"limit":92160000},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":462,"limit":5000000},"timingprofile":["100.00%   38.130      1 -total"," 97.49%   37.174      4 Template:Text"]},"cachereport":{"timestamp":"20250625162821","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":2095});});</script>
 	</body>
 </html>

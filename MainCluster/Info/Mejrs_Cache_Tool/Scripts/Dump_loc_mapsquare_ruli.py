@@ -43,5 +43,5 @@ for loc in locations:
 		#orig: print("|",position,"|",loc.i,"|",loc.j,"|",loc.id,"|",name,"|",actions,"|")
 		#print("*",loc.i,loc.j + ";" + actions + ";" + member_actions + "[[RS/Locs/" + "(ID: " + loc.id + ")]]")
 		#print(f"*{loc.i},{loc.j};{actions};{member_actions};[[RS/Locs/{name} (ID: {loc.id})|{name} (ID: {loc.id})]]")
-		print(f"{{{{Maploc|{loc.i},{loc.j}|{actions};{member_actions}|[[RS/Locs/{name} (ID: {loc.id})|{name} (ID: {loc.id})]]}}}}")
+		print(f"{{{{Maploc|{loc.i},{loc.j}|{actions};{member_actions}|[[RS/Locs/{name} (ID: {loc.id})|{name} (ID {loc.id})]]}}}}")
 		#print("*[[RS/Locs/",name," (ID:",loc.id,")]] (",loc.i,",",loc.j,"," || ",actions,"||",member_actions,")")
