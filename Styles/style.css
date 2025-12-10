@@ -130,7 +130,7 @@ body {
 
  
  .warningbox {
-  background-color: #fef6e7;
+  background-color: #FEE7EB;
   border-color: #fc3;
 }
 
@@ -146,7 +146,7 @@ body {
   box-sizing: border-box;
   margin-bottom: 16px;
   border: 1px solid;
-  border-color: #FFCC33;
+  border-color: #FF3341;
   padding: 0px 24px;
   word-wrap: break-word;
   overflow-wrap: break-word;
